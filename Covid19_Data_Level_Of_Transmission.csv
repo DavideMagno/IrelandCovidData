@@ -1,0 +1,188 @@
+"","Date","Key","Value"
+"1",2020-04-18,"Community transmission",2346
+"2",2020-04-18,"Possible community transmission",4460
+"3",2020-04-18,"Local transmission",3482
+"4",2020-04-18,"Possible local transmission",244
+"5",2020-04-18,"Travel abroad",340
+"6",2020-04-18,"Possible travel abroad",161
+"7",2020-04-18,"Unknown",4152
+"8",2020-04-17,"Community transmission",2310
+"9",2020-04-17,"Possible community transmission",4363
+"10",2020-04-17,"Local transmission",3176
+"11",2020-04-17,"Possible local transmission",216
+"12",2020-04-17,"Travel abroad",340
+"13",2020-04-17,"Possible travel abroad",159
+"14",2020-04-17,"Unknown",4038
+"15",2020-04-16,"Community transmission",2235
+"16",2020-04-16,"Possible community transmission",2906
+"17",2020-04-16,"Local transmission",4085
+"18",2020-04-16,"Possible local transmission",182
+"19",2020-04-16,"Travel abroad",156
+"20",2020-04-16,"Possible travel abroad",340
+"21",2020-04-16,"Unknown",3842
+"22",2020-04-15,"Community transmission",2184
+"23",2020-04-15,"Possible community transmission",2681
+"24",2020-04-15,"Local transmission",3768
+"25",2020-04-15,"Possible local transmission",143
+"26",2020-04-15,"Travel abroad",151
+"27",2020-04-15,"Possible travel abroad",338
+"28",2020-04-15,"Unknown",3747
+"29",2020-04-14,"Community transmission",2090
+"30",2020-04-14,"Possible community transmission",2399
+"31",2020-04-14,"Local transmission",3622
+"32",2020-04-14,"Possible local transmission",134
+"33",2020-04-14,"Travel abroad",144
+"34",2020-04-14,"Possible travel abroad",336
+"35",2020-04-14,"Unknown",3700
+"36",2020-04-13,"Community transmission",1961
+"37",2020-04-13,"Possible community transmission",2127
+"38",2020-04-13,"Local transmission",3222
+"39",2020-04-13,"Possible local transmission",96
+"40",2020-04-13,"Travel abroad",139
+"41",2020-04-13,"Possible travel abroad",335
+"42",2020-04-13,"Unknown",3381
+"43",2020-04-11,"Community transmission",1665
+"44",2020-04-11,"Possible community transmission",2722
+"45",2020-04-11,"Local transmission",1705
+"46",2020-04-11,"Possible local transmission",87
+"47",2020-04-11,"Travel abroad",331
+"48",2020-04-11,"Possible travel abroad",117
+"49",2020-04-11,"Unknown",2857
+"50",2020-04-10,"Community transmission",1610
+"51",2020-04-10,"Possible community transmission",2398
+"52",2020-04-10,"Local transmission",1509
+"53",2020-04-10,"Possible local transmission",79
+"54",2020-04-10,"Travel abroad",330
+"55",2020-04-10,"Possible travel abroad",117
+"56",2020-04-10,"Unknown",2453
+"57",2020-04-09,"Community transmission",1523
+"58",2020-04-09,"Possible community transmission",2162
+"59",2020-04-09,"Local transmission",1406
+"60",2020-04-09,"Possible local transmission",64
+"61",2020-04-09,"Travel abroad",330
+"62",2020-04-09,"Possible travel abroad",116
+"63",2020-04-09,"Unknown",2183
+"64",2020-04-08,"Community transmission",1452
+"65",2020-04-08,"Possible community transmission",1987
+"66",2020-04-08,"Local transmission",1258
+"67",2020-04-08,"Possible local transmission",52
+"68",2020-04-08,"Travel abroad",326
+"69",2020-04-08,"Possible travel abroad",115
+"70",2020-04-08,"Unknown",1881
+"71",2020-04-07,"Community transmission",1381
+"72",2020-04-07,"Possible community transmission",1759
+"73",2020-04-07,"Local transmission",1113
+"74",2020-04-07,"Possible local transmission",37
+"75",2020-04-07,"Travel abroad",324
+"76",2020-04-07,"Possible travel abroad",110
+"77",2020-04-07,"Unknown",1720
+"78",2020-04-06,"Community transmission",1243
+"79",2020-04-06,"Possible community transmission",1672
+"80",2020-04-06,"Local transmission",963
+"81",2020-04-06,"Possible local transmission",33
+"82",2020-04-06,"Travel abroad",323
+"83",2020-04-06,"Possible travel abroad",101
+"84",2020-04-06,"Unknown",1646
+"85",2020-04-05,"Community transmission",1081
+"86",2020-04-05,"Possible community transmission",1597
+"87",2020-04-05,"Local transmission",856
+"88",2020-04-05,"Possible local transmission",35
+"89",2020-04-05,"Travel abroad",314
+"90",2020-04-05,"Possible travel abroad",92
+"91",2020-04-05,"Unknown",1618
+"92",2020-04-04,"Community transmission",1028
+"93",2020-04-04,"Possible community transmission",1222
+"94",2020-04-04,"Local transmission",765
+"95",2020-04-04,"Possible local transmission",31
+"96",2020-04-04,"Travel abroad",321
+"97",2020-04-04,"Possible travel abroad",89
+"98",2020-04-04,"Unknown",1460
+"99",2020-04-03,"Community transmission",981
+"100",2020-04-03,"Possible community transmission",996
+"101",2020-04-03,"Local transmission",720
+"102",2020-04-03,"Possible local transmission",30
+"103",2020-04-03,"Travel abroad",311
+"104",2020-04-03,"Possible travel abroad",88
+"105",2020-04-03,"Unknown",1317
+"106",2020-04-02,"Community transmission",947
+"107",2020-04-02,"Possible community transmission",793
+"108",2020-04-02,"Local transmission",657
+"109",2020-04-02,"Possible local transmission",29
+"110",2020-04-02,"Travel abroad",311
+"111",2020-04-02,"Possible travel abroad",84
+"112",2020-04-02,"Unknown",1193
+"113",2020-04-01,"Community transmission",865
+"114",2020-04-01,"Possible community transmission",668
+"115",2020-04-01,"Local transmission",561
+"116",2020-04-01,"Possible local transmission",20
+"117",2020-04-01,"Travel abroad",311
+"118",2020-04-01,"Possible travel abroad",79
+"119",2020-04-01,"Unknown",1151
+"120",2020-03-31,"Community transmission",791
+"121",2020-03-31,"Possible community transmission",516
+"122",2020-03-31,"Local transmission",497
+"123",2020-03-31,"Possible local transmission",17
+"124",2020-03-31,"Travel abroad",307
+"125",2020-03-31,"Possible travel abroad",77
+"126",2020-03-31,"Unknown",1077
+"127",2020-03-30,"Community transmission",732
+"128",2020-03-30,"Possible community transmission",519
+"129",2020-03-30,"Local transmission",414
+"130",2020-03-30,"Possible local transmission",27
+"131",2020-03-30,"Travel abroad",303
+"132",2020-03-30,"Possible travel abroad",74
+"133",2020-03-30,"Unknown",921
+"134",2020-03-29,"Community transmission",598
+"135",2020-03-29,"Possible community transmission",55
+"136",2020-03-29,"Local transmission",331
+"137",2020-03-29,"Possible local transmission",3
+"138",2020-03-29,"Travel abroad",294
+"139",2020-03-29,"Unknown",1396
+"140",2020-03-28,"Community transmission",536
+"141",2020-03-28,"Possible community transmission",51
+"142",2020-03-28,"Local transmission",305
+"143",2020-03-28,"Possible local transmission",7
+"144",2020-03-28,"Travel abroad",275
+"145",2020-03-28,"Unknown",1301
+"146",2020-03-27,"Community transmission",497
+"147",2020-03-27,"Possible community transmission",49
+"148",2020-03-27,"Local transmission",254
+"149",2020-03-27,"Possible local transmission",6
+"150",2020-03-27,"Travel abroad",262
+"151",2020-03-27,"Unknown",1148
+"152",2020-03-26,"Community transmission",476
+"153",2020-03-26,"Possible community transmission",42
+"154",2020-03-26,"Local transmission",220
+"155",2020-03-26,"Possible local transmission",5
+"156",2020-03-26,"Travel abroad",253
+"157",2020-03-26,"Unknown",908
+"158",2020-03-25,"Community transmission",452
+"159",2020-03-25,"Possible community transmission",36
+"160",2020-03-25,"Local transmission",201
+"161",2020-03-25,"Possible local transmission",1
+"162",2020-03-25,"Travel abroad",239
+"163",2020-03-25,"Unknown",710
+"164",2020-03-24,"Community transmission",391
+"165",2020-03-24,"Possible community transmission",32
+"166",2020-03-24,"Local transmission",182
+"167",2020-03-24,"Travel abroad",226
+"168",2020-03-24,"Unknown",552
+"169",2020-03-24,"outlined in Appendix",1
+"170",2020-03-23,"Community transmission",340
+"171",2020-03-23,"Possible community transmission",30
+"172",2020-03-23,"Local transmission",176
+"173",2020-03-23,"Travel abroad",210
+"174",2020-03-23,"Unknown",408
+"175",2020-03-23,"outlined in Appendix",1
+"176",2020-03-22,"Community transmission",285
+"177",2020-03-22,"Possible community transmission",27
+"178",2020-03-22,"Local transmission",151
+"179",2020-03-22,"Possible local transmission",3
+"180",2020-03-22,"Travel abroad",200
+"181",2020-03-22,"Unknown",299
+"182",2020-03-21,"Community transmission",238
+"183",2020-03-21,"Possible community transmission",26
+"184",2020-03-21,"Local transmission",136
+"185",2020-03-21,"Possible local transmission",0
+"186",2020-03-21,"Travel abroad",183
+"187",2020-03-21,"Unknown",253
