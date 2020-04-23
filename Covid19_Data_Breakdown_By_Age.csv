@@ -1,697 +1,937 @@
-"","Date","HSE area","Key","Value"
-"1",2020-04-18,"HSE East","Foreign travel",78
-"2",2020-04-18,"HSE East","No Foreign travel",2266
-"3",2020-04-18,"HSE East","Not specified",112
-"4",2020-04-18,"HSE Midlands","Foreign travel",7
-"5",2020-04-18,"HSE Midlands","No Foreign travel",169
-"6",2020-04-18,"HSE Midlands","Not specified",66
-"7",2020-04-18,"HSE Mid-West","Foreign travel",15
-"8",2020-04-18,"HSE Mid-West","No Foreign travel",75
-"9",2020-04-18,"HSE Mid-West","Not specified",99
-"10",2020-04-18,"HSE North-East","Foreign travel",5
-"11",2020-04-18,"HSE North-East","No Foreign travel",20
-"12",2020-04-18,"HSE North-East","Not specified",354
-"13",2020-04-18,"HSE North-West","Foreign travel",8
-"14",2020-04-18,"HSE North-West","No Foreign travel",71
-"15",2020-04-18,"HSE North-West","Not specified",76
-"16",2020-04-18,"HSE South-East","Foreign travel",5
-"17",2020-04-18,"HSE South-East","No Foreign travel",3
-"18",2020-04-18,"HSE South-East","Not specified",166
-"19",2020-04-18,"HSE South","Foreign travel",19
-"20",2020-04-18,"HSE South","No Foreign travel",106
-"21",2020-04-18,"HSE South","Not specified",108
-"22",2020-04-18,"HSE West","Foreign travel",7
-"23",2020-04-18,"HSE West","No Foreign travel",86
-"24",2020-04-18,"HSE West","Not specified",88
-"25",2020-04-17,"HSE East","Foreign travel",77
-"26",2020-04-17,"HSE East","No Foreign travel",2116
-"27",2020-04-17,"HSE East","Not specified",111
-"28",2020-04-17,"HSE Midlands","Foreign travel",7
-"29",2020-04-17,"HSE Midlands","No Foreign travel",159
-"30",2020-04-17,"HSE Midlands","Not specified",66
-"31",2020-04-17,"HSE Mid-West","Foreign travel",15
-"32",2020-04-17,"HSE Mid-West","No Foreign travel",75
-"33",2020-04-17,"HSE Mid-West","Not specified",99
-"34",2020-04-17,"HSE North-East","Foreign travel",4
-"35",2020-04-17,"HSE North-East","No Foreign travel",20
-"36",2020-04-17,"HSE North-East","Not specified",314
-"37",2020-04-17,"HSE North-West","Foreign travel",8
-"38",2020-04-17,"HSE North-West","No Foreign travel",71
-"39",2020-04-17,"HSE North-West","Not specified",72
-"40",2020-04-17,"HSE South-East","Foreign travel",5
-"41",2020-04-17,"HSE South-East","No Foreign travel",3
-"42",2020-04-17,"HSE South-East","Not specified",160
-"43",2020-04-17,"HSE South","Foreign travel",19
-"44",2020-04-17,"HSE South","No Foreign travel",106
-"45",2020-04-17,"HSE South","Not specified",102
-"46",2020-04-17,"HSE West","Foreign travel",7
-"47",2020-04-17,"HSE West","No Foreign travel",85
-"48",2020-04-17,"HSE West","Not specified",87
-"49",2020-04-16,"HSE East","Foreign travel",77
-"50",2020-04-16,"HSE East","No Foreign travel",1988
-"51",2020-04-16,"HSE East","Not specified",108
-"52",2020-04-16,"HSE Midlands","Foreign travel",7
-"53",2020-04-16,"HSE Midlands","No Foreign travel",145
-"54",2020-04-16,"HSE Midlands","Not specified",63
-"55",2020-04-16,"HSE Mid-West","Foreign travel",15
-"56",2020-04-16,"HSE Mid-West","No Foreign travel",75
-"57",2020-04-16,"HSE Mid-West","Not specified",99
-"58",2020-04-16,"HSE North-East","Foreign travel",4
-"59",2020-04-16,"HSE North-East","No Foreign travel",18
-"60",2020-04-16,"HSE North-East","Not specified",295
-"61",2020-04-16,"HSE North-West","Foreign travel",8
-"62",2020-04-16,"HSE North-West","No Foreign travel",67
-"63",2020-04-16,"HSE North-West","Not specified",57
-"64",2020-04-16,"HSE South-East","Foreign travel",5
-"65",2020-04-16,"HSE South-East","No Foreign travel",3
-"66",2020-04-16,"HSE South-East","Not specified",148
-"67",2020-04-16,"HSE South","Foreign travel",19
-"68",2020-04-16,"HSE South","No Foreign travel",105
-"69",2020-04-16,"HSE South","Not specified",90
-"70",2020-04-16,"HSE West","Foreign travel",7
-"71",2020-04-16,"HSE West","No Foreign travel",85
-"72",2020-04-16,"HSE West","Not specified",85
-"73",2020-04-15,"HSE East","Foreign travel",76
-"74",2020-04-15,"HSE East","No Foreign travel",1862
-"75",2020-04-15,"HSE East","Not specified",105
-"76",2020-04-15,"HSE Midlands","Foreign travel",7
-"77",2020-04-15,"HSE Midlands","No Foreign travel",133
-"78",2020-04-15,"HSE Midlands","Not specified",56
-"79",2020-04-15,"HSE Mid-West","Foreign travel",14
-"80",2020-04-15,"HSE Mid-West","No Foreign travel",71
-"81",2020-04-15,"HSE Mid-West","Not specified",93
-"82",2020-04-15,"HSE North-East","Foreign travel",4
-"83",2020-04-15,"HSE North-East","No Foreign travel",17
-"84",2020-04-15,"HSE North-East","Not specified",260
-"85",2020-04-15,"HSE North-West","Foreign travel",8
-"86",2020-04-15,"HSE North-West","No Foreign travel",56
-"87",2020-04-15,"HSE North-West","Not specified",58
-"88",2020-04-15,"HSE South-East","Foreign travel",5
-"89",2020-04-15,"HSE South-East","No Foreign travel",3
-"90",2020-04-15,"HSE South-East","Not specified",136
-"91",2020-04-15,"HSE South","Foreign travel",21
-"92",2020-04-15,"HSE South","No Foreign travel",104
-"93",2020-04-15,"HSE South","Not specified",81
-"94",2020-04-15,"HSE West","Foreign travel",7
-"95",2020-04-15,"HSE West","No Foreign travel",85
-"96",2020-04-15,"HSE West","Not specified",85
-"97",2020-04-14,"HSE East","Foreign travel",72
-"98",2020-04-14,"HSE East","No Foreign travel",1732
-"99",2020-04-14,"HSE East","Not specified",102
-"100",2020-04-14,"HSE Midlands","Foreign travel",6
-"101",2020-04-14,"HSE Midlands","No Foreign travel",128
-"102",2020-04-14,"HSE Midlands","Not specified",56
-"103",2020-04-14,"HSE Mid-West","Foreign travel",13
-"104",2020-04-14,"HSE Mid-West","No Foreign travel",67
-"105",2020-04-14,"HSE Mid-West","Not specified",80
-"106",2020-04-14,"HSE North-East","Foreign travel",3
-"107",2020-04-14,"HSE North-East","No Foreign travel",17
-"108",2020-04-14,"HSE North-East","Not specified",183
-"109",2020-04-14,"HSE North-West","Foreign travel",8
-"110",2020-04-14,"HSE North-West","No Foreign travel",53
-"111",2020-04-14,"HSE North-West","Not specified",55
-"112",2020-04-14,"HSE South-East","Foreign travel",5
-"113",2020-04-14,"HSE South-East","No Foreign travel",3
-"114",2020-04-14,"HSE South-East","Not specified",132
-"115",2020-04-14,"HSE South","Foreign travel",21
-"116",2020-04-14,"HSE South","No Foreign travel",104
-"117",2020-04-14,"HSE South","Not specified",79
-"118",2020-04-14,"HSE West","Foreign travel",7
-"119",2020-04-14,"HSE West","No Foreign travel",84
-"120",2020-04-14,"HSE West","Not specified",80
-"121",2020-04-13,"HSE East","Foreign travel",72
-"122",2020-04-13,"HSE East","No Foreign travel",1614
-"123",2020-04-13,"HSE East","Not specified",81
-"124",2020-04-13,"HSE Midlands","Foreign travel",6
-"125",2020-04-13,"HSE Midlands","No Foreign travel",120
-"126",2020-04-13,"HSE Midlands","Not specified",51
-"127",2020-04-13,"HSE Mid-West","Foreign travel",13
-"128",2020-04-13,"HSE Mid-West","No Foreign travel",66
-"129",2020-04-13,"HSE Mid-West","Not specified",64
-"130",2020-04-13,"HSE North-East","Foreign travel",3
-"131",2020-04-13,"HSE North-East","No Foreign travel",17
-"132",2020-04-13,"HSE North-East","Not specified",154
-"133",2020-04-13,"HSE North-West","Foreign travel",8
-"134",2020-04-13,"HSE North-West","No Foreign travel",40
-"135",2020-04-13,"HSE North-West","Not specified",57
-"136",2020-04-13,"HSE South-East","Foreign travel",5
-"137",2020-04-13,"HSE South-East","No Foreign travel",3
-"138",2020-04-13,"HSE South-East","Not specified",129
-"139",2020-04-13,"HSE South","Foreign travel",21
-"140",2020-04-13,"HSE South","No Foreign travel",104
-"141",2020-04-13,"HSE South","Not specified",79
-"142",2020-04-13,"HSE West","Foreign travel",7
-"143",2020-04-13,"HSE West","No Foreign travel",80
-"144",2020-04-13,"HSE West","Not specified",78
-"145",2020-04-12,"HSE East","Foreign travel",69
-"146",2020-04-12,"HSE East","No Foreign travel",1529
-"147",2020-04-12,"HSE East","Not specified",71
-"148",2020-04-12,"HSE Midlands","Foreign travel",6
-"149",2020-04-12,"HSE Midlands","No Foreign travel",113
-"150",2020-04-12,"HSE Midlands","Not specified",52
-"151",2020-04-12,"HSE Mid-West","Foreign travel",12
-"152",2020-04-12,"HSE Mid-West","No Foreign travel",60
-"153",2020-04-12,"HSE Mid-West","Not specified",53
-"154",2020-04-12,"HSE North-East","Foreign travel",2
-"155",2020-04-12,"HSE North-East","No Foreign travel",17
-"156",2020-04-12,"HSE North-East","Not specified",145
-"157",2020-04-12,"HSE North-West","Foreign travel",8
-"158",2020-04-12,"HSE North-West","No Foreign travel",31
-"159",2020-04-12,"HSE North-West","Not specified",54
-"160",2020-04-12,"HSE South-East","Foreign travel",5
-"161",2020-04-12,"HSE South-East","No Foreign travel",3
-"162",2020-04-12,"HSE South-East","Not specified",116
-"163",2020-04-12,"HSE South","Foreign travel",21
-"164",2020-04-12,"HSE South","No Foreign travel",104
-"165",2020-04-12,"HSE South","Not specified",77
-"166",2020-04-12,"HSE West","Foreign travel",7
-"167",2020-04-12,"HSE West","No Foreign travel",74
-"168",2020-04-12,"HSE West","Not specified",78
-"169",2020-04-11,"HSE East","Foreign travel",68
-"170",2020-04-11,"HSE East","No Foreign travel",1370
-"171",2020-04-11,"HSE East","Not specified",69
-"172",2020-04-11,"HSE Midlands","Foreign travel",6
-"173",2020-04-11,"HSE Midlands","No Foreign travel",103
-"174",2020-04-11,"HSE Midlands","Not specified",48
-"175",2020-04-11,"HSE Mid-West","Foreign travel",12
-"176",2020-04-11,"HSE Mid-West","No Foreign travel",60
-"177",2020-04-11,"HSE Mid-West","Not specified",43
-"178",2020-04-11,"HSE North-East","Foreign travel",2
-"179",2020-04-11,"HSE North-East","No Foreign travel",16
-"180",2020-04-11,"HSE North-East","Not specified",142
-"181",2020-04-11,"HSE North-West","Foreign travel",7
-"182",2020-04-11,"HSE North-West","No Foreign travel",23
-"183",2020-04-11,"HSE North-West","Not specified",42
-"184",2020-04-11,"HSE South-East","Foreign travel",5
-"185",2020-04-11,"HSE South-East","No Foreign travel",3
-"186",2020-04-11,"HSE South-East","Not specified",111
-"187",2020-04-11,"HSE South","Foreign travel",21
-"188",2020-04-11,"HSE South","No Foreign travel",102
-"189",2020-04-11,"HSE South","Not specified",77
-"190",2020-04-11,"HSE West","Foreign travel",7
-"191",2020-04-11,"HSE West","No Foreign travel",74
-"192",2020-04-11,"HSE West","Not specified",78
-"193",2020-04-10,"HSE East","Foreign travel",68
-"194",2020-04-10,"HSE East","No Foreign travel",1249
-"195",2020-04-10,"HSE East","Not specified",68
-"196",2020-04-10,"HSE Midlands","Foreign travel",6
-"197",2020-04-10,"HSE Midlands","No Foreign travel",84
-"198",2020-04-10,"HSE Midlands","Not specified",41
-"199",2020-04-10,"HSE Mid-West","Foreign travel",12
-"200",2020-04-10,"HSE Mid-West","No Foreign travel",60
-"201",2020-04-10,"HSE Mid-West","Not specified",43
-"202",2020-04-10,"HSE North-East","Foreign travel",2
-"203",2020-04-10,"HSE North-East","No Foreign travel",16
-"204",2020-04-10,"HSE North-East","Not specified",140
-"205",2020-04-10,"HSE North-West","Foreign travel",7
-"206",2020-04-10,"HSE North-West","No Foreign travel",23
-"207",2020-04-10,"HSE North-West","Not specified",28
-"208",2020-04-10,"HSE South-East","Foreign travel",5
-"209",2020-04-10,"HSE South-East","No Foreign travel",3
-"210",2020-04-10,"HSE South-East","Not specified",107
-"211",2020-04-10,"HSE South","Foreign travel",21
-"212",2020-04-10,"HSE South","No Foreign travel",102
-"213",2020-04-10,"HSE South","Not specified",71
-"214",2020-04-10,"HSE West","Foreign travel",7
-"215",2020-04-10,"HSE West","No Foreign travel",74
-"216",2020-04-10,"HSE West","Not specified",75
-"217",2020-04-09,"HSE East","Foreign travel",67
-"218",2020-04-09,"HSE East","No Foreign travel",1146
-"219",2020-04-09,"HSE East","Not specified",67
-"220",2020-04-09,"HSE Midlands","Foreign travel",5
-"221",2020-04-09,"HSE Midlands","No Foreign travel",71
-"222",2020-04-09,"HSE Midlands","Not specified",41
-"223",2020-04-09,"HSE Mid-West","Foreign travel",12
-"224",2020-04-09,"HSE Mid-West","No Foreign travel",60
-"225",2020-04-09,"HSE Mid-West","Not specified",39
-"226",2020-04-09,"HSE North-East","Foreign travel",2
-"227",2020-04-09,"HSE North-East","No Foreign travel",16
-"228",2020-04-09,"HSE North-East","Not specified",124
-"229",2020-04-09,"HSE North-West","Foreign travel",7
-"230",2020-04-09,"HSE North-West","No Foreign travel",23
-"231",2020-04-09,"HSE North-West","Not specified",27
-"232",2020-04-09,"HSE South-East","Foreign travel",5
-"233",2020-04-09,"HSE South-East","No Foreign travel",3
-"234",2020-04-09,"HSE South-East","Not specified",91
-"235",2020-04-09,"HSE South","Foreign travel",21
-"236",2020-04-09,"HSE South","No Foreign travel",102
-"237",2020-04-09,"HSE South","Not specified",65
-"238",2020-04-09,"HSE West","Foreign travel",7
-"239",2020-04-09,"HSE West","No Foreign travel",73
-"240",2020-04-09,"HSE West","Not specified",67
-"241",2020-04-08,"HSE East","Foreign travel",62
-"242",2020-04-08,"HSE East","No Foreign travel",1046
-"243",2020-04-08,"HSE East","Not specified",67
-"244",2020-04-08,"HSE Midlands","Foreign travel",5
-"245",2020-04-08,"HSE Midlands","No Foreign travel",53
-"246",2020-04-08,"HSE Midlands","Not specified",41
-"247",2020-04-08,"HSE Mid-West","Foreign travel",12
-"248",2020-04-08,"HSE Mid-West","No Foreign travel",50
-"249",2020-04-08,"HSE Mid-West","Not specified",36
-"250",2020-04-08,"HSE North-East","Foreign travel",2
-"251",2020-04-08,"HSE North-East","No Foreign travel",16
-"252",2020-04-08,"HSE North-East","Not specified",109
-"253",2020-04-08,"HSE North-West","Foreign travel",7
-"254",2020-04-08,"HSE North-West","No Foreign travel",23
-"255",2020-04-08,"HSE North-West","Not specified",26
-"256",2020-04-08,"HSE South-East","Foreign travel",5
-"257",2020-04-08,"HSE South-East","No Foreign travel",3
-"258",2020-04-08,"HSE South-East","Not specified",74
-"259",2020-04-08,"HSE South","Foreign travel",21
-"260",2020-04-08,"HSE South","No Foreign travel",97
-"261",2020-04-08,"HSE South","Not specified",61
-"262",2020-04-08,"HSE West","Foreign travel",7
-"263",2020-04-08,"HSE West","No Foreign travel",71
-"264",2020-04-08,"HSE West","Not specified",55
-"265",2020-04-07,"HSE East","Foreign travel",59
-"266",2020-04-07,"HSE East","No Foreign travel",932
-"267",2020-04-07,"HSE East","Not specified",60
-"268",2020-04-07,"HSE Midlands","Foreign travel",4
-"269",2020-04-07,"HSE Midlands","No Foreign travel",49
-"270",2020-04-07,"HSE Midlands","Not specified",40
-"271",2020-04-07,"HSE Mid-West","Foreign travel",11
-"272",2020-04-07,"HSE Mid-West","No Foreign travel",49
-"273",2020-04-07,"HSE Mid-West","Not specified",27
-"274",2020-04-07,"HSE North-East","Foreign travel",2
-"275",2020-04-07,"HSE North-East","No Foreign travel",15
-"276",2020-04-07,"HSE North-East","Not specified",103
-"277",2020-04-07,"HSE North-West","Foreign travel",7
-"278",2020-04-07,"HSE North-West","No Foreign travel",23
-"279",2020-04-07,"HSE North-West","Not specified",16
-"280",2020-04-07,"HSE South-East","Foreign travel",5
-"281",2020-04-07,"HSE South-East","No Foreign travel",3
-"282",2020-04-07,"HSE South-East","Not specified",69
-"283",2020-04-07,"HSE South","Foreign travel",21
-"284",2020-04-07,"HSE South","No Foreign travel",95
-"285",2020-04-07,"HSE South","Not specified",60
-"286",2020-04-07,"HSE West","Foreign travel",7
-"287",2020-04-07,"HSE West","No Foreign travel",71
-"288",2020-04-07,"HSE West","Not specified",37
-"289",2020-04-06,"HSE East","Foreign travel",53
-"290",2020-04-06,"HSE East","No Foreign travel",789
-"291",2020-04-06,"HSE East","Not specified",57
-"292",2020-04-06,"HSE Midlands","Foreign travel",4
-"293",2020-04-06,"HSE Midlands","No Foreign travel",49
-"294",2020-04-06,"HSE Midlands","Not specified",34
-"295",2020-04-06,"HSE Mid-West","Foreign travel",11
-"296",2020-04-06,"HSE Mid-West","No Foreign travel",49
-"297",2020-04-06,"HSE Mid-West","Not specified",27
-"298",2020-04-06,"HSE North-East","Foreign travel",2
-"299",2020-04-06,"HSE North-East","No Foreign travel",15
-"300",2020-04-06,"HSE North-East","Not specified",87
-"301",2020-04-06,"HSE North-West","Foreign travel",7
-"302",2020-04-06,"HSE North-West","No Foreign travel",23
-"303",2020-04-06,"HSE North-West","Not specified",9
-"304",2020-04-06,"HSE South-East","Foreign travel",5
-"305",2020-04-06,"HSE South-East","No Foreign travel",3
-"306",2020-04-06,"HSE South-East","Not specified",67
-"307",2020-04-06,"HSE South","Foreign travel",21
-"308",2020-04-06,"HSE South","No Foreign travel",84
-"309",2020-04-06,"HSE South","Not specified",57
-"310",2020-04-06,"HSE West","Foreign travel",7
-"311",2020-04-06,"HSE West","No Foreign travel",71
-"312",2020-04-06,"HSE West","Not specified",37
-"313",2020-04-05,"HSE East","Foreign travel",50
-"314",2020-04-05,"HSE East","No Foreign travel",710
-"315",2020-04-05,"HSE East","Not specified",28
-"316",2020-04-05,"HSE Midlands","Foreign travel",4
-"317",2020-04-05,"HSE Midlands","No Foreign travel",45
-"318",2020-04-05,"HSE Midlands","Not specified",22
-"319",2020-04-05,"HSE Mid-West","Foreign travel",10
-"320",2020-04-05,"HSE Mid-West","No Foreign travel",48
-"321",2020-04-05,"HSE Mid-West","Not specified",23
-"322",2020-04-05,"HSE North-East","Foreign travel",2
-"323",2020-04-05,"HSE North-East","No Foreign travel",15
-"324",2020-04-05,"HSE North-East","Not specified",51
-"325",2020-04-05,"HSE North-West","Foreign travel",7
-"326",2020-04-05,"HSE North-West","No Foreign travel",20
-"327",2020-04-05,"HSE North-West","Not specified",11
-"328",2020-04-05,"HSE South-East","Foreign travel",5
-"329",2020-04-05,"HSE South-East","No Foreign travel",3
-"330",2020-04-05,"HSE South-East","Not specified",67
-"331",2020-04-05,"HSE South","Foreign travel",20
-"332",2020-04-05,"HSE South","No Foreign travel",80
-"333",2020-04-05,"HSE South","Not specified",53
-"334",2020-04-05,"HSE West","Foreign travel",7
-"335",2020-04-05,"HSE West","No Foreign travel",70
-"336",2020-04-05,"HSE West","Not specified",37
-"337",2020-04-04,"HSE East","Foreign travel",49
-"338",2020-04-04,"HSE East","No Foreign travel",651
-"339",2020-04-04,"HSE East","Not specified",25
-"340",2020-04-04,"HSE Midlands","Foreign travel",4
-"341",2020-04-04,"HSE Midlands","No Foreign travel",42
-"342",2020-04-04,"HSE Midlands","Not specified",15
-"343",2020-04-04,"HSE Mid-West","Foreign travel",10
-"344",2020-04-04,"HSE Mid-West","No Foreign travel",39
-"345",2020-04-04,"HSE Mid-West","Not specified",25
-"346",2020-04-04,"HSE North-East","Foreign travel",2
-"347",2020-04-04,"HSE North-East","No Foreign travel",15
-"348",2020-04-04,"HSE North-East","Not specified",24
-"349",2020-04-04,"HSE North-West","Foreign travel",6
-"350",2020-04-04,"HSE North-West","No Foreign travel",18
-"351",2020-04-04,"HSE North-West","Not specified",11
-"352",2020-04-04,"HSE South-East","Foreign travel",5
-"353",2020-04-04,"HSE South-East","No Foreign travel",3
-"354",2020-04-04,"HSE South-East","Not specified",63
-"355",2020-04-04,"HSE South","Foreign travel",19
-"356",2020-04-04,"HSE South","No Foreign travel",80
-"357",2020-04-04,"HSE South","Not specified",51
-"358",2020-04-04,"HSE West","Foreign travel",7
-"359",2020-04-04,"HSE West","No Foreign travel",69
-"360",2020-04-04,"HSE West","Not specified",30
-"361",2020-04-03,"HSE East","Foreign travel",49
-"362",2020-04-03,"HSE East","No Foreign travel",609
-"363",2020-04-03,"HSE East","Not specified",26
-"364",2020-04-03,"HSE Midlands","Foreign travel",4
-"365",2020-04-03,"HSE Midlands","No Foreign travel",35
-"366",2020-04-03,"HSE Midlands","Not specified",13
-"367",2020-04-03,"HSE Mid-West","Foreign travel",10
-"368",2020-04-03,"HSE Mid-West","No Foreign travel",39
-"369",2020-04-03,"HSE Mid-West","Not specified",25
-"370",2020-04-03,"HSE North-East","Foreign travel",2
-"371",2020-04-03,"HSE North-East","No Foreign travel",15
-"372",2020-04-03,"HSE North-East","Not specified",18
-"373",2020-04-03,"HSE North-West","Foreign travel",6
-"374",2020-04-03,"HSE North-West","No Foreign travel",18
-"375",2020-04-03,"HSE North-West","Not specified",1
-"376",2020-04-03,"HSE South-East","Foreign travel",5
-"377",2020-04-03,"HSE South-East","No Foreign travel",3
-"378",2020-04-03,"HSE South-East","Not specified",60
-"379",2020-04-03,"HSE South","Foreign travel",18
-"380",2020-04-03,"HSE South","No Foreign travel",76
-"381",2020-04-03,"HSE South","Not specified",46
-"382",2020-04-03,"HSE West","Foreign travel",7
-"383",2020-04-03,"HSE West","No Foreign travel",64
-"384",2020-04-03,"HSE West","Not specified",14
-"385",2020-04-02,"HSE East","Foreign travel",31
-"386",2020-04-02,"HSE East","No Foreign travel",570
-"387",2020-04-02,"HSE East","Not specified",38
-"388",2020-04-02,"HSE Midlands","Foreign travel",2
-"389",2020-04-02,"HSE Midlands","No Foreign travel",37
-"390",2020-04-02,"HSE Midlands","Not specified",10
-"391",2020-04-02,"HSE Mid-West","Foreign travel",11
-"392",2020-04-02,"HSE Mid-West","No Foreign travel",58
-"393",2020-04-02,"HSE Mid-West","Not specified",0
-"394",2020-04-02,"HSE North-East","Foreign travel",2
-"395",2020-04-02,"HSE North-East","No Foreign travel",28
-"396",2020-04-02,"HSE North-East","Not specified",4
-"397",2020-04-02,"HSE North-West","Foreign travel",5
-"398",2020-04-02,"HSE North-West","No Foreign travel",19
-"399",2020-04-02,"HSE North-West","Not specified",1
-"400",2020-04-02,"HSE South-East","Foreign travel",3
-"401",2020-04-02,"HSE South-East","No Foreign travel",4
-"402",2020-04-02,"HSE South-East","Not specified",48
-"403",2020-04-02,"HSE South","Foreign travel",15
-"404",2020-04-02,"HSE South","No Foreign travel",84
-"405",2020-04-02,"HSE South","Not specified",38
-"406",2020-04-02,"HSE West","Foreign travel",2
-"407",2020-04-02,"HSE West","No Foreign travel",63
-"408",2020-04-02,"HSE West","Not specified",11
-"409",2020-04-01,"HSE East","Foreign travel",42
-"410",2020-04-01,"HSE East","No Foreign travel",477
-"411",2020-04-01,"HSE East","Not specified",22
-"412",2020-04-01,"HSE Midlands","Foreign travel",3
-"413",2020-04-01,"HSE Midlands","No Foreign travel",24
-"414",2020-04-01,"HSE Midlands","Not specified",12
-"415",2020-04-01,"HSE Mid-West","Foreign travel",10
-"416",2020-04-01,"HSE Mid-West","No Foreign travel",39
-"417",2020-04-01,"HSE Mid-West","Not specified",13
-"418",2020-04-01,"HSE North-East","Foreign travel",2
-"419",2020-04-01,"HSE North-East","No Foreign travel",15
-"420",2020-04-01,"HSE North-East","Not specified",17
-"421",2020-04-01,"HSE North-West","Foreign travel",6
-"422",2020-04-01,"HSE North-West","No Foreign travel",14
-"423",2020-04-01,"HSE North-West","Not specified",4
-"424",2020-04-01,"HSE South-East","Foreign travel",5
-"425",2020-04-01,"HSE South-East","No Foreign travel",3
-"426",2020-04-01,"HSE South-East","Not specified",44
-"427",2020-04-01,"HSE South","Foreign travel",19
-"428",2020-04-01,"HSE South","No Foreign travel",72
-"429",2020-04-01,"HSE South","Not specified",39
-"430",2020-04-01,"HSE West","Foreign travel",7
-"431",2020-04-01,"HSE West","No Foreign travel",57
-"432",2020-04-01,"HSE West","Not specified",2
-"433",2020-03-31,"HSE East","Foreign travel",41
-"434",2020-03-31,"HSE East","No Foreign travel",414
-"435",2020-03-31,"HSE East","Not specified",22
-"436",2020-03-31,"HSE Midlands","Foreign travel",3
-"437",2020-03-31,"HSE Midlands","No Foreign travel",22
-"438",2020-03-31,"HSE Midlands","Not specified",12
-"439",2020-03-31,"HSE Mid-West","Foreign travel",10
-"440",2020-03-31,"HSE Mid-West","No Foreign travel",39
-"441",2020-03-31,"HSE Mid-West","Not specified",10
-"442",2020-03-31,"HSE North-East","Foreign travel",2
-"443",2020-03-31,"HSE North-East","No Foreign travel",15
-"444",2020-03-31,"HSE North-East","Not specified",14
-"445",2020-03-31,"HSE North-West","Foreign travel",6
-"446",2020-03-31,"HSE North-West","No Foreign travel",12
-"447",2020-03-31,"HSE North-West","Not specified",1
-"448",2020-03-31,"HSE South-East","Foreign travel",5
-"449",2020-03-31,"HSE South-East","No Foreign travel",2
-"450",2020-03-31,"HSE South-East","Not specified",33
-"451",2020-03-31,"HSE South","Foreign travel",18
-"452",2020-03-31,"HSE South","No Foreign travel",70
-"453",2020-03-31,"HSE South","Not specified",29
-"454",2020-03-31,"HSE West","Foreign travel",7
-"455",2020-03-31,"HSE West","No Foreign travel",53
-"456",2020-03-31,"HSE West","Not specified",1
-"457",2020-03-30,"HSE East","Foreign travel",41
-"458",2020-03-30,"HSE East","No Foreign travel",367
-"459",2020-03-30,"HSE East","Not specified",11
-"460",2020-03-30,"HSE Midlands","Foreign travel",3
-"461",2020-03-30,"HSE Midlands","No Foreign travel",22
-"462",2020-03-30,"HSE Midlands","Not specified",7
-"463",2020-03-30,"HSE Mid-West","Foreign travel",8
-"464",2020-03-30,"HSE Mid-West","No Foreign travel",36
-"465",2020-03-30,"HSE Mid-West","Not specified",11
-"466",2020-03-30,"HSE North-East","Foreign travel",2
-"467",2020-03-30,"HSE North-East","No Foreign travel",14
-"468",2020-03-30,"HSE North-East","Not specified",8
-"469",2020-03-30,"HSE North-West","Foreign travel",6
-"470",2020-03-30,"HSE North-West","No Foreign travel",11
-"471",2020-03-30,"HSE North-West","Not specified",1
-"472",2020-03-30,"HSE South-East","Foreign travel",5
-"473",2020-03-30,"HSE South-East","No Foreign travel",2
-"474",2020-03-30,"HSE South-East","Not specified",31
-"475",2020-03-30,"HSE South","Foreign travel",18
-"476",2020-03-30,"HSE South","No Foreign travel",67
-"477",2020-03-30,"HSE South","Not specified",24
-"478",2020-03-30,"HSE West","Foreign travel",7
-"479",2020-03-30,"HSE West","No Foreign travel",49
-"480",2020-03-30,"HSE West","Not specified",1
-"481",2020-03-29,"HSE East","Foreign travel",45
-"482",2020-03-29,"HSE East","No Foreign travel",308
-"483",2020-03-29,"HSE East","Not specified",9
-"484",2020-03-29,"HSE Midlands","Foreign travel",3
-"485",2020-03-29,"HSE Midlands","No Foreign travel",19
-"486",2020-03-29,"HSE Midlands","Not specified",6
-"487",2020-03-29,"HSE Mid-West","Foreign travel",6
-"488",2020-03-29,"HSE Mid-West","No Foreign travel",31
-"489",2020-03-29,"HSE Mid-West","Not specified",1
-"490",2020-03-29,"HSE North-East","Foreign travel",2
-"491",2020-03-29,"HSE North-East","No Foreign travel",13
-"492",2020-03-29,"HSE North-East","Not specified",4
-"493",2020-03-29,"HSE North-West","Foreign travel",6
-"494",2020-03-29,"HSE North-West","No Foreign travel",10
-"495",2020-03-29,"HSE North-West","Not specified",0
-"496",2020-03-29,"HSE South-East","Foreign travel",5
-"497",2020-03-29,"HSE South-East","No Foreign travel",1
-"498",2020-03-29,"HSE South-East","Not specified",31
-"499",2020-03-29,"HSE South","Foreign travel",17
-"500",2020-03-29,"HSE South","No Foreign travel",58
-"501",2020-03-29,"HSE South","Not specified",19
-"502",2020-03-29,"HSE West","Foreign travel",7
-"503",2020-03-29,"HSE West","No Foreign travel",45
-"504",2020-03-29,"HSE West","Not specified",1
-"505",2020-03-28,"HSE East","Foreign travel",30
-"506",2020-03-28,"HSE East","No Foreign travel",286
-"507",2020-03-28,"HSE East","Not specified",21
-"508",2020-03-28,"HSE Midlands","Foreign travel",2
-"509",2020-03-28,"HSE Midlands","No Foreign travel",18
-"510",2020-03-28,"HSE Midlands","Not specified",6
-"511",2020-03-28,"HSE Mid-West","Foreign travel",6
-"512",2020-03-28,"HSE Mid-West","No Foreign travel",31
-"513",2020-03-28,"HSE Mid-West","Not specified",1
-"514",2020-03-28,"HSE North-East","Foreign travel",2
-"515",2020-03-28,"HSE North-East","No Foreign travel",7
-"516",2020-03-28,"HSE North-East","Not specified",0
-"517",2020-03-28,"HSE North-West","Foreign travel",4
-"518",2020-03-28,"HSE North-West","No Foreign travel",3
-"519",2020-03-28,"HSE North-West","Not specified",5
-"520",2020-03-28,"HSE South-East","Foreign travel",2
-"521",2020-03-28,"HSE South-East","No Foreign travel",0
-"522",2020-03-28,"HSE South-East","Not specified",31
-"523",2020-03-28,"HSE South","Foreign travel",13
-"524",2020-03-28,"HSE South","No Foreign travel",49
-"525",2020-03-28,"HSE South","Not specified",20
-"526",2020-03-28,"HSE West","Foreign travel",2
-"527",2020-03-28,"HSE West","No Foreign travel",32
-"528",2020-03-28,"HSE West","Not specified",7
-"529",2020-03-27,"HSE East","Foreign travel",42
-"530",2020-03-27,"HSE East","No Foreign travel",224
-"531",2020-03-27,"HSE East","Not specified",26
-"532",2020-03-27,"HSE Midlands","Foreign travel",3
-"533",2020-03-27,"HSE Midlands","No Foreign travel",15
-"534",2020-03-27,"HSE Midlands","Not specified",6
-"535",2020-03-27,"HSE Mid-West","Foreign travel",6
-"536",2020-03-27,"HSE Mid-West","No Foreign travel",10
-"537",2020-03-27,"HSE Mid-West","Not specified",12
-"538",2020-03-27,"HSE North-East","Foreign travel",2
-"539",2020-03-27,"HSE North-East","No Foreign travel",3
-"540",2020-03-27,"HSE North-East","Not specified",4
-"541",2020-03-27,"HSE North-West","Foreign travel",5
-"542",2020-03-27,"HSE North-West","No Foreign travel",4
-"543",2020-03-27,"HSE North-West","Not specified",0
-"544",2020-03-27,"HSE South-East","Foreign travel",5
-"545",2020-03-27,"HSE South-East","No Foreign travel",1
-"546",2020-03-27,"HSE South-East","Not specified",26
-"547",2020-03-27,"HSE South","Foreign travel",14
-"548",2020-03-27,"HSE South","No Foreign travel",32
-"549",2020-03-27,"HSE South","Not specified",30
-"550",2020-03-27,"HSE West","Foreign travel",7
-"551",2020-03-27,"HSE West","No Foreign travel",13
-"552",2020-03-27,"HSE West","Not specified",16
-"553",2020-03-26,"HSE East","Foreign travel",42
-"554",2020-03-26,"HSE East","No Foreign travel",203
-"555",2020-03-26,"HSE East","Not specified",25
-"556",2020-03-26,"HSE Midlands","Foreign travel",3
-"557",2020-03-26,"HSE Midlands","No Foreign travel",14
-"558",2020-03-26,"HSE Midlands","Not specified",4
-"559",2020-03-26,"HSE Mid-West","Foreign travel",6
-"560",2020-03-26,"HSE Mid-West","No Foreign travel",8
-"561",2020-03-26,"HSE Mid-West","Not specified",7
-"562",2020-03-26,"HSE North-East","Foreign travel",2
-"563",2020-03-26,"HSE North-East","No Foreign travel",2
-"564",2020-03-26,"HSE North-East","Not specified",3
-"565",2020-03-26,"HSE North-West","Foreign travel",5
-"566",2020-03-26,"HSE North-West","No Foreign travel",3
-"567",2020-03-26,"HSE North-West","Not specified",0
-"568",2020-03-26,"HSE South-East","Foreign travel",5
-"569",2020-03-26,"HSE South-East","No Foreign travel",1
-"570",2020-03-26,"HSE South-East","Not specified",19
-"571",2020-03-26,"HSE South","Foreign travel",14
-"572",2020-03-26,"HSE South","No Foreign travel",24
-"573",2020-03-26,"HSE South","Not specified",23
-"574",2020-03-26,"HSE West","Foreign travel",8
-"575",2020-03-26,"HSE West","No Foreign travel",13
-"576",2020-03-26,"HSE West","Not specified",11
-"577",2020-03-25,"HSE East","Foreign travel",37
-"578",2020-03-25,"HSE East","No Foreign travel",174
-"579",2020-03-25,"HSE East","Not specified",22
-"580",2020-03-25,"HSE Midlands","Foreign travel",3
-"581",2020-03-25,"HSE Midlands","No Foreign travel",14
-"582",2020-03-25,"HSE Midlands","Not specified",1
-"583",2020-03-25,"HSE Mid-West","Foreign travel",4
-"584",2020-03-25,"HSE Mid-West","No Foreign travel",5
-"585",2020-03-25,"HSE Mid-West","Not specified",6
-"586",2020-03-25,"HSE North-East","Foreign travel",2
-"587",2020-03-25,"HSE North-East","No Foreign travel",2
-"588",2020-03-25,"HSE North-East","Not specified",2
-"589",2020-03-25,"HSE North-West","Foreign travel",5
-"590",2020-03-25,"HSE North-West","No Foreign travel",1
-"591",2020-03-25,"HSE North-West","Not specified",0
-"592",2020-03-25,"HSE South-East","Foreign travel",5
-"593",2020-03-25,"HSE South-East","No Foreign travel",0
-"594",2020-03-25,"HSE South-East","Not specified",12
-"595",2020-03-25,"HSE South","Foreign travel",13
-"596",2020-03-25,"HSE South","No Foreign travel",21
-"597",2020-03-25,"HSE South","Not specified",17
-"598",2020-03-25,"HSE West","Foreign travel",8
-"599",2020-03-25,"HSE West","No Foreign travel",12
-"600",2020-03-25,"HSE West","Not specified",9
-"601",2020-03-24,"HSE East","Foreign travel",37
-"602",2020-03-24,"HSE East","No Foreign travel",141
-"603",2020-03-24,"HSE East","Not specified",21
-"604",2020-03-24,"HSE Midlands","Foreign travel",3
-"605",2020-03-24,"HSE Midlands","No Foreign travel",13
-"606",2020-03-24,"HSE Midlands","Not specified",1
-"607",2020-03-24,"HSE Mid-West","Foreign travel",1
-"608",2020-03-24,"HSE Mid-West","No Foreign travel",4
-"609",2020-03-24,"HSE Mid-West","Not specified",4
-"610",2020-03-24,"HSE North-East","Foreign travel",2
-"611",2020-03-24,"HSE North-East","No Foreign travel",2
-"612",2020-03-24,"HSE North-East","Not specified",0
-"613",2020-03-24,"HSE North-West","Foreign travel",5
-"614",2020-03-24,"HSE North-West","No Foreign travel",1
-"615",2020-03-24,"HSE North-West","Not specified",0
-"616",2020-03-24,"HSE South-East","Foreign travel",4
-"617",2020-03-24,"HSE South-East","No Foreign travel",0
-"618",2020-03-24,"HSE South-East","Not specified",9
-"619",2020-03-24,"HSE South","Foreign travel",13
-"620",2020-03-24,"HSE South","No Foreign travel",21
-"621",2020-03-24,"HSE South","Not specified",13
-"622",2020-03-24,"HSE West","Foreign travel",8
-"623",2020-03-24,"HSE West","No Foreign travel",11
-"624",2020-03-24,"HSE West","Not specified",7
-"625",2020-03-23,"HSE East","Foreign travel",34
-"626",2020-03-23,"HSE East","No Foreign travel",132
-"627",2020-03-23,"HSE East","Not specified",20
-"628",2020-03-23,"HSE Midlands","Foreign travel",3
-"629",2020-03-23,"HSE Midlands","No Foreign travel",12
-"630",2020-03-23,"HSE Midlands","Not specified",0
-"631",2020-03-23,"HSE Mid-West","Foreign travel",1
-"632",2020-03-23,"HSE Mid-West","No Foreign travel",2
-"633",2020-03-23,"HSE Mid-West","Not specified",2
-"634",2020-03-23,"HSE North-East","Foreign travel",2
-"635",2020-03-23,"HSE North-East","No Foreign travel",2
-"636",2020-03-23,"HSE North-East","Not specified",0
-"637",2020-03-23,"HSE North-West","Foreign travel",4
-"638",2020-03-23,"HSE North-West","No Foreign travel",1
-"639",2020-03-23,"HSE North-West","Not specified",0
-"640",2020-03-23,"HSE South-East","Foreign travel",2
-"641",2020-03-23,"HSE South-East","No Foreign travel",0
-"642",2020-03-23,"HSE South-East","Not specified",4
-"643",2020-03-23,"HSE South","Foreign travel",13
-"644",2020-03-23,"HSE South","No Foreign travel",20
-"645",2020-03-23,"HSE South","Not specified",8
-"646",2020-03-23,"HSE West","Foreign travel",8
-"647",2020-03-23,"HSE West","No Foreign travel",11
-"648",2020-03-23,"HSE West","Not specified",2
-"649",2020-03-22,"HSE East","Foreign travel",31
-"650",2020-03-22,"HSE East","No Foreign travel",111
-"651",2020-03-22,"HSE East","Not specified",16
-"652",2020-03-22,"HSE Midlands","Foreign travel",3
-"653",2020-03-22,"HSE Midlands","No Foreign travel",12
-"654",2020-03-22,"HSE Midlands","Not specified",0
-"655",2020-03-22,"HSE Mid-West","Foreign travel",1
-"656",2020-03-22,"HSE Mid-West","No Foreign travel",2
-"657",2020-03-22,"HSE Mid-West","Not specified",2
-"658",2020-03-22,"HSE North-East","Foreign travel",2
-"659",2020-03-22,"HSE North-East","No Foreign travel",1
-"660",2020-03-22,"HSE North-East","Not specified",0
-"661",2020-03-22,"HSE North-West","Foreign travel",2
-"662",2020-03-22,"HSE North-West","No Foreign travel",1
-"663",2020-03-22,"HSE North-West","Not specified",0
-"664",2020-03-22,"HSE South-East","Foreign travel",2
-"665",2020-03-22,"HSE South-East","No Foreign travel",0
-"666",2020-03-22,"HSE South-East","Not specified",4
-"667",2020-03-22,"HSE South","Foreign travel",13
-"668",2020-03-22,"HSE South","No Foreign travel",19
-"669",2020-03-22,"HSE South","Not specified",6
-"670",2020-03-22,"HSE West","Foreign travel",8
-"671",2020-03-22,"HSE West","No Foreign travel",10
-"672",2020-03-22,"HSE West","Not specified",1
-"673",2020-03-21,"HSE East","Foreign travel",25
-"674",2020-03-21,"HSE East","No Foreign travel",91
-"675",2020-03-21,"HSE East","Not specified",12
-"676",2020-03-21,"HSE Midlands","Foreign travel",3
-"677",2020-03-21,"HSE Midlands","No Foreign travel",11
-"678",2020-03-21,"HSE Midlands","Not specified",0
-"679",2020-03-21,"HSE Mid-West","Foreign travel",1
-"680",2020-03-21,"HSE Mid-West","No Foreign travel",2
-"681",2020-03-21,"HSE Mid-West","Not specified",2
-"682",2020-03-21,"HSE North-East","Foreign travel",2
-"683",2020-03-21,"HSE North-East","No Foreign travel",1
-"684",2020-03-21,"HSE North-East","Not specified",0
-"685",2020-03-21,"HSE North-West","Foreign travel",2
-"686",2020-03-21,"HSE North-West","No Foreign travel",1
-"687",2020-03-21,"HSE North-West","Not specified",0
-"688",2020-03-21,"HSE South-East","Foreign travel",1
-"689",2020-03-21,"HSE South-East","No Foreign travel",0
-"690",2020-03-21,"HSE South-East","Not specified",2
-"691",2020-03-21,"HSE South","Foreign travel",13
-"692",2020-03-21,"HSE South","No Foreign travel",17
-"693",2020-03-21,"HSE South","Not specified",3
-"694",2020-03-21,"HSE West","Foreign travel",8
-"695",2020-03-21,"HSE West","No Foreign travel",10
-"696",2020-03-21,"HSE West","Not specified",1
+"Date","Age Group","Key","Value"
+2020-04-20,"<5","Total",86
+2020-04-20,"<5","Hospitalised",13
+2020-04-20,"<5","In ICU",0
+2020-04-20,"<5","Died",0
+2020-04-20,"5-14","Total",169
+2020-04-20,"5-14","Hospitalised",8
+2020-04-20,"5-14","In ICU",1
+2020-04-20,"5-14","Died",0
+2020-04-20,"15-24","Total",1039
+2020-04-20,"15-24","Hospitalised",52
+2020-04-20,"15-24","In ICU",5
+2020-04-20,"15-24","Died",1
+2020-04-20,"25-34","Total",2635
+2020-04-20,"25-34","Hospitalised",150
+2020-04-20,"25-34","In ICU",14
+2020-04-20,"25-34","Died",3
+2020-04-20,"35-44","Total",2843
+2020-04-20,"35-44","Hospitalised",198
+2020-04-20,"35-44","In ICU",26
+2020-04-20,"35-44","Died",9
+2020-04-20,"45-54","Total",3039
+2020-04-20,"45-54","Hospitalised",330
+2020-04-20,"45-54","In ICU",72
+2020-04-20,"45-54","Died",17
+2020-04-20,"55-64","Total",2254
+2020-04-20,"55-64","Hospitalised",366
+2020-04-20,"55-64","In ICU",89
+2020-04-20,"55-64","Died",33
+2020-04-20,"65+","Total",3782
+2020-04-20,"65+","Hospitalised",1267
+2020-04-20,"65+","In ICU",115
+2020-04-20,"65+","Died",694
+2020-04-20,"Unknown","Total",24
+2020-04-20,"Unknown","Hospitalised",3
+2020-04-20,"Unknown","In ICU",0
+2020-04-20,"Unknown","Died",0
+2020-04-19,"<5","Total",83
+2020-04-19,"<5","Hospitalised",13
+2020-04-19,"<5","In ICU",0
+2020-04-19,"<5","Died",0
+2020-04-19,"5-14","Total",162
+2020-04-19,"5-14","Hospitalised",8
+2020-04-19,"5-14","In ICU",1
+2020-04-19,"5-14","Died",0
+2020-04-19,"15-24","Total",1009
+2020-04-19,"15-24","Hospitalised",51
+2020-04-19,"15-24","In ICU",6
+2020-04-19,"15-24","Died",1
+2020-04-19,"25-34","Total",2580
+2020-04-19,"25-34","Hospitalised",147
+2020-04-19,"25-34","In ICU",13
+2020-04-19,"25-34","Died",3
+2020-04-19,"35-44","Total",2781
+2020-04-19,"35-44","Hospitalised",194
+2020-04-19,"35-44","In ICU",26
+2020-04-19,"35-44","Died",9
+2020-04-19,"45-54","Total",2972
+2020-04-19,"45-54","Hospitalised",326
+2020-04-19,"45-54","In ICU",70
+2020-04-19,"45-54","Died",17
+2020-04-19,"55-64","Total",2207
+2020-04-19,"55-64","Hospitalised",356
+2020-04-19,"55-64","In ICU",89
+2020-04-19,"55-64","Died",31
+2020-04-19,"65+","Total",3646
+2020-04-19,"65+","Hospitalised",1226
+2020-04-19,"65+","In ICU",110
+2020-04-19,"65+","Died",658
+2020-04-19,"Unknown","Total",24
+2020-04-19,"Unknown","Hospitalised",2
+2020-04-19,"Unknown","In ICU",0
+2020-04-19,"Unknown","Died",0
+2020-04-18,"<5","Total",84
+2020-04-18,"<5","Hospitalised",13
+2020-04-18,"<5","In ICU",0
+2020-04-18,"<5","Died",0
+2020-04-18,"5-14","Total",161
+2020-04-18,"5-14","Hospitalised",7
+2020-04-18,"5-14","In ICU",1
+2020-04-18,"5-14","Died",0
+2020-04-18,"15-24","Total",1000
+2020-04-18,"15-24","Hospitalised",50
+2020-04-18,"15-24","In ICU",6
+2020-04-18,"15-24","Died",1
+2020-04-18,"25-34","Total",2557
+2020-04-18,"25-34","Hospitalised",143
+2020-04-18,"25-34","In ICU",10
+2020-04-18,"25-34","Died",3
+2020-04-18,"35-44","Total",2744
+2020-04-18,"35-44","Hospitalised",188
+2020-04-18,"35-44","In ICU",25
+2020-04-18,"35-44","Died",9
+2020-04-18,"45-54","Total",2943
+2020-04-18,"45-54","Hospitalised",322
+2020-04-18,"45-54","In ICU",69
+2020-04-18,"45-54","Died",15
+2020-04-18,"55-64","Total",2184
+2020-04-18,"55-64","Hospitalised",349
+2020-04-18,"55-64","In ICU",87
+2020-04-18,"55-64","Died",29
+2020-04-18,"65+","Total",3488
+2020-04-18,"65+","Hospitalised",1198
+2020-04-18,"65+","In ICU",108
+2020-04-18,"65+","Died",585
+2020-04-18,"Unknown","Total",24
+2020-04-18,"Unknown","Hospitalised",2
+2020-04-18,"Unknown","In ICU",0
+2020-04-18,"Unknown","Died",0
+2020-04-17,"<5","Total",78
+2020-04-17,"<5","Hospitalised",13
+2020-04-17,"<5","In ICU",0
+2020-04-17,"<5","Died",0
+2020-04-17,"5-14","Total",154
+2020-04-17,"5-14","Hospitalised",7
+2020-04-17,"5-14","In ICU",1
+2020-04-17,"5-14","Died",0
+2020-04-17,"15-24","Total",953
+2020-04-17,"15-24","Hospitalised",50
+2020-04-17,"15-24","In ICU",6
+2020-04-17,"15-24","Died",1
+2020-04-17,"25-34","Total",2467
+2020-04-17,"25-34","Hospitalised",139
+2020-04-17,"25-34","In ICU",9
+2020-04-17,"25-34","Died",3
+2020-04-17,"35-44","Total",2659
+2020-04-17,"35-44","Hospitalised",183
+2020-04-17,"35-44","In ICU",25
+2020-04-17,"35-44","Died",9
+2020-04-17,"45-54","Total",2825
+2020-04-17,"45-54","Hospitalised",320
+2020-04-17,"45-54","In ICU",68
+2020-04-17,"45-54","Died",14
+2020-04-17,"55-64","Total",2122
+2020-04-17,"55-64","Hospitalised",343
+2020-04-17,"55-64","In ICU",85
+2020-04-17,"55-64","Died",28
+2020-04-17,"65+","Total",3320
+2020-04-17,"65+","Hospitalised",1176
+2020-04-17,"65+","In ICU",109
+2020-04-17,"65+","Died",550
+2020-04-17,"Unknown","Total",24
+2020-04-17,"Unknown","Hospitalised",2
+2020-04-17,"Unknown","In ICU",0
+2020-04-17,"Unknown","Died",0
+2020-04-16,"<5","Total",76
+2020-04-16,"<5","Hospitalised",13
+2020-04-16,"<5","In ICU",0
+2020-04-16,"<5","Died",0
+2020-04-16,"5-14","Total",142
+2020-04-16,"5-14","Hospitalised",6
+2020-04-16,"5-14","In ICU",1
+2020-04-16,"5-14","Died",0
+2020-04-16,"15-24","Total",892
+2020-04-16,"15-24","Hospitalised",47
+2020-04-16,"15-24","In ICU",5
+2020-04-16,"15-24","Died",1
+2020-04-16,"25-34","Total",2329
+2020-04-16,"25-34","Hospitalised",135
+2020-04-16,"25-34","In ICU",9
+2020-04-16,"25-34","Died",3
+2020-04-16,"35-44","Total",2522
+2020-04-16,"35-44","Hospitalised",177
+2020-04-16,"35-44","In ICU",25
+2020-04-16,"35-44","Died",9
+2020-04-16,"45-54","Total",2659
+2020-04-16,"45-54","Hospitalised",314
+2020-04-16,"45-54","In ICU",67
+2020-04-16,"45-54","Died",13
+2020-04-16,"55-64","Total",2010
+2020-04-16,"55-64","Hospitalised",330
+2020-04-16,"55-64","In ICU",82
+2020-04-16,"55-64","Died",27
+2020-04-16,"65+","Total",3094
+2020-04-16,"65+","Hospitalised",1144
+2020-04-16,"65+","In ICU",107
+2020-04-16,"65+","Died",513
+2020-04-16,"Unknown","Total",22
+2020-04-16,"Unknown","Hospitalised",2
+2020-04-16,"Unknown","In ICU",0
+2020-04-16,"Unknown","Died",0
+2020-04-15,"<5","Total",71
+2020-04-15,"<5","Hospitalised",13
+2020-04-15,"<5","In ICU",0
+2020-04-15,"<5","Died",0
+2020-04-15,"5-14","Total",136
+2020-04-15,"5-14","Hospitalised",5
+2020-04-15,"5-14","In ICU",1
+2020-04-15,"5-14","Died",0
+2020-04-15,"15-24","Total",846
+2020-04-15,"15-24","Hospitalised",44
+2020-04-15,"15-24","In ICU",5
+2020-04-15,"15-24","Died",1
+2020-04-15,"25-34","Total",2231
+2020-04-15,"25-34","Hospitalised",134
+2020-04-15,"25-34","In ICU",10
+2020-04-15,"25-34","Died",3
+2020-04-15,"35-44","Total",2415
+2020-04-15,"35-44","Hospitalised",168
+2020-04-15,"35-44","In ICU",20
+2020-04-15,"35-44","Died",9
+2020-04-15,"45-54","Total",2502
+2020-04-15,"45-54","Hospitalised",304
+2020-04-15,"45-54","In ICU",66
+2020-04-15,"45-54","Died",12
+2020-04-15,"55-64","Total",1902
+2020-04-15,"55-64","Hospitalised",318
+2020-04-15,"55-64","In ICU",82
+2020-04-15,"55-64","Died",25
+2020-04-15,"65+","Total",2889
+2020-04-15,"65+","Hospitalised",1094
+2020-04-15,"65+","In ICU",110
+2020-04-15,"65+","Died",471
+2020-04-15,"Unknown","Total",20
+2020-04-15,"Unknown","Hospitalised",2
+2020-04-15,"Unknown","In ICU",0
+2020-04-15,"Unknown","Died",0
+2020-04-14,"<5","Total",72
+2020-04-14,"<5","Hospitalised",13
+2020-04-14,"<5","In ICU",0
+2020-04-14,"<5","Died",0
+2020-04-14,"5-14","Total",124
+2020-04-14,"5-14","Hospitalised",4
+2020-04-14,"5-14","In ICU",1
+2020-04-14,"5-14","Died",0
+2020-04-14,"15-24","Total",809
+2020-04-14,"15-24","Hospitalised",43
+2020-04-14,"15-24","In ICU",3
+2020-04-14,"15-24","Died",0
+2020-04-14,"25-34","Total",2145
+2020-04-14,"25-34","Hospitalised",132
+2020-04-14,"25-34","In ICU",10
+2020-04-14,"25-34","Died",3
+2020-04-14,"35-44","Total",2315
+2020-04-14,"35-44","Hospitalised",164
+2020-04-14,"35-44","In ICU",19
+2020-04-14,"35-44","Died",8
+2020-04-14,"45-54","Total",2395
+2020-04-14,"45-54","Hospitalised",298
+2020-04-14,"45-54","In ICU",65
+2020-04-14,"45-54","Died",12
+2020-04-14,"55-64","Total",1806
+2020-04-14,"55-64","Hospitalised",308
+2020-04-14,"55-64","In ICU",79
+2020-04-14,"55-64","Died",24
+2020-04-14,"65+","Total",2739
+2020-04-14,"65+","Hospitalised",1062
+2020-04-14,"65+","In ICU",107
+2020-04-14,"65+","Died",433
+2020-04-14,"Unknown","Total",20
+2020-04-14,"Unknown","Hospitalised",2
+2020-04-14,"Unknown","In ICU",0
+2020-04-14,"Unknown","Died",0
+2020-04-13,"<5","Total",61
+2020-04-13,"<5","Hospitalised",13
+2020-04-13,"<5","In ICU",0
+2020-04-13,"<5","Died",0
+2020-04-13,"5-14","Total",96
+2020-04-13,"5-14","Hospitalised",4
+2020-04-13,"5-14","In ICU",1
+2020-04-13,"5-14","Died",0
+2020-04-13,"15-24","Total",737
+2020-04-13,"15-24","Hospitalised",43
+2020-04-13,"15-24","In ICU",3
+2020-04-13,"15-24","Died",0
+2020-04-13,"25-34","Total",1950
+2020-04-13,"25-34","Hospitalised",130
+2020-04-13,"25-34","In ICU",10
+2020-04-13,"25-34","Died",3
+2020-04-13,"35-44","Total",2084
+2020-04-13,"35-44","Hospitalised",159
+2020-04-13,"35-44","In ICU",19
+2020-04-13,"35-44","Died",8
+2020-04-13,"45-54","Total",2157
+2020-04-13,"45-54","Hospitalised",288
+2020-04-13,"45-54","In ICU",64
+2020-04-13,"45-54","Died",8
+2020-04-13,"55-64","Total",1637
+2020-04-13,"55-64","Hospitalised",301
+2020-04-13,"55-64","In ICU",77
+2020-04-13,"55-64","Died",19
+2020-04-13,"65+","Total",2520
+2020-04-13,"65+","Hospitalised",1028
+2020-04-13,"65+","In ICU",106
+2020-04-13,"65+","Died",397
+2020-04-13,"Unknown","Total",19
+2020-04-13,"Unknown","Hospitalised",2
+2020-04-13,"Unknown","In ICU",0
+2020-04-13,"Unknown","Died",0
+2020-04-12,"<5","Total",56
+2020-04-12,"<5","Hospitalised",12
+2020-04-12,"<5","In ICU",0
+2020-04-12,"<5","Died",0
+2020-04-12,"5-14","Total",81
+2020-04-12,"5-14","Hospitalised",5
+2020-04-12,"5-14","In ICU",1
+2020-04-12,"5-14","Died",0
+2020-04-12,"15-24","Total",674
+2020-04-12,"15-24","Hospitalised",43
+2020-04-12,"15-24","In ICU",3
+2020-04-12,"15-24","Died",0
+2020-04-12,"25-34","Total",1805
+2020-04-12,"25-34","Hospitalised",127
+2020-04-12,"25-34","In ICU",9
+2020-04-12,"25-34","Died",3
+2020-04-12,"35-44","Total",1927
+2020-04-12,"35-44","Hospitalised",154
+2020-04-12,"35-44","In ICU",18
+2020-04-12,"35-44","Died",8
+2020-04-12,"45-54","Total",1983
+2020-04-12,"45-54","Hospitalised",278
+2020-04-12,"45-54","In ICU",64
+2020-04-12,"45-54","Died",7
+2020-04-12,"55-64","Total",1522
+2020-04-12,"55-64","Hospitalised",293
+2020-04-12,"55-64","In ICU",74
+2020-04-12,"55-64","Died",18
+2020-04-12,"65+","Total",2316
+2020-04-12,"65+","Hospitalised",989
+2020-04-12,"65+","In ICU",106
+2020-04-12,"65+","Died",359
+2020-04-12,"Unknown","Total",21
+2020-04-12,"Unknown","Hospitalised",2
+2020-04-12,"Unknown","In ICU",0
+2020-04-12,"Unknown","Died",0
+2020-04-11,"<5","Total",48
+2020-04-11,"<5","Hospitalised",11
+2020-04-11,"<5","In ICU",0
+2020-04-11,"<5","Died",0
+2020-04-11,"5-14","Total",67
+2020-04-11,"5-14","Hospitalised",5
+2020-04-11,"5-14","In ICU",1
+2020-04-11,"5-14","Died",0
+2020-04-11,"15-24","Total",598
+2020-04-11,"15-24","Hospitalised",44
+2020-04-11,"15-24","In ICU",3
+2020-04-11,"15-24","Died",0
+2020-04-11,"25-34","Total",1647
+2020-04-11,"25-34","Hospitalised",125
+2020-04-11,"25-34","In ICU",9
+2020-04-11,"25-34","Died",3
+2020-04-11,"35-44","Total",1757
+2020-04-11,"35-44","Hospitalised",150
+2020-04-11,"35-44","In ICU",16
+2020-04-11,"35-44","Died",8
+2020-04-11,"45-54","Total",1812
+2020-04-11,"45-54","Hospitalised",272
+2020-04-11,"45-54","In ICU",62
+2020-04-11,"45-54","Died",7
+2020-04-11,"55-64","Total",1411
+2020-04-11,"55-64","Hospitalised",287
+2020-04-11,"55-64","In ICU",73
+2020-04-11,"55-64","Died",18
+2020-04-11,"65+","Total",2123
+2020-04-11,"65+","Hospitalised",953
+2020-04-11,"65+","In ICU",104
+2020-04-11,"65+","Died",326
+2020-04-11,"Unknown","Total",21
+2020-04-11,"Unknown","Hospitalised",2
+2020-04-11,"Unknown","In ICU",0
+2020-04-11,"Unknown","Died",0
+2020-04-10,"<5","Total",45
+2020-04-10,"<5","Hospitalised",10
+2020-04-10,"<5","In ICU",0
+2020-04-10,"<5","Died",0
+2020-04-10,"5-14","Total",56
+2020-04-10,"5-14","Hospitalised",5
+2020-04-10,"5-14","In ICU",1
+2020-04-10,"5-14","Died",0
+2020-04-10,"15-24","Total",528
+2020-04-10,"15-24","Hospitalised",43
+2020-04-10,"15-24","In ICU",3
+2020-04-10,"15-24","Died",0
+2020-04-10,"25-34","Total",1479
+2020-04-10,"25-34","Hospitalised",123
+2020-04-10,"25-34","In ICU",10
+2020-04-10,"25-34","Died",2
+2020-04-10,"35-44","Total",1558
+2020-04-10,"35-44","Hospitalised",146
+2020-04-10,"35-44","In ICU",16
+2020-04-10,"35-44","Died",7
+2020-04-10,"45-54","Total",1609
+2020-04-10,"45-54","Hospitalised",263
+2020-04-10,"45-54","In ICU",60
+2020-04-10,"45-54","Died",7
+2020-04-10,"55-64","Total",1251
+2020-04-10,"55-64","Hospitalised",279
+2020-04-10,"55-64","In ICU",71
+2020-04-10,"55-64","Died",15
+2020-04-10,"65+","Total",1951
+2020-04-10,"65+","Hospitalised",906
+2020-04-10,"65+","In ICU",100
+2020-04-10,"65+","Died",298
+2020-04-10,"Unknown","Total",19
+2020-04-10,"Unknown","Hospitalised",2
+2020-04-10,"Unknown","In ICU",0
+2020-04-10,"Unknown","Died",0
+2020-04-09,"<5","Total",40
+2020-04-09,"<5","Hospitalised",10
+2020-04-09,"<5","In ICU",0
+2020-04-09,"<5","Died",0
+2020-04-09,"5-14","Total",52
+2020-04-09,"5-14","Hospitalised",4
+2020-04-09,"5-14","In ICU",1
+2020-04-09,"5-14","Died",0
+2020-04-09,"15-24","Total",473
+2020-04-09,"15-24","Hospitalised",41
+2020-04-09,"15-24","In ICU",3
+2020-04-09,"15-24","Died",0
+2020-04-09,"25-34","Total",1343
+2020-04-09,"25-34","Hospitalised",119
+2020-04-09,"25-34","In ICU",9
+2020-04-09,"25-34","Died",2
+2020-04-09,"35-44","Total",1418
+2020-04-09,"35-44","Hospitalised",144
+2020-04-09,"35-44","In ICU",15
+2020-04-09,"35-44","Died",6
+2020-04-09,"45-54","Total",1479
+2020-04-09,"45-54","Hospitalised",256
+2020-04-09,"45-54","In ICU",59
+2020-04-09,"45-54","Died",7
+2020-04-09,"55-64","Total",1138
+2020-04-09,"55-64","Hospitalised",271
+2020-04-09,"55-64","In ICU",70
+2020-04-09,"55-64","Died",14
+2020-04-09,"65+","Total",1825
+2020-04-09,"65+","Hospitalised",871
+2020-04-09,"65+","In ICU",96
+2020-04-09,"65+","Died",285
+2020-04-09,"Unknown","Total",19
+2020-04-09,"Unknown","Hospitalised",2
+2020-04-09,"Unknown","In ICU",0
+2020-04-09,"Unknown","Died",0
+2020-04-08,"<5","Total",36
+2020-04-08,"<5","Hospitalised",10
+2020-04-08,"<5","In ICU",0
+2020-04-08,"<5","Died",0
+2020-04-08,"5-14","Total",45
+2020-04-08,"5-14","Hospitalised",4
+2020-04-08,"5-14","In ICU",1
+2020-04-08,"5-14","Died",0
+2020-04-08,"15-24","Total",423
+2020-04-08,"15-24","Hospitalised",39
+2020-04-08,"15-24","In ICU",3
+2020-04-08,"15-24","Died",0
+2020-04-08,"25-34","Total",1220
+2020-04-08,"25-34","Hospitalised",115
+2020-04-08,"25-34","In ICU",9
+2020-04-08,"25-34","Died",2
+2020-04-08,"35-44","Total",1304
+2020-04-08,"35-44","Hospitalised",137
+2020-04-08,"35-44","In ICU",13
+2020-04-08,"35-44","Died",4
+2020-04-08,"45-54","Total",1339
+2020-04-08,"45-54","Hospitalised",249
+2020-04-08,"45-54","In ICU",58
+2020-04-08,"45-54","Died",7
+2020-04-08,"55-64","Total",1015
+2020-04-08,"55-64","Hospitalised",256
+2020-04-08,"55-64","In ICU",69
+2020-04-08,"55-64","Died",13
+2020-04-08,"65+","Total",1670
+2020-04-08,"65+","Hospitalised",819
+2020-04-08,"65+","In ICU",91
+2020-04-08,"65+","Died",257
+2020-04-08,"Unknown","Total",19
+2020-04-08,"Unknown","Hospitalised",2
+2020-04-08,"Unknown","In ICU",0
+2020-04-08,"Unknown","Died",0
+2020-04-07,"<5","Total",33
+2020-04-07,"<5","Hospitalised",9
+2020-04-07,"<5","In ICU",0
+2020-04-07,"<5","Died",0
+2020-04-07,"5-14","Total",43
+2020-04-07,"5-14","Hospitalised",4
+2020-04-07,"5-14","In ICU",1
+2020-04-07,"5-14","Died",0
+2020-04-07,"15-24","Total",384
+2020-04-07,"15-24","Hospitalised",37
+2020-04-07,"15-24","In ICU",2
+2020-04-07,"15-24","Died",0
+2020-04-07,"25-34","Total",1103
+2020-04-07,"25-34","Hospitalised",103
+2020-04-07,"25-34","In ICU",9
+2020-04-07,"25-34","Died",2
+2020-04-07,"35-44","Total",1176
+2020-04-07,"35-44","Hospitalised",130
+2020-04-07,"35-44","In ICU",12
+2020-04-07,"35-44","Died",4
+2020-04-07,"45-54","Total",1219
+2020-04-07,"45-54","Hospitalised",231
+2020-04-07,"45-54","In ICU",56
+2020-04-07,"45-54","Died",8
+2020-04-07,"55-64","Total",922
+2020-04-07,"55-64","Hospitalised",237
+2020-04-07,"55-64","In ICU",65
+2020-04-07,"55-64","Died",12
+2020-04-07,"65+","Total",1544
+2020-04-07,"65+","Hospitalised",768
+2020-04-07,"65+","In ICU",85
+2020-04-07,"65+","Died",231
+2020-04-07,"Unknown","Total",20
+2020-04-07,"Unknown","Hospitalised",2
+2020-04-07,"Unknown","In ICU",0
+2020-04-07,"Unknown","Died",0
+2020-04-06,"<5","Total",30
+2020-04-06,"<5","Hospitalised",7
+2020-04-06,"<5","In ICU",0
+2020-04-06,"<5","Died",0
+2020-04-06,"5-14","Total",42
+2020-04-06,"5-14","Hospitalised",4
+2020-04-06,"5-14","In ICU",1
+2020-04-06,"5-14","Died",0
+2020-04-06,"15-24","Total",364
+2020-04-06,"15-24","Hospitalised",37
+2020-04-06,"15-24","In ICU",2
+2020-04-06,"15-24","Died",0
+2020-04-06,"25-34","Total",1010
+2020-04-06,"25-34","Hospitalised",102
+2020-04-06,"25-34","In ICU",10
+2020-04-06,"25-34","Died",2
+2020-04-06,"35-44","Total",1111
+2020-04-06,"35-44","Hospitalised",127
+2020-04-06,"35-44","In ICU",13
+2020-04-06,"35-44","Died",3
+2020-04-06,"45-54","Total",1118
+2020-04-06,"45-54","Hospitalised",224
+2020-04-06,"45-54","In ICU",54
+2020-04-06,"45-54","Died",7
+2020-04-06,"55-64","Total",847
+2020-04-06,"55-64","Hospitalised",230
+2020-04-06,"55-64","In ICU",63
+2020-04-06,"55-64","Died",11
+2020-04-06,"65+","Total",1442
+2020-04-06,"65+","Hospitalised",739
+2020-04-06,"65+","In ICU",81
+2020-04-06,"65+","Died",200
+2020-04-06,"Unknown","Total",17
+2020-04-06,"Unknown","Hospitalised",2
+2020-04-06,"Unknown","In ICU",0
+2020-04-06,"Unknown","Died",0
+2020-04-05,"<5","Total",30
+2020-04-05,"<5","Hospitalised",7
+2020-04-05,"<5","In ICU",0
+2020-04-05,"<5","Died",0
+2020-04-05,"5-14","Total",39
+2020-04-05,"5-14","Hospitalised",3
+2020-04-05,"5-14","In ICU",1
+2020-04-05,"5-14","Died",0
+2020-04-05,"15-24","Total",347
+2020-04-05,"15-24","Hospitalised",36
+2020-04-05,"15-24","In ICU",2
+2020-04-05,"15-24","Died",0
+2020-04-05,"25-34","Total",948
+2020-04-05,"25-34","Hospitalised",96
+2020-04-05,"25-34","In ICU",9
+2020-04-05,"25-34","Died",2
+2020-04-05,"35-44","Total",1044
+2020-04-05,"35-44","Hospitalised",116
+2020-04-05,"35-44","In ICU",12
+2020-04-05,"35-44","Died",2
+2020-04-05,"45-54","Total",1048
+2020-04-05,"45-54","Hospitalised",201
+2020-04-05,"45-54","In ICU",46
+2020-04-05,"45-54","Died",6
+2020-04-05,"55-64","Total",794
+2020-04-05,"55-64","Hospitalised",207
+2020-04-05,"55-64","In ICU",50
+2020-04-05,"55-64","Died",9
+2020-04-05,"65+","Total",1326
+2020-04-05,"65+","Hospitalised",677
+2020-04-05,"65+","In ICU",74
+2020-04-05,"65+","Died",185
+2020-04-05,"Unknown","Total",17
+2020-04-05,"Unknown","Hospitalised",2
+2020-04-05,"Unknown","In ICU",0
+2020-04-05,"Unknown","Died",0
+2020-04-04,"<5","Total",24
+2020-04-04,"<5","Hospitalised",3
+2020-04-04,"<5","In ICU",0
+2020-04-04,"<5","Died",0
+2020-04-04,"5-14","Total",36
+2020-04-04,"5-14","Hospitalised",7
+2020-04-04,"5-14","In ICU",1
+2020-04-04,"5-14","Died",0
+2020-04-04,"15-24","Total",287
+2020-04-04,"15-24","Hospitalised",35
+2020-04-04,"15-24","In ICU",1
+2020-04-04,"15-24","Died",0
+2020-04-04,"25-34","Total",820
+2020-04-04,"25-34","Hospitalised",93
+2020-04-04,"25-34","In ICU",7
+2020-04-04,"25-34","Died",2
+2020-04-04,"35-44","Total",902
+2020-04-04,"35-44","Hospitalised",111
+2020-04-04,"35-44","In ICU",9
+2020-04-04,"35-44","Died",1
+2020-04-04,"45-54","Total",907
+2020-04-04,"45-54","Hospitalised",188
+2020-04-04,"45-54","In ICU",42
+2020-04-04,"45-54","Died",4
+2020-04-04,"55-64","Total",697
+2020-04-04,"55-64","Hospitalised",191
+2020-04-04,"55-64","In ICU",43
+2020-04-04,"55-64","Died",7
+2020-04-04,"65+","Total",1229
+2020-04-04,"65+","Hospitalised",635
+2020-04-04,"65+","In ICU",66
+2020-04-04,"65+","Died",153
+2020-04-04,"Unknown","Total",14
+2020-04-04,"Unknown","Hospitalised",2
+2020-04-04,"Unknown","In ICU",0
+2020-04-04,"Unknown","Died",0
+2020-04-03,"<5","Total",24
+2020-04-03,"<5","Hospitalised",7
+2020-04-03,"<5","In ICU",0
+2020-04-03,"<5","Died",0
+2020-04-03,"5-14","Total",35
+2020-04-03,"5-14","Hospitalised",4
+2020-04-03,"5-14","In ICU",1
+2020-04-03,"5-14","Died",0
+2020-04-03,"15-24","Total",270
+2020-04-03,"15-24","Hospitalised",35
+2020-04-03,"15-24","In ICU",1
+2020-04-03,"15-24","Died",0
+2020-04-03,"25-34","Total",748
+2020-04-03,"25-34","Hospitalised",88
+2020-04-03,"25-34","In ICU",7
+2020-04-03,"25-34","Died",2
+2020-04-03,"35-44","Total",808
+2020-04-03,"35-44","Hospitalised",106
+2020-04-03,"35-44","In ICU",9
+2020-04-03,"35-44","Died",1
+2020-04-03,"45-54","Total",830
+2020-04-03,"45-54","Hospitalised",183
+2020-04-03,"45-54","In ICU",38
+2020-04-03,"45-54","Died",4
+2020-04-03,"55-64","Total",647
+2020-04-03,"55-64","Hospitalised",185
+2020-04-03,"55-64","In ICU",41
+2020-04-03,"55-64","Died",7
+2020-04-03,"65+","Total",1070
+2020-04-03,"65+","Hospitalised",593
+2020-04-03,"65+","In ICU",68
+2020-04-03,"65+","Died",137
+2020-04-03,"Unknown","Total",11
+2020-04-03,"Unknown","Hospitalised",2
+2020-04-03,"Unknown","In ICU",0
+2020-04-03,"Unknown","Died",0
+2020-04-02,"<5","Total",21
+2020-04-02,"<5","Hospitalised",6
+2020-04-02,"<5","In ICU",0
+2020-04-02,"<5","Died",0
+2020-04-02,"5-14","Total",33
+2020-04-02,"5-14","Hospitalised",4
+2020-04-02,"5-14","In ICU",1
+2020-04-02,"5-14","Died",0
+2020-04-02,"15-24","Total",255
+2020-04-02,"15-24","Hospitalised",34
+2020-04-02,"15-24","In ICU",1
+2020-04-02,"15-24","Died",0
+2020-04-02,"25-34","Total",678
+2020-04-02,"25-34","Hospitalised",83
+2020-04-02,"25-34","In ICU",7
+2020-04-02,"25-34","Died",2
+2020-04-02,"35-44","Total",751
+2020-04-02,"35-44","Hospitalised",101
+2020-04-02,"35-44","In ICU",9
+2020-04-02,"35-44","Died",1
+2020-04-02,"45-54","Total",764
+2020-04-02,"45-54","Hospitalised",174
+2020-04-02,"45-54","In ICU",36
+2020-04-02,"45-54","Died",3
+2020-04-02,"55-64","Total",584
+2020-04-02,"55-64","Hospitalised",174
+2020-04-02,"55-64","In ICU",38
+2020-04-02,"55-64","Died",7
+2020-04-02,"65+","Total",918
+2020-04-02,"65+","Hospitalised",540
+2020-04-02,"65+","In ICU",66
+2020-04-02,"65+","Died",118
+2020-04-02,"Unknown","Total",10
+2020-04-02,"Unknown","Hospitalised",2
+2020-04-02,"Unknown","In ICU",0
+2020-04-02,"Unknown","Died",0
+2020-04-01,"<5","Total",20
+2020-04-01,"<5","Hospitalised",6
+2020-04-01,"<5","In ICU",0
+2020-04-01,"<5","Died",0
+2020-04-01,"5-14","Total",30
+2020-04-01,"5-14","Hospitalised",4
+2020-04-01,"5-14","In ICU",1
+2020-04-01,"5-14","Died",0
+2020-04-01,"15-24","Total",235
+2020-04-01,"15-24","Hospitalised",32
+2020-04-01,"15-24","In ICU",1
+2020-04-01,"15-24","Died",0
+2020-04-01,"25-34","Total",618
+2020-04-01,"25-34","Hospitalised",81
+2020-04-01,"25-34","In ICU",7
+2020-04-01,"25-34","Died",2
+2020-04-01,"35-44","Total",685
+2020-04-01,"35-44","Hospitalised",94
+2020-04-01,"35-44","In ICU",9
+2020-04-01,"35-44","Died",1
+2020-04-01,"45-54","Total",690
+2020-04-01,"45-54","Hospitalised",163
+2020-04-01,"45-54","In ICU",35
+2020-04-01,"45-54","Died",1
+2020-04-01,"55-64","Total",537
+2020-04-01,"55-64","Hospitalised",160
+2020-04-01,"55-64","In ICU",36
+2020-04-01,"55-64","Died",6
+2020-04-01,"65+","Total",831
+2020-04-01,"65+","Hospitalised",497
+2020-04-01,"65+","In ICU",59
+2020-04-01,"65+","Died",103
+2020-04-01,"Unknown","Total",9
+2020-04-01,"Unknown","Hospitalised",2
+2020-04-01,"Unknown","In ICU",0
+2020-04-01,"Unknown","Died",0
+2020-03-31,"<5","Total",19
+2020-03-31,"<5","Hospitalised",6
+2020-03-31,"<5","In ICU",0
+2020-03-31,"<5","Died",0
+2020-03-31,"5-14","Total",30
+2020-03-31,"5-14","Hospitalised",4
+2020-03-31,"5-14","In ICU",1
+2020-03-31,"5-14","Died",0
+2020-03-31,"15-24","Total",216
+2020-03-31,"15-24","Hospitalised",29
+2020-03-31,"15-24","In ICU",0
+2020-03-31,"15-24","Died",0
+2020-03-31,"25-34","Total",564
+2020-03-31,"25-34","Hospitalised",77
+2020-03-31,"25-34","In ICU",7
+2020-03-31,"25-34","Died",2
+2020-03-31,"35-44","Total",617
+2020-03-31,"35-44","Hospitalised",85
+2020-03-31,"35-44","In ICU",9
+2020-03-31,"35-44","Died",1
+2020-03-31,"45-54","Total",608
+2020-03-31,"45-54","Hospitalised",152
+2020-03-31,"45-54","In ICU",34
+2020-03-31,"45-54","Died",1
+2020-03-31,"55-64","Total",480
+2020-03-31,"55-64","Hospitalised",145
+2020-03-31,"55-64","In ICU",34
+2020-03-31,"55-64","Died",6
+2020-03-31,"65+","Total",739
+2020-03-31,"65+","Hospitalised",432
+2020-03-31,"65+","In ICU",49
+2020-03-31,"65+","Died",81
+2020-03-31,"Unknown","Total",9
+2020-03-31,"Unknown","Hospitalised",2
+2020-03-31,"Unknown","In ICU",0
+2020-03-31,"Unknown","Died",0
+2020-03-30,"<5","Total",19
+2020-03-30,"<5","Hospitalised",6
+2020-03-30,"<5","In ICU",0
+2020-03-30,"<5","Died",0
+2020-03-30,"5-14","Total",30
+2020-03-30,"5-14","Hospitalised",3
+2020-03-30,"5-14","In ICU",1
+2020-03-30,"5-14","Died",0
+2020-03-30,"15-24","Total",194
+2020-03-30,"15-24","Hospitalised",26
+2020-03-30,"15-24","In ICU",0
+2020-03-30,"15-24","Died",0
+2020-03-30,"25-34","Total",519
+2020-03-30,"25-34","Hospitalised",69
+2020-03-30,"25-34","In ICU",7
+2020-03-30,"25-34","Died",1
+2020-03-30,"35-44","Total",550
+2020-03-30,"35-44","Hospitalised",76
+2020-03-30,"35-44","In ICU",9
+2020-03-30,"35-44","Died",1
+2020-03-30,"45-54","Total",558
+2020-03-30,"45-54","Hospitalised",134
+2020-03-30,"45-54","In ICU",30
+2020-03-30,"45-54","Died",1
+2020-03-30,"55-64","Total",440
+2020-03-30,"55-64","Hospitalised",130
+2020-03-30,"55-64","In ICU",33
+2020-03-30,"55-64","Died",6
+2020-03-30,"65+","Total",673
+2020-03-30,"65+","Hospitalised",388
+2020-03-30,"65+","In ICU",46
+2020-03-30,"65+","Died",75
+2020-03-30,"Unknown","Total",7
+2020-03-30,"Unknown","Hospitalised",2
+2020-03-30,"Unknown","In ICU",0
+2020-03-30,"Unknown","Died",0
+2020-03-29,"<5","Total",17
+2020-03-29,"<5","Hospitalised",4
+2020-03-29,"<5","In ICU",0
+2020-03-29,"<5","Died",0
+2020-03-29,"5-14","Total",30
+2020-03-29,"5-14","Hospitalised",3
+2020-03-29,"5-14","In ICU",1
+2020-03-29,"5-14","Died",0
+2020-03-29,"15-24","Total",178
+2020-03-29,"15-24","Hospitalised",22
+2020-03-29,"15-24","In ICU",0
+2020-03-29,"15-24","Died",0
+2020-03-29,"25-34","Total",477
+2020-03-29,"25-34","Hospitalised",61
+2020-03-29,"25-34","In ICU",6
+2020-03-29,"25-34","Died",1
+2020-03-29,"35-44","Total",503
+2020-03-29,"35-44","Hospitalised",66
+2020-03-29,"35-44","In ICU",8
+2020-03-29,"35-44","Died",1
+2020-03-29,"45-54","Total",504
+2020-03-29,"45-54","Hospitalised",116
+2020-03-29,"45-54","In ICU",25
+2020-03-29,"45-54","Died",1
+2020-03-29,"55-64","Total",398
+2020-03-29,"55-64","Hospitalised",108
+2020-03-29,"55-64","In ICU",30
+2020-03-29,"55-64","Died",4
+2020-03-29,"65+","Total",563
+2020-03-29,"65+","Hospitalised",321
+2020-03-29,"65+","In ICU",43
+2020-03-29,"65+","Died",57
+2020-03-29,"Unknown","Total",7
+2020-03-29,"Unknown","Hospitalised",2
+2020-03-29,"Unknown","In ICU",0
+2020-03-29,"Unknown","Died",0
+2020-03-28,"<5","Total",15
+2020-03-28,"<5","Hospitalised",3
+2020-03-28,"<5","In ICU",0
+2020-03-28,"<5","Died",0
+2020-03-28,"5-14","Total",29
+2020-03-28,"5-14","Hospitalised",3
+2020-03-28,"5-14","In ICU",1
+2020-03-28,"5-14","Died",0
+2020-03-28,"15-24","Total",171
+2020-03-28,"15-24","Hospitalised",21
+2020-03-28,"15-24","In ICU",0
+2020-03-28,"15-24","Died",0
+2020-03-28,"25-34","Total",448
+2020-03-28,"25-34","Hospitalised",57
+2020-03-28,"25-34","In ICU",4
+2020-03-28,"25-34","Died",1
+2020-03-28,"35-44","Total",467
+2020-03-28,"35-44","Hospitalised",61
+2020-03-28,"35-44","In ICU",7
+2020-03-28,"35-44","Died",1
+2020-03-28,"45-54","Total",467
+2020-03-28,"45-54","Hospitalised",107
+2020-03-28,"45-54","In ICU",21
+2020-03-28,"45-54","Died",1
+2020-03-28,"55-64","Total",360
+2020-03-28,"55-64","Hospitalised",101
+2020-03-28,"55-64","In ICU",20
+2020-03-28,"55-64","Died",3
+2020-03-28,"65+","Total",511
+2020-03-28,"65+","Hospitalised",290
+2020-03-28,"65+","In ICU",31
+2020-03-28,"65+","Died",38
+2020-03-28,"Unknown","Total",7
+2020-03-28,"Unknown","Hospitalised",2
+2020-03-28,"Unknown","In ICU",0
+2020-03-28,"Unknown","Died",0
+2020-03-27,"<5","Total",15
+2020-03-27,"<5","Hospitalised",3
+2020-03-27,"<5","In ICU",0
+2020-03-27,"<5","Died",0
+2020-03-27,"5-14","Total",29
+2020-03-27,"5-14","Hospitalised",3
+2020-03-27,"5-14","In ICU",1
+2020-03-27,"5-14","Died",0
+2020-03-27,"15-24","Total",155
+2020-03-27,"15-24","Hospitalised",19
+2020-03-27,"15-24","In ICU",0
+2020-03-27,"15-24","Died",0
+2020-03-27,"25-34","Total",406
+2020-03-27,"25-34","Hospitalised",52
+2020-03-27,"25-34","In ICU",4
+2020-03-27,"25-34","Died",1
+2020-03-27,"35-44","Total",416
+2020-03-27,"35-44","Hospitalised",51
+2020-03-27,"35-44","In ICU",7
+2020-03-27,"35-44","Died",1
+2020-03-27,"45-54","Total",432
+2020-03-27,"45-54","Hospitalised",98
+2020-03-27,"45-54","In ICU",19
+2020-03-27,"45-54","Died",1
+2020-03-27,"55-64","Total",314
+2020-03-27,"55-64","Hospitalised",88
+2020-03-27,"55-64","In ICU",17
+2020-03-27,"55-64","Died",2
+2020-03-27,"65+","Total",441
+2020-03-27,"65+","Hospitalised",249
+2020-03-27,"65+","In ICU",29
+2020-03-27,"65+","Died",38
+2020-03-27,"Unknown","Total",8
+2020-03-27,"Unknown","Hospitalised",1
+2020-03-27,"Unknown","In ICU",0
+2020-03-27,"Unknown","Died",0
+2020-03-26,"<5","Total",14
+2020-03-26,"<5","Hospitalised",3
+2020-03-26,"<5","In ICU",0
+2020-03-26,"<5","Died",0
+2020-03-26,"5-14","Total",25
+2020-03-26,"5-14","Hospitalised",3
+2020-03-26,"5-14","In ICU",1
+2020-03-26,"5-14","Died",0
+2020-03-26,"15-24","Total",136
+2020-03-26,"15-24","Hospitalised",18
+2020-03-26,"15-24","In ICU",0
+2020-03-26,"15-24","Died",0
+2020-03-26,"25-34","Total",358
+2020-03-26,"25-34","Hospitalised",48
+2020-03-26,"25-34","In ICU",3
+2020-03-26,"25-34","Died",1
+2020-03-26,"35-44","Total",353
+2020-03-26,"35-44","Hospitalised",45
+2020-03-26,"35-44","In ICU",6
+2020-03-26,"35-44","Died",1
+2020-03-26,"45-54","Total",368
+2020-03-26,"45-54","Hospitalised",85
+2020-03-26,"45-54","In ICU",18
+2020-03-26,"45-54","Died",1
+2020-03-26,"55-64","Total",271
+2020-03-26,"55-64","Hospitalised",76
+2020-03-26,"55-64","In ICU",15
+2020-03-26,"55-64","Died",1
+2020-03-26,"65+","Total",373
+2020-03-26,"65+","Hospitalised",210
+2020-03-26,"65+","In ICU",24
+2020-03-26,"65+","Died",29
+2020-03-26,"Unknown","Total",6
+2020-03-26,"Unknown","Hospitalised",1
+2020-03-26,"Unknown","In ICU",0
+2020-03-26,"Unknown","Died",0

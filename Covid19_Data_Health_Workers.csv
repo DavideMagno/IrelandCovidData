@@ -1,0 +1,745 @@
+"Date","HSE area","Key","Value"
+2020-04-20,"HSE East","Foreign travel",80
+2020-04-20,"HSE East","No Foreign travel",2407
+2020-04-20,"HSE East","Not specified",131
+2020-04-20,"HSE Midlands","Foreign travel",7
+2020-04-20,"HSE Midlands","No Foreign travel",176
+2020-04-20,"HSE Midlands","Not specified",73
+2020-04-20,"HSE Mid-West","Foreign travel",15
+2020-04-20,"HSE Mid-West","No Foreign travel",85
+2020-04-20,"HSE Mid-West","Not specified",118
+2020-04-20,"HSE North-East","Foreign travel",6
+2020-04-20,"HSE North-East","No Foreign travel",20
+2020-04-20,"HSE North-East","Not specified",439
+2020-04-20,"HSE North-West","Foreign travel",8
+2020-04-20,"HSE North-West","No Foreign travel",91
+2020-04-20,"HSE North-West","Not specified",85
+2020-04-20,"HSE South-East","Foreign travel",5
+2020-04-20,"HSE South-East","No Foreign travel",3
+2020-04-20,"HSE South-East","Not specified",175
+2020-04-20,"HSE South","Foreign travel",20
+2020-04-20,"HSE South","No Foreign travel",107
+2020-04-20,"HSE South","Not specified",154
+2020-04-20,"HSE West","Foreign travel",7
+2020-04-20,"HSE West","No Foreign travel",86
+2020-04-20,"HSE West","Not specified",95
+2020-04-19,"HSE East","Foreign travel",78
+2020-04-19,"HSE East","No Foreign travel",2345
+2020-04-19,"HSE East","Not specified",112
+2020-04-19,"HSE Midlands","Foreign travel",7
+2020-04-19,"HSE Midlands","No Foreign travel",173
+2020-04-19,"HSE Midlands","Not specified",71
+2020-04-19,"HSE Mid-West","Foreign travel",15
+2020-04-19,"HSE Mid-West","No Foreign travel",81
+2020-04-19,"HSE Mid-West","Not specified",97
+2020-04-19,"HSE North-East","Foreign travel",5
+2020-04-19,"HSE North-East","No Foreign travel",20
+2020-04-19,"HSE North-East","Not specified",381
+2020-04-19,"HSE North-West","Foreign travel",8
+2020-04-19,"HSE North-West","No Foreign travel",82
+2020-04-19,"HSE North-West","Not specified",79
+2020-04-19,"HSE South-East","Foreign travel",5
+2020-04-19,"HSE South-East","No Foreign travel",3
+2020-04-19,"HSE South-East","Not specified",171
+2020-04-19,"HSE South","Foreign travel",19
+2020-04-19,"HSE South","No Foreign travel",106
+2020-04-19,"HSE South","Not specified",137
+2020-04-19,"HSE West","Foreign travel",7
+2020-04-19,"HSE West","No Foreign travel",86
+2020-04-19,"HSE West","Not specified",92
+2020-04-18,"HSE East","Foreign travel",78
+2020-04-18,"HSE East","No Foreign travel",2266
+2020-04-18,"HSE East","Not specified",112
+2020-04-18,"HSE Midlands","Foreign travel",7
+2020-04-18,"HSE Midlands","No Foreign travel",169
+2020-04-18,"HSE Midlands","Not specified",66
+2020-04-18,"HSE Mid-West","Foreign travel",15
+2020-04-18,"HSE Mid-West","No Foreign travel",75
+2020-04-18,"HSE Mid-West","Not specified",99
+2020-04-18,"HSE North-East","Foreign travel",5
+2020-04-18,"HSE North-East","No Foreign travel",20
+2020-04-18,"HSE North-East","Not specified",354
+2020-04-18,"HSE North-West","Foreign travel",8
+2020-04-18,"HSE North-West","No Foreign travel",71
+2020-04-18,"HSE North-West","Not specified",76
+2020-04-18,"HSE South-East","Foreign travel",5
+2020-04-18,"HSE South-East","No Foreign travel",3
+2020-04-18,"HSE South-East","Not specified",166
+2020-04-18,"HSE South","Foreign travel",19
+2020-04-18,"HSE South","No Foreign travel",106
+2020-04-18,"HSE South","Not specified",108
+2020-04-18,"HSE West","Foreign travel",7
+2020-04-18,"HSE West","No Foreign travel",86
+2020-04-18,"HSE West","Not specified",88
+2020-04-17,"HSE East","Foreign travel",77
+2020-04-17,"HSE East","No Foreign travel",2116
+2020-04-17,"HSE East","Not specified",111
+2020-04-17,"HSE Midlands","Foreign travel",7
+2020-04-17,"HSE Midlands","No Foreign travel",159
+2020-04-17,"HSE Midlands","Not specified",66
+2020-04-17,"HSE Mid-West","Foreign travel",15
+2020-04-17,"HSE Mid-West","No Foreign travel",75
+2020-04-17,"HSE Mid-West","Not specified",99
+2020-04-17,"HSE North-East","Foreign travel",4
+2020-04-17,"HSE North-East","No Foreign travel",20
+2020-04-17,"HSE North-East","Not specified",314
+2020-04-17,"HSE North-West","Foreign travel",8
+2020-04-17,"HSE North-West","No Foreign travel",71
+2020-04-17,"HSE North-West","Not specified",72
+2020-04-17,"HSE South-East","Foreign travel",5
+2020-04-17,"HSE South-East","No Foreign travel",3
+2020-04-17,"HSE South-East","Not specified",160
+2020-04-17,"HSE South","Foreign travel",19
+2020-04-17,"HSE South","No Foreign travel",106
+2020-04-17,"HSE South","Not specified",102
+2020-04-17,"HSE West","Foreign travel",7
+2020-04-17,"HSE West","No Foreign travel",85
+2020-04-17,"HSE West","Not specified",87
+2020-04-16,"HSE East","Foreign travel",77
+2020-04-16,"HSE East","No Foreign travel",1988
+2020-04-16,"HSE East","Not specified",108
+2020-04-16,"HSE Midlands","Foreign travel",7
+2020-04-16,"HSE Midlands","No Foreign travel",145
+2020-04-16,"HSE Midlands","Not specified",63
+2020-04-16,"HSE Mid-West","Foreign travel",15
+2020-04-16,"HSE Mid-West","No Foreign travel",75
+2020-04-16,"HSE Mid-West","Not specified",99
+2020-04-16,"HSE North-East","Foreign travel",4
+2020-04-16,"HSE North-East","No Foreign travel",18
+2020-04-16,"HSE North-East","Not specified",295
+2020-04-16,"HSE North-West","Foreign travel",8
+2020-04-16,"HSE North-West","No Foreign travel",67
+2020-04-16,"HSE North-West","Not specified",57
+2020-04-16,"HSE South-East","Foreign travel",5
+2020-04-16,"HSE South-East","No Foreign travel",3
+2020-04-16,"HSE South-East","Not specified",148
+2020-04-16,"HSE South","Foreign travel",19
+2020-04-16,"HSE South","No Foreign travel",105
+2020-04-16,"HSE South","Not specified",90
+2020-04-16,"HSE West","Foreign travel",7
+2020-04-16,"HSE West","No Foreign travel",85
+2020-04-16,"HSE West","Not specified",85
+2020-04-15,"HSE East","Foreign travel",76
+2020-04-15,"HSE East","No Foreign travel",1862
+2020-04-15,"HSE East","Not specified",105
+2020-04-15,"HSE Midlands","Foreign travel",7
+2020-04-15,"HSE Midlands","No Foreign travel",133
+2020-04-15,"HSE Midlands","Not specified",56
+2020-04-15,"HSE Mid-West","Foreign travel",14
+2020-04-15,"HSE Mid-West","No Foreign travel",71
+2020-04-15,"HSE Mid-West","Not specified",93
+2020-04-15,"HSE North-East","Foreign travel",4
+2020-04-15,"HSE North-East","No Foreign travel",17
+2020-04-15,"HSE North-East","Not specified",260
+2020-04-15,"HSE North-West","Foreign travel",8
+2020-04-15,"HSE North-West","No Foreign travel",56
+2020-04-15,"HSE North-West","Not specified",58
+2020-04-15,"HSE South-East","Foreign travel",5
+2020-04-15,"HSE South-East","No Foreign travel",3
+2020-04-15,"HSE South-East","Not specified",136
+2020-04-15,"HSE South","Foreign travel",21
+2020-04-15,"HSE South","No Foreign travel",104
+2020-04-15,"HSE South","Not specified",81
+2020-04-15,"HSE West","Foreign travel",7
+2020-04-15,"HSE West","No Foreign travel",85
+2020-04-15,"HSE West","Not specified",85
+2020-04-14,"HSE East","Foreign travel",72
+2020-04-14,"HSE East","No Foreign travel",1732
+2020-04-14,"HSE East","Not specified",102
+2020-04-14,"HSE Midlands","Foreign travel",6
+2020-04-14,"HSE Midlands","No Foreign travel",128
+2020-04-14,"HSE Midlands","Not specified",56
+2020-04-14,"HSE Mid-West","Foreign travel",13
+2020-04-14,"HSE Mid-West","No Foreign travel",67
+2020-04-14,"HSE Mid-West","Not specified",80
+2020-04-14,"HSE North-East","Foreign travel",3
+2020-04-14,"HSE North-East","No Foreign travel",17
+2020-04-14,"HSE North-East","Not specified",183
+2020-04-14,"HSE North-West","Foreign travel",8
+2020-04-14,"HSE North-West","No Foreign travel",53
+2020-04-14,"HSE North-West","Not specified",55
+2020-04-14,"HSE South-East","Foreign travel",5
+2020-04-14,"HSE South-East","No Foreign travel",3
+2020-04-14,"HSE South-East","Not specified",132
+2020-04-14,"HSE South","Foreign travel",21
+2020-04-14,"HSE South","No Foreign travel",104
+2020-04-14,"HSE South","Not specified",79
+2020-04-14,"HSE West","Foreign travel",7
+2020-04-14,"HSE West","No Foreign travel",84
+2020-04-14,"HSE West","Not specified",80
+2020-04-13,"HSE East","Foreign travel",72
+2020-04-13,"HSE East","No Foreign travel",1614
+2020-04-13,"HSE East","Not specified",81
+2020-04-13,"HSE Midlands","Foreign travel",6
+2020-04-13,"HSE Midlands","No Foreign travel",120
+2020-04-13,"HSE Midlands","Not specified",51
+2020-04-13,"HSE Mid-West","Foreign travel",13
+2020-04-13,"HSE Mid-West","No Foreign travel",66
+2020-04-13,"HSE Mid-West","Not specified",64
+2020-04-13,"HSE North-East","Foreign travel",3
+2020-04-13,"HSE North-East","No Foreign travel",17
+2020-04-13,"HSE North-East","Not specified",154
+2020-04-13,"HSE North-West","Foreign travel",8
+2020-04-13,"HSE North-West","No Foreign travel",40
+2020-04-13,"HSE North-West","Not specified",57
+2020-04-13,"HSE South-East","Foreign travel",5
+2020-04-13,"HSE South-East","No Foreign travel",3
+2020-04-13,"HSE South-East","Not specified",129
+2020-04-13,"HSE South","Foreign travel",21
+2020-04-13,"HSE South","No Foreign travel",104
+2020-04-13,"HSE South","Not specified",79
+2020-04-13,"HSE West","Foreign travel",7
+2020-04-13,"HSE West","No Foreign travel",80
+2020-04-13,"HSE West","Not specified",78
+2020-04-12,"HSE East","Foreign travel",69
+2020-04-12,"HSE East","No Foreign travel",1529
+2020-04-12,"HSE East","Not specified",71
+2020-04-12,"HSE Midlands","Foreign travel",6
+2020-04-12,"HSE Midlands","No Foreign travel",113
+2020-04-12,"HSE Midlands","Not specified",52
+2020-04-12,"HSE Mid-West","Foreign travel",12
+2020-04-12,"HSE Mid-West","No Foreign travel",60
+2020-04-12,"HSE Mid-West","Not specified",53
+2020-04-12,"HSE North-East","Foreign travel",2
+2020-04-12,"HSE North-East","No Foreign travel",17
+2020-04-12,"HSE North-East","Not specified",145
+2020-04-12,"HSE North-West","Foreign travel",8
+2020-04-12,"HSE North-West","No Foreign travel",31
+2020-04-12,"HSE North-West","Not specified",54
+2020-04-12,"HSE South-East","Foreign travel",5
+2020-04-12,"HSE South-East","No Foreign travel",3
+2020-04-12,"HSE South-East","Not specified",116
+2020-04-12,"HSE South","Foreign travel",21
+2020-04-12,"HSE South","No Foreign travel",104
+2020-04-12,"HSE South","Not specified",77
+2020-04-12,"HSE West","Foreign travel",7
+2020-04-12,"HSE West","No Foreign travel",74
+2020-04-12,"HSE West","Not specified",78
+2020-04-11,"HSE East","Foreign travel",68
+2020-04-11,"HSE East","No Foreign travel",1370
+2020-04-11,"HSE East","Not specified",69
+2020-04-11,"HSE Midlands","Foreign travel",6
+2020-04-11,"HSE Midlands","No Foreign travel",103
+2020-04-11,"HSE Midlands","Not specified",48
+2020-04-11,"HSE Mid-West","Foreign travel",12
+2020-04-11,"HSE Mid-West","No Foreign travel",60
+2020-04-11,"HSE Mid-West","Not specified",43
+2020-04-11,"HSE North-East","Foreign travel",2
+2020-04-11,"HSE North-East","No Foreign travel",16
+2020-04-11,"HSE North-East","Not specified",142
+2020-04-11,"HSE North-West","Foreign travel",7
+2020-04-11,"HSE North-West","No Foreign travel",23
+2020-04-11,"HSE North-West","Not specified",42
+2020-04-11,"HSE South-East","Foreign travel",5
+2020-04-11,"HSE South-East","No Foreign travel",3
+2020-04-11,"HSE South-East","Not specified",111
+2020-04-11,"HSE South","Foreign travel",21
+2020-04-11,"HSE South","No Foreign travel",102
+2020-04-11,"HSE South","Not specified",77
+2020-04-11,"HSE West","Foreign travel",7
+2020-04-11,"HSE West","No Foreign travel",74
+2020-04-11,"HSE West","Not specified",78
+2020-04-10,"HSE East","Foreign travel",68
+2020-04-10,"HSE East","No Foreign travel",1249
+2020-04-10,"HSE East","Not specified",68
+2020-04-10,"HSE Midlands","Foreign travel",6
+2020-04-10,"HSE Midlands","No Foreign travel",84
+2020-04-10,"HSE Midlands","Not specified",41
+2020-04-10,"HSE Mid-West","Foreign travel",12
+2020-04-10,"HSE Mid-West","No Foreign travel",60
+2020-04-10,"HSE Mid-West","Not specified",43
+2020-04-10,"HSE North-East","Foreign travel",2
+2020-04-10,"HSE North-East","No Foreign travel",16
+2020-04-10,"HSE North-East","Not specified",140
+2020-04-10,"HSE North-West","Foreign travel",7
+2020-04-10,"HSE North-West","No Foreign travel",23
+2020-04-10,"HSE North-West","Not specified",28
+2020-04-10,"HSE South-East","Foreign travel",5
+2020-04-10,"HSE South-East","No Foreign travel",3
+2020-04-10,"HSE South-East","Not specified",107
+2020-04-10,"HSE South","Foreign travel",21
+2020-04-10,"HSE South","No Foreign travel",102
+2020-04-10,"HSE South","Not specified",71
+2020-04-10,"HSE West","Foreign travel",7
+2020-04-10,"HSE West","No Foreign travel",74
+2020-04-10,"HSE West","Not specified",75
+2020-04-09,"HSE East","Foreign travel",67
+2020-04-09,"HSE East","No Foreign travel",1146
+2020-04-09,"HSE East","Not specified",67
+2020-04-09,"HSE Midlands","Foreign travel",5
+2020-04-09,"HSE Midlands","No Foreign travel",71
+2020-04-09,"HSE Midlands","Not specified",41
+2020-04-09,"HSE Mid-West","Foreign travel",12
+2020-04-09,"HSE Mid-West","No Foreign travel",60
+2020-04-09,"HSE Mid-West","Not specified",39
+2020-04-09,"HSE North-East","Foreign travel",2
+2020-04-09,"HSE North-East","No Foreign travel",16
+2020-04-09,"HSE North-East","Not specified",124
+2020-04-09,"HSE North-West","Foreign travel",7
+2020-04-09,"HSE North-West","No Foreign travel",23
+2020-04-09,"HSE North-West","Not specified",27
+2020-04-09,"HSE South-East","Foreign travel",5
+2020-04-09,"HSE South-East","No Foreign travel",3
+2020-04-09,"HSE South-East","Not specified",91
+2020-04-09,"HSE South","Foreign travel",21
+2020-04-09,"HSE South","No Foreign travel",102
+2020-04-09,"HSE South","Not specified",65
+2020-04-09,"HSE West","Foreign travel",7
+2020-04-09,"HSE West","No Foreign travel",73
+2020-04-09,"HSE West","Not specified",67
+2020-04-08,"HSE East","Foreign travel",62
+2020-04-08,"HSE East","No Foreign travel",1046
+2020-04-08,"HSE East","Not specified",67
+2020-04-08,"HSE Midlands","Foreign travel",5
+2020-04-08,"HSE Midlands","No Foreign travel",53
+2020-04-08,"HSE Midlands","Not specified",41
+2020-04-08,"HSE Mid-West","Foreign travel",12
+2020-04-08,"HSE Mid-West","No Foreign travel",50
+2020-04-08,"HSE Mid-West","Not specified",36
+2020-04-08,"HSE North-East","Foreign travel",2
+2020-04-08,"HSE North-East","No Foreign travel",16
+2020-04-08,"HSE North-East","Not specified",109
+2020-04-08,"HSE North-West","Foreign travel",7
+2020-04-08,"HSE North-West","No Foreign travel",23
+2020-04-08,"HSE North-West","Not specified",26
+2020-04-08,"HSE South-East","Foreign travel",5
+2020-04-08,"HSE South-East","No Foreign travel",3
+2020-04-08,"HSE South-East","Not specified",74
+2020-04-08,"HSE South","Foreign travel",21
+2020-04-08,"HSE South","No Foreign travel",97
+2020-04-08,"HSE South","Not specified",61
+2020-04-08,"HSE West","Foreign travel",7
+2020-04-08,"HSE West","No Foreign travel",71
+2020-04-08,"HSE West","Not specified",55
+2020-04-07,"HSE East","Foreign travel",59
+2020-04-07,"HSE East","No Foreign travel",932
+2020-04-07,"HSE East","Not specified",60
+2020-04-07,"HSE Midlands","Foreign travel",4
+2020-04-07,"HSE Midlands","No Foreign travel",49
+2020-04-07,"HSE Midlands","Not specified",40
+2020-04-07,"HSE Mid-West","Foreign travel",11
+2020-04-07,"HSE Mid-West","No Foreign travel",49
+2020-04-07,"HSE Mid-West","Not specified",27
+2020-04-07,"HSE North-East","Foreign travel",2
+2020-04-07,"HSE North-East","No Foreign travel",15
+2020-04-07,"HSE North-East","Not specified",103
+2020-04-07,"HSE North-West","Foreign travel",7
+2020-04-07,"HSE North-West","No Foreign travel",23
+2020-04-07,"HSE North-West","Not specified",16
+2020-04-07,"HSE South-East","Foreign travel",5
+2020-04-07,"HSE South-East","No Foreign travel",3
+2020-04-07,"HSE South-East","Not specified",69
+2020-04-07,"HSE South","Foreign travel",21
+2020-04-07,"HSE South","No Foreign travel",95
+2020-04-07,"HSE South","Not specified",60
+2020-04-07,"HSE West","Foreign travel",7
+2020-04-07,"HSE West","No Foreign travel",71
+2020-04-07,"HSE West","Not specified",37
+2020-04-06,"HSE East","Foreign travel",53
+2020-04-06,"HSE East","No Foreign travel",789
+2020-04-06,"HSE East","Not specified",57
+2020-04-06,"HSE Midlands","Foreign travel",4
+2020-04-06,"HSE Midlands","No Foreign travel",49
+2020-04-06,"HSE Midlands","Not specified",34
+2020-04-06,"HSE Mid-West","Foreign travel",11
+2020-04-06,"HSE Mid-West","No Foreign travel",49
+2020-04-06,"HSE Mid-West","Not specified",27
+2020-04-06,"HSE North-East","Foreign travel",2
+2020-04-06,"HSE North-East","No Foreign travel",15
+2020-04-06,"HSE North-East","Not specified",87
+2020-04-06,"HSE North-West","Foreign travel",7
+2020-04-06,"HSE North-West","No Foreign travel",23
+2020-04-06,"HSE North-West","Not specified",9
+2020-04-06,"HSE South-East","Foreign travel",5
+2020-04-06,"HSE South-East","No Foreign travel",3
+2020-04-06,"HSE South-East","Not specified",67
+2020-04-06,"HSE South","Foreign travel",21
+2020-04-06,"HSE South","No Foreign travel",84
+2020-04-06,"HSE South","Not specified",57
+2020-04-06,"HSE West","Foreign travel",7
+2020-04-06,"HSE West","No Foreign travel",71
+2020-04-06,"HSE West","Not specified",37
+2020-04-05,"HSE East","Foreign travel",50
+2020-04-05,"HSE East","No Foreign travel",710
+2020-04-05,"HSE East","Not specified",28
+2020-04-05,"HSE Midlands","Foreign travel",4
+2020-04-05,"HSE Midlands","No Foreign travel",45
+2020-04-05,"HSE Midlands","Not specified",22
+2020-04-05,"HSE Mid-West","Foreign travel",10
+2020-04-05,"HSE Mid-West","No Foreign travel",48
+2020-04-05,"HSE Mid-West","Not specified",23
+2020-04-05,"HSE North-East","Foreign travel",2
+2020-04-05,"HSE North-East","No Foreign travel",15
+2020-04-05,"HSE North-East","Not specified",51
+2020-04-05,"HSE North-West","Foreign travel",7
+2020-04-05,"HSE North-West","No Foreign travel",20
+2020-04-05,"HSE North-West","Not specified",11
+2020-04-05,"HSE South-East","Foreign travel",5
+2020-04-05,"HSE South-East","No Foreign travel",3
+2020-04-05,"HSE South-East","Not specified",67
+2020-04-05,"HSE South","Foreign travel",20
+2020-04-05,"HSE South","No Foreign travel",80
+2020-04-05,"HSE South","Not specified",53
+2020-04-05,"HSE West","Foreign travel",7
+2020-04-05,"HSE West","No Foreign travel",70
+2020-04-05,"HSE West","Not specified",37
+2020-04-04,"HSE East","Foreign travel",49
+2020-04-04,"HSE East","No Foreign travel",651
+2020-04-04,"HSE East","Not specified",25
+2020-04-04,"HSE Midlands","Foreign travel",4
+2020-04-04,"HSE Midlands","No Foreign travel",42
+2020-04-04,"HSE Midlands","Not specified",15
+2020-04-04,"HSE Mid-West","Foreign travel",10
+2020-04-04,"HSE Mid-West","No Foreign travel",39
+2020-04-04,"HSE Mid-West","Not specified",25
+2020-04-04,"HSE North-East","Foreign travel",2
+2020-04-04,"HSE North-East","No Foreign travel",15
+2020-04-04,"HSE North-East","Not specified",24
+2020-04-04,"HSE North-West","Foreign travel",6
+2020-04-04,"HSE North-West","No Foreign travel",18
+2020-04-04,"HSE North-West","Not specified",11
+2020-04-04,"HSE South-East","Foreign travel",5
+2020-04-04,"HSE South-East","No Foreign travel",3
+2020-04-04,"HSE South-East","Not specified",63
+2020-04-04,"HSE South","Foreign travel",19
+2020-04-04,"HSE South","No Foreign travel",80
+2020-04-04,"HSE South","Not specified",51
+2020-04-04,"HSE West","Foreign travel",7
+2020-04-04,"HSE West","No Foreign travel",69
+2020-04-04,"HSE West","Not specified",30
+2020-04-03,"HSE East","Foreign travel",49
+2020-04-03,"HSE East","No Foreign travel",609
+2020-04-03,"HSE East","Not specified",26
+2020-04-03,"HSE Midlands","Foreign travel",4
+2020-04-03,"HSE Midlands","No Foreign travel",35
+2020-04-03,"HSE Midlands","Not specified",13
+2020-04-03,"HSE Mid-West","Foreign travel",10
+2020-04-03,"HSE Mid-West","No Foreign travel",39
+2020-04-03,"HSE Mid-West","Not specified",25
+2020-04-03,"HSE North-East","Foreign travel",2
+2020-04-03,"HSE North-East","No Foreign travel",15
+2020-04-03,"HSE North-East","Not specified",18
+2020-04-03,"HSE North-West","Foreign travel",6
+2020-04-03,"HSE North-West","No Foreign travel",18
+2020-04-03,"HSE North-West","Not specified",1
+2020-04-03,"HSE South-East","Foreign travel",5
+2020-04-03,"HSE South-East","No Foreign travel",3
+2020-04-03,"HSE South-East","Not specified",60
+2020-04-03,"HSE South","Foreign travel",18
+2020-04-03,"HSE South","No Foreign travel",76
+2020-04-03,"HSE South","Not specified",46
+2020-04-03,"HSE West","Foreign travel",7
+2020-04-03,"HSE West","No Foreign travel",64
+2020-04-03,"HSE West","Not specified",14
+2020-04-02,"HSE East","Foreign travel",31
+2020-04-02,"HSE East","No Foreign travel",570
+2020-04-02,"HSE East","Not specified",38
+2020-04-02,"HSE Midlands","Foreign travel",2
+2020-04-02,"HSE Midlands","No Foreign travel",37
+2020-04-02,"HSE Midlands","Not specified",10
+2020-04-02,"HSE Mid-West","Foreign travel",11
+2020-04-02,"HSE Mid-West","No Foreign travel",58
+2020-04-02,"HSE Mid-West","Not specified",0
+2020-04-02,"HSE North-East","Foreign travel",2
+2020-04-02,"HSE North-East","No Foreign travel",28
+2020-04-02,"HSE North-East","Not specified",4
+2020-04-02,"HSE North-West","Foreign travel",5
+2020-04-02,"HSE North-West","No Foreign travel",19
+2020-04-02,"HSE North-West","Not specified",1
+2020-04-02,"HSE South-East","Foreign travel",3
+2020-04-02,"HSE South-East","No Foreign travel",4
+2020-04-02,"HSE South-East","Not specified",48
+2020-04-02,"HSE South","Foreign travel",15
+2020-04-02,"HSE South","No Foreign travel",84
+2020-04-02,"HSE South","Not specified",38
+2020-04-02,"HSE West","Foreign travel",2
+2020-04-02,"HSE West","No Foreign travel",63
+2020-04-02,"HSE West","Not specified",11
+2020-04-01,"HSE East","Foreign travel",42
+2020-04-01,"HSE East","No Foreign travel",477
+2020-04-01,"HSE East","Not specified",22
+2020-04-01,"HSE Midlands","Foreign travel",3
+2020-04-01,"HSE Midlands","No Foreign travel",24
+2020-04-01,"HSE Midlands","Not specified",12
+2020-04-01,"HSE Mid-West","Foreign travel",10
+2020-04-01,"HSE Mid-West","No Foreign travel",39
+2020-04-01,"HSE Mid-West","Not specified",13
+2020-04-01,"HSE North-East","Foreign travel",2
+2020-04-01,"HSE North-East","No Foreign travel",15
+2020-04-01,"HSE North-East","Not specified",17
+2020-04-01,"HSE North-West","Foreign travel",6
+2020-04-01,"HSE North-West","No Foreign travel",14
+2020-04-01,"HSE North-West","Not specified",4
+2020-04-01,"HSE South-East","Foreign travel",5
+2020-04-01,"HSE South-East","No Foreign travel",3
+2020-04-01,"HSE South-East","Not specified",44
+2020-04-01,"HSE South","Foreign travel",19
+2020-04-01,"HSE South","No Foreign travel",72
+2020-04-01,"HSE South","Not specified",39
+2020-04-01,"HSE West","Foreign travel",7
+2020-04-01,"HSE West","No Foreign travel",57
+2020-04-01,"HSE West","Not specified",2
+2020-03-31,"HSE East","Foreign travel",41
+2020-03-31,"HSE East","No Foreign travel",414
+2020-03-31,"HSE East","Not specified",22
+2020-03-31,"HSE Midlands","Foreign travel",3
+2020-03-31,"HSE Midlands","No Foreign travel",22
+2020-03-31,"HSE Midlands","Not specified",12
+2020-03-31,"HSE Mid-West","Foreign travel",10
+2020-03-31,"HSE Mid-West","No Foreign travel",39
+2020-03-31,"HSE Mid-West","Not specified",10
+2020-03-31,"HSE North-East","Foreign travel",2
+2020-03-31,"HSE North-East","No Foreign travel",15
+2020-03-31,"HSE North-East","Not specified",14
+2020-03-31,"HSE North-West","Foreign travel",6
+2020-03-31,"HSE North-West","No Foreign travel",12
+2020-03-31,"HSE North-West","Not specified",1
+2020-03-31,"HSE South-East","Foreign travel",5
+2020-03-31,"HSE South-East","No Foreign travel",2
+2020-03-31,"HSE South-East","Not specified",33
+2020-03-31,"HSE South","Foreign travel",18
+2020-03-31,"HSE South","No Foreign travel",70
+2020-03-31,"HSE South","Not specified",29
+2020-03-31,"HSE West","Foreign travel",7
+2020-03-31,"HSE West","No Foreign travel",53
+2020-03-31,"HSE West","Not specified",1
+2020-03-30,"HSE East","Foreign travel",41
+2020-03-30,"HSE East","No Foreign travel",367
+2020-03-30,"HSE East","Not specified",11
+2020-03-30,"HSE Midlands","Foreign travel",3
+2020-03-30,"HSE Midlands","No Foreign travel",22
+2020-03-30,"HSE Midlands","Not specified",7
+2020-03-30,"HSE Mid-West","Foreign travel",8
+2020-03-30,"HSE Mid-West","No Foreign travel",36
+2020-03-30,"HSE Mid-West","Not specified",11
+2020-03-30,"HSE North-East","Foreign travel",2
+2020-03-30,"HSE North-East","No Foreign travel",14
+2020-03-30,"HSE North-East","Not specified",8
+2020-03-30,"HSE North-West","Foreign travel",6
+2020-03-30,"HSE North-West","No Foreign travel",11
+2020-03-30,"HSE North-West","Not specified",1
+2020-03-30,"HSE South-East","Foreign travel",5
+2020-03-30,"HSE South-East","No Foreign travel",2
+2020-03-30,"HSE South-East","Not specified",31
+2020-03-30,"HSE South","Foreign travel",18
+2020-03-30,"HSE South","No Foreign travel",67
+2020-03-30,"HSE South","Not specified",24
+2020-03-30,"HSE West","Foreign travel",7
+2020-03-30,"HSE West","No Foreign travel",49
+2020-03-30,"HSE West","Not specified",1
+2020-03-29,"HSE East","Foreign travel",45
+2020-03-29,"HSE East","No Foreign travel",308
+2020-03-29,"HSE East","Not specified",9
+2020-03-29,"HSE Midlands","Foreign travel",3
+2020-03-29,"HSE Midlands","No Foreign travel",19
+2020-03-29,"HSE Midlands","Not specified",6
+2020-03-29,"HSE Mid-West","Foreign travel",6
+2020-03-29,"HSE Mid-West","No Foreign travel",31
+2020-03-29,"HSE Mid-West","Not specified",1
+2020-03-29,"HSE North-East","Foreign travel",2
+2020-03-29,"HSE North-East","No Foreign travel",13
+2020-03-29,"HSE North-East","Not specified",4
+2020-03-29,"HSE North-West","Foreign travel",6
+2020-03-29,"HSE North-West","No Foreign travel",10
+2020-03-29,"HSE North-West","Not specified",0
+2020-03-29,"HSE South-East","Foreign travel",5
+2020-03-29,"HSE South-East","No Foreign travel",1
+2020-03-29,"HSE South-East","Not specified",31
+2020-03-29,"HSE South","Foreign travel",17
+2020-03-29,"HSE South","No Foreign travel",58
+2020-03-29,"HSE South","Not specified",19
+2020-03-29,"HSE West","Foreign travel",7
+2020-03-29,"HSE West","No Foreign travel",45
+2020-03-29,"HSE West","Not specified",1
+2020-03-28,"HSE East","Foreign travel",30
+2020-03-28,"HSE East","No Foreign travel",286
+2020-03-28,"HSE East","Not specified",21
+2020-03-28,"HSE Midlands","Foreign travel",2
+2020-03-28,"HSE Midlands","No Foreign travel",18
+2020-03-28,"HSE Midlands","Not specified",6
+2020-03-28,"HSE Mid-West","Foreign travel",6
+2020-03-28,"HSE Mid-West","No Foreign travel",31
+2020-03-28,"HSE Mid-West","Not specified",1
+2020-03-28,"HSE North-East","Foreign travel",2
+2020-03-28,"HSE North-East","No Foreign travel",7
+2020-03-28,"HSE North-East","Not specified",0
+2020-03-28,"HSE North-West","Foreign travel",4
+2020-03-28,"HSE North-West","No Foreign travel",3
+2020-03-28,"HSE North-West","Not specified",5
+2020-03-28,"HSE South-East","Foreign travel",2
+2020-03-28,"HSE South-East","No Foreign travel",0
+2020-03-28,"HSE South-East","Not specified",31
+2020-03-28,"HSE South","Foreign travel",13
+2020-03-28,"HSE South","No Foreign travel",49
+2020-03-28,"HSE South","Not specified",20
+2020-03-28,"HSE West","Foreign travel",2
+2020-03-28,"HSE West","No Foreign travel",32
+2020-03-28,"HSE West","Not specified",7
+2020-03-27,"HSE East","Foreign travel",42
+2020-03-27,"HSE East","No Foreign travel",224
+2020-03-27,"HSE East","Not specified",26
+2020-03-27,"HSE Midlands","Foreign travel",3
+2020-03-27,"HSE Midlands","No Foreign travel",15
+2020-03-27,"HSE Midlands","Not specified",6
+2020-03-27,"HSE Mid-West","Foreign travel",6
+2020-03-27,"HSE Mid-West","No Foreign travel",10
+2020-03-27,"HSE Mid-West","Not specified",12
+2020-03-27,"HSE North-East","Foreign travel",2
+2020-03-27,"HSE North-East","No Foreign travel",3
+2020-03-27,"HSE North-East","Not specified",4
+2020-03-27,"HSE North-West","Foreign travel",5
+2020-03-27,"HSE North-West","No Foreign travel",4
+2020-03-27,"HSE North-West","Not specified",0
+2020-03-27,"HSE South-East","Foreign travel",5
+2020-03-27,"HSE South-East","No Foreign travel",1
+2020-03-27,"HSE South-East","Not specified",26
+2020-03-27,"HSE South","Foreign travel",14
+2020-03-27,"HSE South","No Foreign travel",32
+2020-03-27,"HSE South","Not specified",30
+2020-03-27,"HSE West","Foreign travel",7
+2020-03-27,"HSE West","No Foreign travel",13
+2020-03-27,"HSE West","Not specified",16
+2020-03-26,"HSE East","Foreign travel",42
+2020-03-26,"HSE East","No Foreign travel",203
+2020-03-26,"HSE East","Not specified",25
+2020-03-26,"HSE Midlands","Foreign travel",3
+2020-03-26,"HSE Midlands","No Foreign travel",14
+2020-03-26,"HSE Midlands","Not specified",4
+2020-03-26,"HSE Mid-West","Foreign travel",6
+2020-03-26,"HSE Mid-West","No Foreign travel",8
+2020-03-26,"HSE Mid-West","Not specified",7
+2020-03-26,"HSE North-East","Foreign travel",2
+2020-03-26,"HSE North-East","No Foreign travel",2
+2020-03-26,"HSE North-East","Not specified",3
+2020-03-26,"HSE North-West","Foreign travel",5
+2020-03-26,"HSE North-West","No Foreign travel",3
+2020-03-26,"HSE North-West","Not specified",0
+2020-03-26,"HSE South-East","Foreign travel",5
+2020-03-26,"HSE South-East","No Foreign travel",1
+2020-03-26,"HSE South-East","Not specified",19
+2020-03-26,"HSE South","Foreign travel",14
+2020-03-26,"HSE South","No Foreign travel",24
+2020-03-26,"HSE South","Not specified",23
+2020-03-26,"HSE West","Foreign travel",8
+2020-03-26,"HSE West","No Foreign travel",13
+2020-03-26,"HSE West","Not specified",11
+2020-03-25,"HSE East","Foreign travel",37
+2020-03-25,"HSE East","No Foreign travel",174
+2020-03-25,"HSE East","Not specified",22
+2020-03-25,"HSE Midlands","Foreign travel",3
+2020-03-25,"HSE Midlands","No Foreign travel",14
+2020-03-25,"HSE Midlands","Not specified",1
+2020-03-25,"HSE Mid-West","Foreign travel",4
+2020-03-25,"HSE Mid-West","No Foreign travel",5
+2020-03-25,"HSE Mid-West","Not specified",6
+2020-03-25,"HSE North-East","Foreign travel",2
+2020-03-25,"HSE North-East","No Foreign travel",2
+2020-03-25,"HSE North-East","Not specified",2
+2020-03-25,"HSE North-West","Foreign travel",5
+2020-03-25,"HSE North-West","No Foreign travel",1
+2020-03-25,"HSE North-West","Not specified",0
+2020-03-25,"HSE South-East","Foreign travel",5
+2020-03-25,"HSE South-East","No Foreign travel",0
+2020-03-25,"HSE South-East","Not specified",12
+2020-03-25,"HSE South","Foreign travel",13
+2020-03-25,"HSE South","No Foreign travel",21
+2020-03-25,"HSE South","Not specified",17
+2020-03-25,"HSE West","Foreign travel",8
+2020-03-25,"HSE West","No Foreign travel",12
+2020-03-25,"HSE West","Not specified",9
+2020-03-24,"HSE East","Foreign travel",37
+2020-03-24,"HSE East","No Foreign travel",141
+2020-03-24,"HSE East","Not specified",21
+2020-03-24,"HSE Midlands","Foreign travel",3
+2020-03-24,"HSE Midlands","No Foreign travel",13
+2020-03-24,"HSE Midlands","Not specified",1
+2020-03-24,"HSE Mid-West","Foreign travel",1
+2020-03-24,"HSE Mid-West","No Foreign travel",4
+2020-03-24,"HSE Mid-West","Not specified",4
+2020-03-24,"HSE North-East","Foreign travel",2
+2020-03-24,"HSE North-East","No Foreign travel",2
+2020-03-24,"HSE North-East","Not specified",0
+2020-03-24,"HSE North-West","Foreign travel",5
+2020-03-24,"HSE North-West","No Foreign travel",1
+2020-03-24,"HSE North-West","Not specified",0
+2020-03-24,"HSE South-East","Foreign travel",4
+2020-03-24,"HSE South-East","No Foreign travel",0
+2020-03-24,"HSE South-East","Not specified",9
+2020-03-24,"HSE South","Foreign travel",13
+2020-03-24,"HSE South","No Foreign travel",21
+2020-03-24,"HSE South","Not specified",13
+2020-03-24,"HSE West","Foreign travel",8
+2020-03-24,"HSE West","No Foreign travel",11
+2020-03-24,"HSE West","Not specified",7
+2020-03-23,"HSE East","Foreign travel",34
+2020-03-23,"HSE East","No Foreign travel",132
+2020-03-23,"HSE East","Not specified",20
+2020-03-23,"HSE Midlands","Foreign travel",3
+2020-03-23,"HSE Midlands","No Foreign travel",12
+2020-03-23,"HSE Midlands","Not specified",0
+2020-03-23,"HSE Mid-West","Foreign travel",1
+2020-03-23,"HSE Mid-West","No Foreign travel",2
+2020-03-23,"HSE Mid-West","Not specified",2
+2020-03-23,"HSE North-East","Foreign travel",2
+2020-03-23,"HSE North-East","No Foreign travel",2
+2020-03-23,"HSE North-East","Not specified",0
+2020-03-23,"HSE North-West","Foreign travel",4
+2020-03-23,"HSE North-West","No Foreign travel",1
+2020-03-23,"HSE North-West","Not specified",0
+2020-03-23,"HSE South-East","Foreign travel",2
+2020-03-23,"HSE South-East","No Foreign travel",0
+2020-03-23,"HSE South-East","Not specified",4
+2020-03-23,"HSE South","Foreign travel",13
+2020-03-23,"HSE South","No Foreign travel",20
+2020-03-23,"HSE South","Not specified",8
+2020-03-23,"HSE West","Foreign travel",8
+2020-03-23,"HSE West","No Foreign travel",11
+2020-03-23,"HSE West","Not specified",2
+2020-03-22,"HSE East","Foreign travel",31
+2020-03-22,"HSE East","No Foreign travel",111
+2020-03-22,"HSE East","Not specified",16
+2020-03-22,"HSE Midlands","Foreign travel",3
+2020-03-22,"HSE Midlands","No Foreign travel",12
+2020-03-22,"HSE Midlands","Not specified",0
+2020-03-22,"HSE Mid-West","Foreign travel",1
+2020-03-22,"HSE Mid-West","No Foreign travel",2
+2020-03-22,"HSE Mid-West","Not specified",2
+2020-03-22,"HSE North-East","Foreign travel",2
+2020-03-22,"HSE North-East","No Foreign travel",1
+2020-03-22,"HSE North-East","Not specified",0
+2020-03-22,"HSE North-West","Foreign travel",2
+2020-03-22,"HSE North-West","No Foreign travel",1
+2020-03-22,"HSE North-West","Not specified",0
+2020-03-22,"HSE South-East","Foreign travel",2
+2020-03-22,"HSE South-East","No Foreign travel",0
+2020-03-22,"HSE South-East","Not specified",4
+2020-03-22,"HSE South","Foreign travel",13
+2020-03-22,"HSE South","No Foreign travel",19
+2020-03-22,"HSE South","Not specified",6
+2020-03-22,"HSE West","Foreign travel",8
+2020-03-22,"HSE West","No Foreign travel",10
+2020-03-22,"HSE West","Not specified",1
+2020-03-21,"HSE East","Foreign travel",25
+2020-03-21,"HSE East","No Foreign travel",91
+2020-03-21,"HSE East","Not specified",12
+2020-03-21,"HSE Midlands","Foreign travel",3
+2020-03-21,"HSE Midlands","No Foreign travel",11
+2020-03-21,"HSE Midlands","Not specified",0
+2020-03-21,"HSE Mid-West","Foreign travel",1
+2020-03-21,"HSE Mid-West","No Foreign travel",2
+2020-03-21,"HSE Mid-West","Not specified",2
+2020-03-21,"HSE North-East","Foreign travel",2
+2020-03-21,"HSE North-East","No Foreign travel",1
+2020-03-21,"HSE North-East","Not specified",0
+2020-03-21,"HSE North-West","Foreign travel",2
+2020-03-21,"HSE North-West","No Foreign travel",1
+2020-03-21,"HSE North-West","Not specified",0
+2020-03-21,"HSE South-East","Foreign travel",1
+2020-03-21,"HSE South-East","No Foreign travel",0
+2020-03-21,"HSE South-East","Not specified",2
+2020-03-21,"HSE South","Foreign travel",13
+2020-03-21,"HSE South","No Foreign travel",17
+2020-03-21,"HSE South","Not specified",3
+2020-03-21,"HSE West","Foreign travel",8
+2020-03-21,"HSE West","No Foreign travel",10
+2020-03-21,"HSE West","Not specified",1
