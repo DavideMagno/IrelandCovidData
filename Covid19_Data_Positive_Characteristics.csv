@@ -10,16 +10,6 @@
 2020-04-22,"Sex","Female",NA,9893
 2020-04-22,"Sex","Male",NA,7457
 2020-04-22,"Sex","Unknown Sex",NA,70
-2020-04-22,"Age Group","<1",NA,30
-2020-04-22,"Age Group","1-4",NA,62
-2020-04-22,"Age Group","5-14",NA,177
-2020-04-22,"Age Group","15-24",NA,1130
-2020-04-22,"Age Group","25-34",NA,2838
-2020-04-22,"Age Group","35-44",NA,3041
-2020-04-22,"Age Group","45-54",NA,3280
-2020-04-22,"Age Group","55-64",NA,2408
-2020-04-22,"Age Group","65+",NA,4431
-2020-04-22,"Age Group","Unknown Age",NA,23
 2020-04-21,"HSE area","HSE East",NA,9560
 2020-04-21,"HSE area","HSE Midlands",NA,894
 2020-04-21,"HSE area","HSE Mid-West",NA,835
@@ -31,16 +21,6 @@
 2020-04-21,"Sex","Female",NA,9272
 2020-04-21,"Sex","Male",NA,7105
 2020-04-21,"Sex","Unknown Sex",NA,62
-2020-04-21,"Age Group","<1",NA,28
-2020-04-21,"Age Group","1-4",NA,61
-2020-04-21,"Age Group","5-14",NA,174
-2020-04-21,"Age Group","15-24",NA,1071
-2020-04-21,"Age Group","25-34",NA,2712
-2020-04-21,"Age Group","35-44",NA,2929
-2020-04-21,"Age Group","45-54",NA,3125
-2020-04-21,"Age Group","55-64",NA,2311
-2020-04-21,"Age Group","65+",NA,4004
-2020-04-21,"Age Group","Unknown Age",NA,24
 2020-04-20,"HSE area","HSE East",NA,9219
 2020-04-20,"HSE area","HSE Midlands",NA,870
 2020-04-20,"HSE area","HSE Mid-West",NA,803
@@ -52,16 +32,6 @@
 2020-04-20,"Sex","Female",NA,8906
 2020-04-20,"Sex","Male",NA,6909
 2020-04-20,"Sex","Unknown Sex",NA,56
-2020-04-20,"Age Group","<1",NA,28
-2020-04-20,"Age Group","1-4",NA,58
-2020-04-20,"Age Group","5-14",NA,169
-2020-04-20,"Age Group","15-24",NA,1039
-2020-04-20,"Age Group","25-34",NA,2635
-2020-04-20,"Age Group","35-44",NA,2843
-2020-04-20,"Age Group","45-54",NA,3039
-2020-04-20,"Age Group","55-64",NA,2254
-2020-04-20,"Age Group","65+",NA,3782
-2020-04-20,"Age Group","Unknown Age",NA,24
 2020-04-19,"HSE area","HSE East",NA,9049
 2020-04-19,"HSE area","HSE Midlands",NA,843
 2020-04-19,"HSE area","HSE Mid-West",NA,784
@@ -73,16 +43,6 @@
 2020-04-19,"Sex","Female",NA,8595
 2020-04-19,"Sex","Male",NA,6708
 2020-04-19,"Sex","Unknown Sex",NA,161
-2020-04-19,"Age Group","<1",NA,29
-2020-04-19,"Age Group","1-4",NA,54
-2020-04-19,"Age Group","5-14",NA,162
-2020-04-19,"Age Group","15-24",NA,1009
-2020-04-19,"Age Group","25-34",NA,2580
-2020-04-19,"Age Group","35-44",NA,2781
-2020-04-19,"Age Group","45-54",NA,2972
-2020-04-19,"Age Group","55-64",NA,2207
-2020-04-19,"Age Group","65+",NA,3646
-2020-04-19,"Age Group","Unknown Age",NA,24
 2020-04-18,"HSE area","HSE East",NA,8927
 2020-04-18,"HSE area","HSE Midlands",NA,820
 2020-04-18,"HSE area","HSE Mid-West",NA,766
@@ -94,16 +54,6 @@
 2020-04-18,"Sex","Female",NA,8433
 2020-04-18,"Sex","Male",NA,6603
 2020-04-18,"Sex","Unknown Sex",NA,149
-2020-04-18,"Age Group","<1",NA,30
-2020-04-18,"Age Group","1-4",NA,54
-2020-04-18,"Age Group","5-14",NA,161
-2020-04-18,"Age Group","15-24",NA,1000
-2020-04-18,"Age Group","25-34",NA,2557
-2020-04-18,"Age Group","35-44",NA,2744
-2020-04-18,"Age Group","45-54",NA,2943
-2020-04-18,"Age Group","55-64",NA,2184
-2020-04-18,"Age Group","65+",NA,3488
-2020-04-18,"Age Group","Unknown Age",NA,24
 2020-04-17,"HSE area","HSE East",NA,8569
 2020-04-17,"HSE area","HSE Midlands",NA,801
 2020-04-17,"HSE area","HSE Mid-West",NA,734
@@ -115,16 +65,6 @@
 2020-04-17,"Sex","Female",NA,8060
 2020-04-17,"Sex","Male",NA,6397
 2020-04-17,"Sex","Unknown Sex",NA,145
-2020-04-17,"Age Group","<1",NA,28
-2020-04-17,"Age Group","1-4",NA,50
-2020-04-17,"Age Group","5-14",NA,154
-2020-04-17,"Age Group","15-24",NA,953
-2020-04-17,"Age Group","25-34",NA,2467
-2020-04-17,"Age Group","35-44",NA,2659
-2020-04-17,"Age Group","45-54",NA,2825
-2020-04-17,"Age Group","55-64",NA,2122
-2020-04-17,"Age Group","65+",NA,3320
-2020-04-17,"Age Group","Unknown Age",NA,24
 2020-04-16,"HSE area","HSE East",NA,8009
 2020-04-16,"HSE area","HSE Midlands",NA,739
 2020-04-16,"HSE area","HSE Mid-West",NA,723
@@ -136,16 +76,6 @@
 2020-04-16,"Sex","Female",NA,7568
 2020-04-16,"Sex","Male",NA,6048
 2020-04-16,"Sex","Unknown Sex",NA,130
-2020-04-16,"Age Group","<1",NA,28
-2020-04-16,"Age Group","1-4",NA,48
-2020-04-16,"Age Group","5-14",NA,142
-2020-04-16,"Age Group","15-24",NA,892
-2020-04-16,"Age Group","25-34",NA,2329
-2020-04-16,"Age Group","35-44",NA,2522
-2020-04-16,"Age Group","45-54",NA,2659
-2020-04-16,"Age Group","55-64",NA,2010
-2020-04-16,"Age Group","65+",NA,3094
-2020-04-16,"Age Group","Unknown Age",NA,22
 2020-04-15,"HSE area","HSE East",NA,7572
 2020-04-15,"HSE area","HSE Midlands",NA,707
 2020-04-15,"HSE area","HSE Mid-West",NA,660
@@ -157,16 +87,6 @@
 2020-04-15,"Sex","Female",NA,7117
 2020-04-15,"Sex","Male",NA,5773
 2020-04-15,"Sex","Unknown Sex",NA,122
-2020-04-15,"Age Group","<1",NA,27
-2020-04-15,"Age Group","1-4",NA,44
-2020-04-15,"Age Group","5-14",NA,136
-2020-04-15,"Age Group","15-24",NA,846
-2020-04-15,"Age Group","25-34",NA,2231
-2020-04-15,"Age Group","35-44",NA,2415
-2020-04-15,"Age Group","45-54",NA,2502
-2020-04-15,"Age Group","55-64",NA,1902
-2020-04-15,"Age Group","65+",NA,2889
-2020-04-15,"Age Group","Unknown Age",NA,20
 2020-04-14,"HSE area","HSE East",NA,7279
 2020-04-14,"HSE area","HSE Midlands",NA,682
 2020-04-14,"HSE area","HSE Mid-West",NA,598
@@ -178,16 +98,6 @@
 2020-04-14,"Sex","Female",NA,6778
 2020-04-14,"Sex","Male",NA,5536
 2020-04-14,"Sex","Unknown Sex",NA,111
-2020-04-14,"Age Group","<1",NA,28
-2020-04-14,"Age Group","1-4",NA,44
-2020-04-14,"Age Group","5-14",NA,124
-2020-04-14,"Age Group","15-24",NA,809
-2020-04-14,"Age Group","25-34",NA,2145
-2020-04-14,"Age Group","35-44",NA,2315
-2020-04-14,"Age Group","45-54",NA,2395
-2020-04-14,"Age Group","55-64",NA,1806
-2020-04-14,"Age Group","65+",NA,2739
-2020-04-14,"Age Group","Unknown Age",NA,20
 2020-04-13,"HSE area","HSE East",NA,6701
 2020-04-13,"HSE area","HSE Midlands",NA,595
 2020-04-13,"HSE area","HSE Mid-West",NA,562
@@ -199,16 +109,6 @@
 2020-04-13,"Sex","Female",NA,6140
 2020-04-13,"Sex","Male",NA,5021
 2020-04-13,"Sex","Unknown Sex",NA,100
-2020-04-13,"Age Group","<1",NA,25
-2020-04-13,"Age Group","1-4",NA,36
-2020-04-13,"Age Group","5-14",NA,96
-2020-04-13,"Age Group","15-24",NA,737
-2020-04-13,"Age Group","25-34",NA,1950
-2020-04-13,"Age Group","35-44",NA,2084
-2020-04-13,"Age Group","45-54",NA,2157
-2020-04-13,"Age Group","55-64",NA,1637
-2020-04-13,"Age Group","65+",NA,2520
-2020-04-13,"Age Group","Unknown Age",NA,19
 2020-04-12,"HSE area","HSE East",NA,6198
 2020-04-12,"HSE area","HSE Midlands",NA,537
 2020-04-12,"HSE area","HSE Mid-West",NA,525
@@ -220,16 +120,6 @@
 2020-04-12,"Sex","Female",NA,5629
 2020-04-12,"Sex","Male",NA,4617
 2020-04-12,"Sex","Unknown Sex",NA,139
-2020-04-12,"Age Group","<1",NA,22
-2020-04-12,"Age Group","1-4",NA,34
-2020-04-12,"Age Group","5-14",NA,81
-2020-04-12,"Age Group","15-24",NA,674
-2020-04-12,"Age Group","25-34",NA,1805
-2020-04-12,"Age Group","35-44",NA,1927
-2020-04-12,"Age Group","45-54",NA,1983
-2020-04-12,"Age Group","55-64",NA,1522
-2020-04-12,"Age Group","65+",NA,2316
-2020-04-12,"Age Group","Unknown Age",NA,21
 2020-04-11,"HSE area","HSE East",NA,5682
 2020-04-11,"HSE area","HSE Midlands",NA,490
 2020-04-11,"HSE area","HSE Mid-West",NA,490
@@ -241,16 +131,6 @@
 2020-04-11,"Sex","Female",NA,5115
 2020-04-11,"Sex","Male",NA,4225
 2020-04-11,"Sex","Unknown Sex",NA,144
-2020-04-11,"Age Group","<1",NA,19
-2020-04-11,"Age Group","1-4",NA,29
-2020-04-11,"Age Group","5-14",NA,67
-2020-04-11,"Age Group","15-24",NA,598
-2020-04-11,"Age Group","25-34",NA,1647
-2020-04-11,"Age Group","35-44",NA,1757
-2020-04-11,"Age Group","45-54",NA,1812
-2020-04-11,"Age Group","55-64",NA,1411
-2020-04-11,"Age Group","65+",NA,2123
-2020-04-11,"Age Group","Unknown Age",NA,21
 2020-04-10,"HSE area","HSE East",NA,5137
 2020-04-10,"HSE area","HSE Midlands",NA,431
 2020-04-10,"HSE area","HSE Mid-West",NA,441
@@ -262,16 +142,6 @@
 2020-04-10,"Sex","Female",NA,4616
 2020-04-10,"Sex","Male",NA,3783
 2020-04-10,"Sex","Unknown Sex",NA,97
-2020-04-10,"Age Group","<1",NA,18
-2020-04-10,"Age Group","1-4",NA,27
-2020-04-10,"Age Group","5-14",NA,56
-2020-04-10,"Age Group","15-24",NA,528
-2020-04-10,"Age Group","25-34",NA,1479
-2020-04-10,"Age Group","35-44",NA,1558
-2020-04-10,"Age Group","45-54",NA,1609
-2020-04-10,"Age Group","55-64",NA,1251
-2020-04-10,"Age Group","65+",NA,1951
-2020-04-10,"Age Group","Unknown Age",NA,19
 2020-04-09,"HSE area","HSE East",NA,4734
 2020-04-09,"HSE area","HSE Midlands",NA,391
 2020-04-09,"HSE area","HSE Mid-West",NA,421
@@ -283,16 +153,6 @@
 2020-04-09,"Sex","Female",NA,4212
 2020-04-09,"Sex","Male",NA,3489
 2020-04-09,"Sex","Unknown Sex",NA,86
-2020-04-09,"Age Group","<1",NA,18
-2020-04-09,"Age Group","1-4",NA,22
-2020-04-09,"Age Group","5-14",NA,52
-2020-04-09,"Age Group","15-24",NA,473
-2020-04-09,"Age Group","25-34",NA,1343
-2020-04-09,"Age Group","35-44",NA,1418
-2020-04-09,"Age Group","45-54",NA,1479
-2020-04-09,"Age Group","55-64",NA,1138
-2020-04-09,"Age Group","65+",NA,1825
-2020-04-09,"Age Group","Unknown Age",NA,19
 2020-04-08,"HSE area","HSE East",NA,4400
 2020-04-08,"HSE area","HSE Midlands",NA,330
 2020-04-08,"HSE area","HSE Mid-West",NA,361
@@ -304,16 +164,6 @@
 2020-04-08,"Sex","Female",NA,3788
 2020-04-08,"Sex","Male",NA,3211
 2020-04-08,"Sex","Unknown Sex",NA,72
-2020-04-08,"Age Group","<1",NA,16
-2020-04-08,"Age Group","1-4",NA,20
-2020-04-08,"Age Group","5-14",NA,45
-2020-04-08,"Age Group","15-24",NA,423
-2020-04-08,"Age Group","25-34",NA,1220
-2020-04-08,"Age Group","35-44",NA,1304
-2020-04-08,"Age Group","45-54",NA,1339
-2020-04-08,"Age Group","55-64",NA,1015
-2020-04-08,"Age Group","65+",NA,1670
-2020-04-08,"Age Group","Unknown Age",NA,19
 2020-04-07,"HSE area","HSE East",NA,4017
 2020-04-07,"HSE area","HSE Midlands",NA,296
 2020-04-07,"HSE area","HSE Mid-West",NA,342
@@ -325,16 +175,6 @@
 2020-04-07,"Sex","Female",NA,3425
 2020-04-07,"Sex","Male",NA,2923
 2020-04-07,"Sex","Unknown Sex",NA,96
-2020-04-07,"Age Group","<1",NA,14
-2020-04-07,"Age Group","1-4",NA,19
-2020-04-07,"Age Group","5-14",NA,43
-2020-04-07,"Age Group","15-24",NA,384
-2020-04-07,"Age Group","25-34",NA,1103
-2020-04-07,"Age Group","35-44",NA,1176
-2020-04-07,"Age Group","45-54",NA,1219
-2020-04-07,"Age Group","55-64",NA,922
-2020-04-07,"Age Group","65+",NA,1544
-2020-04-07,"Age Group","Unknown Age",NA,20
 2020-04-06,"HSE area","HSE East",NA,3682
 2020-04-06,"HSE area","HSE Midlands",NA,280
 2020-04-06,"HSE area","HSE Mid-West",NA,324
@@ -346,16 +186,6 @@
 2020-04-06,"Sex","Female",NA,3154
 2020-04-06,"Sex","Male",NA,2757
 2020-04-06,"Sex","Unknown Sex",NA,70
-2020-04-06,"Age Group","<1",NA,12
-2020-04-06,"Age Group","1-4",NA,18
-2020-04-06,"Age Group","5-14",NA,42
-2020-04-06,"Age Group","15-24",NA,364
-2020-04-06,"Age Group","25-34",NA,1010
-2020-04-06,"Age Group","35-44",NA,1111
-2020-04-06,"Age Group","45-54",NA,1118
-2020-04-06,"Age Group","55-64",NA,847
-2020-04-06,"Age Group","65+",NA,1442
-2020-04-06,"Age Group","Unknown Age",NA,17
 2020-04-05,"HSE area","HSE East",NA,3432
 2020-04-05,"HSE area","HSE Midlands",NA,250
 2020-04-05,"HSE area","HSE Mid-West",NA,303
@@ -367,16 +197,6 @@
 2020-04-05,"Sex","Female",NA,2946
 2020-04-05,"Sex","Male",NA,2594
 2020-04-05,"Sex","Unknown Sex",NA,53
-2020-04-05,"Age Group","<1",NA,12
-2020-04-05,"Age Group","1-4",NA,18
-2020-04-05,"Age Group","5-14",NA,39
-2020-04-05,"Age Group","15-24",NA,347
-2020-04-05,"Age Group","25-34",NA,948
-2020-04-05,"Age Group","35-44",NA,1044
-2020-04-05,"Age Group","45-54",NA,1048
-2020-04-05,"Age Group","55-64",NA,794
-2020-04-05,"Age Group","65+",NA,1326
-2020-04-05,"Age Group","Unknown Age",NA,17
 2020-04-04,"HSE area","HSE East",NA,3009
 2020-04-04,"HSE area","HSE Midlands",NA,219
 2020-04-04,"HSE area","HSE Mid-West",NA,288
@@ -388,16 +208,6 @@
 2020-04-04,"Sex","Female",NA,2633
 2020-04-04,"Sex","Male",NA,2235
 2020-04-04,"Sex","Unknown Sex",NA,48
-2020-04-04,"Age Group","<1",NA,11
-2020-04-04,"Age Group","1-4",NA,13
-2020-04-04,"Age Group","5-14",NA,36
-2020-04-04,"Age Group","15-24",NA,287
-2020-04-04,"Age Group","25-34",NA,820
-2020-04-04,"Age Group","35-44",NA,902
-2020-04-04,"Age Group","45-54",NA,907
-2020-04-04,"Age Group","55-64",NA,697
-2020-04-04,"Age Group","65+",NA,1229
-2020-04-04,"Age Group","Unknown Age",NA,14
 2020-04-03,"HSE area","HSE East",NA,2774
 2020-04-03,"HSE area","HSE Midlands",NA,197
 2020-04-03,"HSE area","HSE Mid-West",NA,266
@@ -409,16 +219,6 @@
 2020-04-03,"Sex","Female",NA,2335
 2020-04-03,"Sex","Male",NA,2072
 2020-04-03,"Sex","Unknown Sex",NA,36
-2020-04-03,"Age Group","<1",NA,11
-2020-04-03,"Age Group","1-4",NA,13
-2020-04-03,"Age Group","5-14",NA,35
-2020-04-03,"Age Group","15-24",NA,270
-2020-04-03,"Age Group","25-34",NA,748
-2020-04-03,"Age Group","35-44",NA,808
-2020-04-03,"Age Group","45-54",NA,830
-2020-04-03,"Age Group","55-64",NA,647
-2020-04-03,"Age Group","65+",NA,1070
-2020-04-03,"Age Group","Unknown Age",NA,11
 2020-04-02,"HSE area","HSE East",NA,2499
 2020-04-02,"HSE area","HSE Midlands",NA,193
 2020-04-02,"HSE area","HSE Mid-West",NA,248
@@ -430,16 +230,6 @@
 2020-04-02,"Sex","Female",NA,2080
 2020-04-02,"Sex","Male",NA,1909
 2020-04-02,"Sex","Unknown Sex",NA,25
-2020-04-02,"Age Group","<1",NA,9
-2020-04-02,"Age Group","1-4",NA,12
-2020-04-02,"Age Group","5-14",NA,33
-2020-04-02,"Age Group","15-24",NA,255
-2020-04-02,"Age Group","25-34",NA,678
-2020-04-02,"Age Group","35-44",NA,751
-2020-04-02,"Age Group","45-54",NA,764
-2020-04-02,"Age Group","55-64",NA,584
-2020-04-02,"Age Group","65+",NA,918
-2020-04-02,"Age Group","Unknown Age",NA,10
 2020-04-01,"HSE area","HSE East",NA,2285
 2020-04-01,"HSE area","HSE Midlands",NA,165
 2020-04-01,"HSE area","HSE Mid-West",NA,215
@@ -451,16 +241,6 @@
 2020-04-01,"Sex","Female",NA,1860
 2020-04-01,"Sex","Male",NA,1752
 2020-04-01,"Sex","Unknown Sex",NA,43
-2020-04-01,"Age Group","<1",NA,8
-2020-04-01,"Age Group","1-4",NA,12
-2020-04-01,"Age Group","5-14",NA,30
-2020-04-01,"Age Group","15-24",NA,235
-2020-04-01,"Age Group","25-34",NA,618
-2020-04-01,"Age Group","35-44",NA,685
-2020-04-01,"Age Group","45-54",NA,690
-2020-04-01,"Age Group","55-64",NA,537
-2020-04-01,"Age Group","65+",NA,831
-2020-04-01,"Age Group","Unknown Age",NA,9
 2020-03-31,"HSE area","HSE East",NA,2012
 2020-03-31,"HSE area","HSE Midlands",NA,157
 2020-03-31,"HSE area","HSE Mid-West",NA,211
@@ -472,16 +252,6 @@
 2020-03-31,"Sex","Female",NA,1661
 2020-03-31,"Sex","Male",NA,1572
 2020-03-31,"Sex","Unknown Sex",NA,49
-2020-03-31,"Age Group","<1",NA,8
-2020-03-31,"Age Group","1-4",NA,11
-2020-03-31,"Age Group","5-14",NA,30
-2020-03-31,"Age Group","15-24",NA,216
-2020-03-31,"Age Group","25-34",NA,564
-2020-03-31,"Age Group","35-44",NA,617
-2020-03-31,"Age Group","45-54",NA,608
-2020-03-31,"Age Group","55-64",NA,480
-2020-03-31,"Age Group","65+",NA,739
-2020-03-31,"Age Group","Unknown Age",NA,9
 2020-03-30,"HSE area","HSE East",NA,1802
 2020-03-30,"HSE area","HSE Midlands",NA,148
 2020-03-30,"HSE area","HSE Mid-West",NA,194
@@ -493,16 +263,6 @@
 2020-03-30,"Sex","Female",NA,1494
 2020-03-30,"Sex","Male",NA,1457
 2020-03-30,"Sex","Unknown Sex",NA,39
-2020-03-30,"Age Group","<1",NA,8
-2020-03-30,"Age Group","1-4",NA,11
-2020-03-30,"Age Group","5-14",NA,30
-2020-03-30,"Age Group","15-24",NA,194
-2020-03-30,"Age Group","25-34",NA,519
-2020-03-30,"Age Group","35-44",NA,550
-2020-03-30,"Age Group","45-54",NA,558
-2020-03-30,"Age Group","55-64",NA,440
-2020-03-30,"Age Group","65+",NA,673
-2020-03-30,"Age Group","Unknown Age",NA,7
 2020-03-29,"HSE area","HSE East",NA,1626
 2020-03-29,"HSE area","HSE Midlands",NA,136
 2020-03-29,"HSE area","HSE Mid-West",NA,156
@@ -514,16 +274,6 @@
 2020-03-29,"Sex","Female",NA,1320
 2020-03-29,"Sex","Male",NA,1321
 2020-03-29,"Sex","Unknown Sex",NA,36
-2020-03-29,"Age Group","<1",NA,6
-2020-03-29,"Age Group","1-4",NA,11
-2020-03-29,"Age Group","5-14",NA,30
-2020-03-29,"Age Group","15-24",NA,178
-2020-03-29,"Age Group","25-34",NA,477
-2020-03-29,"Age Group","35-44",NA,503
-2020-03-29,"Age Group","45-54",NA,504
-2020-03-29,"Age Group","55-64",NA,398
-2020-03-29,"Age Group","65+",NA,563
-2020-03-29,"Age Group","Unknown Age",NA,7
 2020-03-28,"HSE area","HSE East",NA,1526
 2020-03-28,"HSE area","HSE Midlands",NA,128
 2020-03-28,"HSE area","HSE Mid-West",NA,145
@@ -535,16 +285,6 @@
 2020-03-28,"Sex","Female",NA,1206
 2020-03-28,"Sex","Male",NA,1240
 2020-03-28,"Sex","Unknown Sex",NA,29
-2020-03-28,"Age Group","<1",NA,4
-2020-03-28,"Age Group","1-4",NA,11
-2020-03-28,"Age Group","5-14",NA,29
-2020-03-28,"Age Group","15-24",NA,171
-2020-03-28,"Age Group","25-34",NA,448
-2020-03-28,"Age Group","35-44",NA,467
-2020-03-28,"Age Group","45-54",NA,467
-2020-03-28,"Age Group","55-64",NA,360
-2020-03-28,"Age Group","65+",NA,511
-2020-03-28,"Age Group","Unknown Age",NA,7
 2020-03-27,"HSE area","HSE East",NA,1359
 2020-03-27,"HSE area","HSE Midlands",NA,120
 2020-03-27,"HSE area","HSE Mid-West",NA,128
@@ -556,16 +296,6 @@
 2020-03-27,"Sex","Female",NA,1060
 2020-03-27,"Sex","Male",NA,1140
 2020-03-27,"Sex","Unknown Sex",NA,16
-2020-03-27,"Age Group","<1",NA,4
-2020-03-27,"Age Group","1-4",NA,11
-2020-03-27,"Age Group","5-14",NA,29
-2020-03-27,"Age Group","15-24",NA,155
-2020-03-27,"Age Group","25-34",NA,408
-2020-03-27,"Age Group","35-44",NA,416
-2020-03-27,"Age Group","45-54",NA,432
-2020-03-27,"Age Group","55-64",NA,314
-2020-03-27,"Age Group","65+",NA,441
-2020-03-27,"Age Group","Unknown Age",NA,6
 2020-03-26,"HSE area","HSE East",NA,1184
 2020-03-26,"HSE area","HSE Midlands",NA,90
 2020-03-26,"HSE area","HSE Mid-West",NA,111
@@ -577,16 +307,6 @@
 2020-03-26,"Sex","Female",NA,888
 2020-03-26,"Sex","Male",NA,1010
 2020-03-26,"Sex","Unknown Sex",NA,6
-2020-03-26,"Age Group","<1",NA,4
-2020-03-26,"Age Group","1-4",NA,10
-2020-03-26,"Age Group","5-14",NA,25
-2020-03-26,"Age Group","15-24",NA,136
-2020-03-26,"Age Group","25-34",NA,358
-2020-03-26,"Age Group","35-44",NA,353
-2020-03-26,"Age Group","45-54",NA,368
-2020-03-26,"Age Group","55-64",NA,271
-2020-03-26,"Age Group","65+",NA,373
-2020-03-26,"Age Group","Unknown Age",NA,6
 2020-03-25,"HSE area","HSE East",NA,1019
 2020-03-25,"HSE area","HSE Midlands",NA,73
 2020-03-25,"HSE area","HSE Mid-West",NA,90
@@ -598,16 +318,6 @@
 2020-03-25,"Sex","Female",NA,760
 2020-03-25,"Sex","Male",NA,879
 2020-03-25,"Sex","Unknown Sex",NA,0
-2020-03-25,"Age Group","<1",NA,3
-2020-03-25,"Age Group","1-4",NA,7
-2020-03-25,"Age Group","5-14",NA,25
-2020-03-25,"Age Group","15-24",NA,123
-2020-03-25,"Age Group","25-34",NA,310
-2020-03-25,"Age Group","35-44",NA,305
-2020-03-25,"Age Group","45-54",NA,320
-2020-03-25,"Age Group","55-64",NA,233
-2020-03-25,"Age Group","65+",NA,307
-2020-03-25,"Age Group","Unknown Age",NA,6
 2020-03-24,"HSE area","HSE East",NA,862
 2020-03-24,"HSE area","HSE Midlands",NA,58
 2020-03-24,"HSE area","HSE Mid-West",NA,70
@@ -619,16 +329,6 @@
 2020-03-24,"Sex","Female",NA,630
 2020-03-24,"Sex","Male",NA,753
 2020-03-24,"Sex","Unknown Sex",NA,0
-2020-03-24,"Age Group","<1",NA,3
-2020-03-24,"Age Group","1-4",NA,5
-2020-03-24,"Age Group","5-14",NA,22
-2020-03-24,"Age Group","15-24",NA,111
-2020-03-24,"Age Group","25-34",NA,264
-2020-03-24,"Age Group","35-44",NA,246
-2020-03-24,"Age Group","45-54",NA,280
-2020-03-24,"Age Group","55-64",NA,197
-2020-03-24,"Age Group","65+",NA,252
-2020-03-24,"Age Group","Unknown Age",NA,3
 2020-03-23,"HSE area","HSE East",NA,732
 2020-03-23,"HSE area","HSE Midlands",NA,51
 2020-03-23,"HSE area","HSE Mid-West",NA,48
@@ -640,16 +340,6 @@
 2020-03-23,"Sex","Female",NA,522
 2020-03-23,"Sex","Male",NA,642
 2020-03-23,"Sex","Unknown Sex",NA,0
-2020-03-23,"Age Group","<1",NA,3
-2020-03-23,"Age Group","1-4",NA,2
-2020-03-23,"Age Group","5-14",NA,20
-2020-03-23,"Age Group","15-24",NA,94
-2020-03-23,"Age Group","25-34",NA,228
-2020-03-23,"Age Group","35-44",NA,214
-2020-03-23,"Age Group","45-54",NA,229
-2020-03-23,"Age Group","55-64",NA,165
-2020-03-23,"Age Group","65+",NA,207
-2020-03-23,"Age Group","Unknown Age",NA,2
 2020-03-22,"HSE area","HSE East",NA,588
 2020-03-22,"HSE area","HSE Midlands",NA,46
 2020-03-22,"HSE area","HSE Mid-West",NA,47
@@ -661,16 +351,6 @@
 2020-03-22,"Sex","Female",NA,431
 2020-03-22,"Sex","Male",NA,534
 2020-03-22,"Sex","Unknown Sex",NA,0
-2020-03-22,"Age Group","<1",NA,3
-2020-03-22,"Age Group","1-4",NA,2
-2020-03-22,"Age Group","5-14",NA,17
-2020-03-22,"Age Group","15-24",NA,77
-2020-03-22,"Age Group","25-34",NA,189
-2020-03-22,"Age Group","35-44",NA,183
-2020-03-22,"Age Group","45-54",NA,191
-2020-03-22,"Age Group","55-64",NA,136
-2020-03-22,"Age Group","65+",NA,165
-2020-03-22,"Age Group","Unknown Age",NA,2
 2020-03-21,"HSE area","HSE East",NA,516
 2020-03-21,"HSE area","HSE Midlands",NA,39
 2020-03-21,"HSE area","HSE Mid-West",NA,44
@@ -682,16 +362,6 @@
 2020-03-21,"Sex","Female",NA,369
 2020-03-21,"Sex","Male",NA,460
 2020-03-21,"Sex","Unknown Sex",NA,7
-2020-03-21,"Age Group","<1",NA,3
-2020-03-21,"Age Group","1-4",NA,2
-2020-03-21,"Age Group","5-14",NA,16
-2020-03-21,"Age Group","15-24",NA,69
-2020-03-21,"Age Group","25-34",NA,166
-2020-03-21,"Age Group","35-44",NA,165
-2020-03-21,"Age Group","45-54",NA,158
-2020-03-21,"Age Group","55-64",NA,117
-2020-03-21,"Age Group","65+",NA,139
-2020-03-21,"Age Group","Unknown Age",NA,1
 2020-04-22,"Transmission Type","Community transmission",NA,2447
 2020-04-22,"Transmission Type","Local transmission",NA,4067
 2020-04-22,"Transmission Type","Possible community transmission",NA,5882
