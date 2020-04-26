@@ -15,9 +15,18 @@ GetLinksFromHTML <- function(link) {
 
 ReadPDFs <- function(link) {
   
-  date <- stringr::str_extract(link, "[\\d]+.[\\d]+.[\\d]+") %>% 
-    as.Date(format = "%d.%m.%Y") %>%
-    {. - lubridate::days(2)}
+  date <- stringr::str_extract(link, "[\\d]+.[\\d]+.[\\d]+") 
+  if (!stringr::str_detect(date, "\\.")) {
+    date <- paste0(substring(date, first = 1, last = 4),".",
+                   substring(date, first = 5, last = 6),".",
+                   substring(date, first = 7, last = 8), collapse = "") %>% 
+      as.Date(format = "%Y.%m.%d")
+  } else {
+    date %<>% 
+      as.Date(format = "%d.%m.%Y") 
+  }
+  
+  date <- date - lubridate::days(2)
     
   
   pdf <- paste0("https://www.hpsc.ie", link) %>% 
@@ -47,13 +56,14 @@ ExtractRegionalData <- function(document) {
   document$pdf %>%
     {.[start.line:(start.line + 25)]} %>% 
     stringr::str_squish() %>%
+    stringr::str_replace_all("\\.|,|\\*","") %>% 
     strsplit(split = " ") %>% 
     plyr::ldply(.) %>% 
     tibble::as_tibble(.) %>% 
-    dplyr::rename("Province" = V1, "Total" = V2, "%Change" = V3) %>% 
-    dplyr::mutate_at(dplyr::vars(Total), as.numeric) %>% 
+    dplyr::rename("County" = V1, "Value" = V2, "%Change" = V3) %>% 
+    dplyr::mutate_at(dplyr::vars(Value), as.numeric) %>% 
     dplyr::mutate(Date = document$date) %>% 
-    dplyr::select(Date, Province, Total)
+    dplyr::select(Date, County, Value)
   
 }
 
@@ -174,6 +184,13 @@ ExtractAgeData <- function(document) {
         {paste(.[1], "0", .[2])}
       table.list[test] <- stringr::str_replace(table.list[test], old, new)
     }
+    if (document$date == "2020-04-23") {
+      table.list[9] %<>% 
+        stringr::str_split(" ") %>% 
+        unlist %>% 
+        {paste(c(.,"0","0","0","0"))} %>% 
+        paste(collapse = " ")
+    }
     
     table <- table.list %>% 
       strsplit(split = " ") %>%
@@ -235,13 +252,20 @@ ExtractCharacteristicData <- function(document) {
   table <- second.part %>% 
     stringr::str_split("[\\d]+") %>% 
     purrr::map(purrr::pluck(1)) %>% 
+    stringr::str_trim(.) %>% 
     plyr::ldply(.) %>% 
     tibble::as_tibble(.) %>% 
     dplyr::rename("Key" = V1) %>% 
     dplyr::bind_cols(second.part.numeric) %>% 
     dplyr::bind_rows(first.part) %>% 
     dplyr::mutate(Date = document$date) %>% 
-    dplyr::select(Date, Key, Value)
+    dplyr::select(Date, Key, Value) %>% 
+    dplyr::mutate(`Key 1` = c(rep("HSE area", 8),
+                              rep("Sex", 3),
+                              rep("Age Group", 10)),
+                  `Key 3` = NA) %>% 
+    dplyr::filter(!grepl("Age Group", .$'Key 1')) %>% 
+    dplyr::select(Date, `Key 1`, `Key 2` = Key, `Key 3`, Value)
 }
 
 ExtractTotalData <- function(document) {
@@ -292,7 +316,8 @@ ExtractTotalData <- function(document) {
     dplyr::select(Date, Key, Values) %>% 
     tidyr::pivot_wider(names_from = "Key", values_from = "Values") %>% 
     dplyr::select(Date, Total, Hospitalised, `In ICU`, Dead, Clusters, 
-                  `In Clusters`, Imported, Healthcare, `Median Age`)
+                  `In Clusters`, Imported, Healthcare, `Median Age`) %>% 
+    tidyr::pivot_longer(-Date, names_to = "Key", values_to = "Value")
   
 }
 
@@ -316,25 +341,36 @@ total <- purrr::map_dfr(PDFs, ExtractTotalData) %>%
   dplyr::distinct(.keep_all = TRUE)
 
 characteristics <- purrr::map_dfr(PDFs, ExtractCharacteristicData) %>%
-  dplyr::distinct(.keep_all = TRUE)
+  dplyr::distinct(.keep_all = TRUE) 
 
 transmission <- purrr::map_dfr(PDFs, ExtractTransmissionData) %>%
   na.omit %>%
-  dplyr::distinct(.keep_all = TRUE)
+  dplyr::distinct(.keep_all = TRUE) %>% 
+  dplyr::mutate(`Key 1` = "Transmission Type",
+                `Key 3` = NA) %>% 
+  dplyr::select(Date, `Key 1`, `Key 2` = Key, `Key 3`, Value)
 
 age <- purrr::map_dfr(PDFs, ExtractAgeData) %>%
   na.omit %>%
-  dplyr::distinct(.keep_all = TRUE)
+  dplyr::distinct(.keep_all = TRUE) %>% 
+  dplyr::mutate(`Key 1` = "Age Group") %>% 
+  dplyr::select(Date, `Key 1`, `Key 2` = `Age Group`, `Key 3` = Key, Value)
 
 workers <- purrr::map_dfr(PDFs, ExtractWorkersData) %>%
-  dplyr::distinct(.keep_all = TRUE)
+  dplyr::distinct(.keep_all = TRUE) %>% 
+  dplyr::mutate('Key 1' = "Healthcare Workers Cases") %>% 
+  dplyr::select(Date, `Key 1`, `Key 2` = `HSE area`, `Key 3` = Key, Value)
+
+granular.data <- characteristics %>% 
+  dplyr::bind_rows(transmission) %>% 
+  dplyr::bind_rows(age) %>% 
+  dplyr::bind_rows(workers)
 
 
 # Save Files --------------------------------------------------------------
 
-write.csv(county, here::here("Covid19_Data_By_County.csv"))
-write.csv(total,  here::here("Covid19_Data_Total_Ireland.csv"))
-write.csv(characteristics,  here::here("Covid19_Data_Positive_Characteristics.csv"))
-write.csv(transmission,  here::here("Covid19_Data_Level_Of_Transmission.csv"))
-write.csv(age,  here::here("Covid19_Data_Breakdown_By_Age.csv"))
-write.csv(workers,  here::here("Covid19_Data_Breakdown_By_Age.csv"))
+write.csv(county, here::here("Covid19_Data_By_County.csv"), row.names = FALSE)
+write.csv(total,  here::here("Covid19_Data_Total_Ireland.csv"), row.names = FALSE)
+write.csv(granular.data,  
+          here::here("Covid19_Data_Positive_Characteristics.csv"),
+          row.names = FALSE)
