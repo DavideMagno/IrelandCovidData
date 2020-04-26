@@ -5,9 +5,9 @@ Three data-sets are provided starting from the 25th of February:
 
 *File name*                                    | *Data included*
 :---------------------------------------------:|:--------------------------------------------------:
-**Covid19_Data_Total_Ireland.csv**             | Positive cases in Ireland 
+**Covid19_Data_Total_Ireland.csv**             | Positive cases in Ireland distirbguished by different categories. See table below for additional info. 
 **Covid19_Data_By_County.csv**                 | Total number of positive cases by date and county
-**Covid19_Data_Positive_Characteristics.csv**  | Characteristics of positive cases. See table below for additio|l info
+**Covid19_Data_Positive_Characteristics.csv**  | Characteristics of positive cases. See table below for additional info
 
 The table below details the columns for the file **Covid19_Data_Total_Ireland.csv**
 
