@@ -1,4 +1,4 @@
-# Time Series of the Covid19 epidemic data in Italy ![alt text](https://github.com/DavideMagno/IrelandCovidData/blob/master/IMG_0080.jpeg "Covid")
+# Time Series of the Covid19 epidemic data in Ireland ![alt text](https://github.com/DavideMagno/IrelandCovidData/blob/master/IMG_0080.jpeg "Covid")
 In this repo I make available the time series of data as communicated by the [Health Protection Surveillance Centre](https://www.hpsc.ie/a-z/respiratory/coro|virus/novelcoro|virus/casesinireland/) every day.
 
 Three data-sets are provided starting from the 25th of February:
