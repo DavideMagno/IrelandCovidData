@@ -1,4 +1,15 @@
 "Date","Key 1","Key 2","Key 3","Value"
+2020-04-26,"HSE area","HSE East",NA,11329
+2020-04-26,"HSE area","HSE Midlands",NA,1031
+2020-04-26,"HSE area","HSE Mid-West",NA,1016
+2020-04-26,"HSE area","HSE North-East",NA,2289
+2020-04-26,"HSE area","HSE North-West",NA,638
+2020-04-26,"HSE area","HSE South-East",NA,727
+2020-04-26,"HSE area","HSE South",NA,1414
+2020-04-26,"HSE area","Data source: CIDR as of",NA,28
+2020-04-26,"Sex","Female",NA,11179
+2020-04-26,"Sex","Male",NA,8152
+2020-04-26,"Sex","Unknown Sex",NA,52
 2020-04-25,"HSE area","HSE East",NA,11216
 2020-04-25,"HSE area","HSE Midlands",NA,1008
 2020-04-25,"HSE area","HSE Mid-West",NA,932
@@ -395,6 +406,13 @@
 2020-03-21,"Sex","Female",NA,369
 2020-03-21,"Sex","Male",NA,460
 2020-03-21,"Sex","Unknown Sex",NA,7
+2020-04-26,"Transmission Type","Possible community transmission",NA,2496
+2020-04-26,"Transmission Type","Local transmission",NA,4614
+2020-04-26,"Transmission Type","Community transmission",NA,6950
+2020-04-26,"Transmission Type","Possible local transmission",NA,408
+2020-04-26,"Transmission Type","Travel abroad",NA,178
+2020-04-26,"Transmission Type","Possible travel abroad",NA,345
+2020-04-26,"Transmission Type","Unknown",NA,4392
 2020-04-25,"Transmission Type","Possible community transmission",NA,6847
 2020-04-25,"Transmission Type","Local transmission",NA,4446
 2020-04-25,"Transmission Type","Community transmission",NA,2480
@@ -631,6 +649,42 @@
 2020-03-21,"Transmission Type","Possible local transmission",NA,0
 2020-03-21,"Transmission Type","Travel abroad",NA,183
 2020-03-21,"Transmission Type","Unknown",NA,253
+2020-04-26,"Age Group","<5","Total",97
+2020-04-26,"Age Group","<5","Hospitalised",14
+2020-04-26,"Age Group","<5","In ICU",0
+2020-04-26,"Age Group","<5","Died",0
+2020-04-26,"Age Group","5-14","Total",193
+2020-04-26,"Age Group","5-14","Hospitalised",8
+2020-04-26,"Age Group","5-14","In ICU",1
+2020-04-26,"Age Group","5-14","Died",0
+2020-04-26,"Age Group","15-24","Total",1262
+2020-04-26,"Age Group","15-24","Hospitalised",54
+2020-04-26,"Age Group","15-24","In ICU",6
+2020-04-26,"Age Group","15-24","Died",1
+2020-04-26,"Age Group","25-34","Total",3096
+2020-04-26,"Age Group","25-34","Hospitalised",159
+2020-04-26,"Age Group","25-34","In ICU",13
+2020-04-26,"Age Group","25-34","Died",3
+2020-04-26,"Age Group","35-44","Total",3319
+2020-04-26,"Age Group","35-44","Hospitalised",228
+2020-04-26,"Age Group","35-44","In ICU",33
+2020-04-26,"Age Group","35-44","Died",9
+2020-04-26,"Age Group","45-54","Total",3567
+2020-04-26,"Age Group","45-54","Hospitalised",353
+2020-04-26,"Age Group","45-54","In ICU",76
+2020-04-26,"Age Group","45-54","Died",18
+2020-04-26,"Age Group","55-64","Total",2586
+2020-04-26,"Age Group","55-64","Hospitalised",401
+2020-04-26,"Age Group","55-64","In ICU",99
+2020-04-26,"Age Group","55-64","Died",41
+2020-04-26,"Age Group","65+","Total",5239
+2020-04-26,"Age Group","65+","Hospitalised",1418
+2020-04-26,"Age Group","65+","In ICU",130
+2020-04-26,"Age Group","65+","Died",852
+2020-04-26,"Age Group","Unknown","Total",24
+2020-04-26,"Age Group","Unknown","Hospitalised",3
+2020-04-26,"Age Group","Unknown","In ICU",0
+2020-04-26,"Age Group","Unknown","Died",0
 2020-04-25,"Age Group","<5","Total",97
 2020-04-25,"Age Group","<5","Hospitalised",14
 2020-04-25,"Age Group","<5","In ICU",0
@@ -1747,867 +1801,891 @@
 2020-03-26,"Age Group","Unknown","Hospitalised",1
 2020-03-26,"Age Group","Unknown","In ICU",0
 2020-03-26,"Age Group","Unknown","Died",0
+2020-04-26,"Healthcare Workers Cases","HSE East","Foreign travel",86
+2020-04-26,"Healthcare Workers Cases","HSE East","Local/Community transmission",2924
+2020-04-26,"Healthcare Workers Cases","HSE East","Not specified",174
+2020-04-26,"Healthcare Workers Cases","HSE Midlands","Foreign travel",10
+2020-04-26,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",215
+2020-04-26,"Healthcare Workers Cases","HSE Midlands","Not specified",91
+2020-04-26,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",15
+2020-04-26,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",86
+2020-04-26,"Healthcare Workers Cases","HSE Mid-West","Not specified",168
+2020-04-26,"Healthcare Workers Cases","HSE North-East","Foreign travel",6
+2020-04-26,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",31
+2020-04-26,"Healthcare Workers Cases","HSE North-East","Not specified",636
+2020-04-26,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
+2020-04-26,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",111
+2020-04-26,"Healthcare Workers Cases","HSE North-West","Not specified",103
+2020-04-26,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
+2020-04-26,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
+2020-04-26,"Healthcare Workers Cases","HSE South-East","Not specified",207
+2020-04-26,"Healthcare Workers Cases","HSE South","Foreign travel",20
+2020-04-26,"Healthcare Workers Cases","HSE South","Local/Community transmission",108
+2020-04-26,"Healthcare Workers Cases","HSE South","Not specified",192
+2020-04-26,"Healthcare Workers Cases","HSE West","Foreign travel",7
+2020-04-26,"Healthcare Workers Cases","HSE West","Local/Community transmission",81
+2020-04-26,"Healthcare Workers Cases","HSE West","Not specified",127
 2020-04-25,"Healthcare Workers Cases","HSE East","Foreign travel",87
-2020-04-25,"Healthcare Workers Cases","HSE East","No Foreign travel",2793
+2020-04-25,"Healthcare Workers Cases","HSE East","Local/Community transmission",2793
 2020-04-25,"Healthcare Workers Cases","HSE East","Not specified",184
 2020-04-25,"Healthcare Workers Cases","HSE Midlands","Foreign travel",10
-2020-04-25,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",212
+2020-04-25,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",212
 2020-04-25,"Healthcare Workers Cases","HSE Midlands","Not specified",89
 2020-04-25,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",15
-2020-04-25,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",86
+2020-04-25,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",86
 2020-04-25,"Healthcare Workers Cases","HSE Mid-West","Not specified",145
 2020-04-25,"Healthcare Workers Cases","HSE North-East","Foreign travel",6
-2020-04-25,"Healthcare Workers Cases","HSE North-East","No Foreign travel",31
+2020-04-25,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",31
 2020-04-25,"Healthcare Workers Cases","HSE North-East","Not specified",583
 2020-04-25,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
-2020-04-25,"Healthcare Workers Cases","HSE North-West","No Foreign travel",101
+2020-04-25,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",101
 2020-04-25,"Healthcare Workers Cases","HSE North-West","Not specified",110
 2020-04-25,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-25,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-25,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-25,"Healthcare Workers Cases","HSE South-East","Not specified",206
 2020-04-25,"Healthcare Workers Cases","HSE South","Foreign travel",20
-2020-04-25,"Healthcare Workers Cases","HSE South","No Foreign travel",108
+2020-04-25,"Healthcare Workers Cases","HSE South","Local/Community transmission",108
 2020-04-25,"Healthcare Workers Cases","HSE South","Not specified",181
 2020-04-25,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-25,"Healthcare Workers Cases","HSE West","No Foreign travel",86
+2020-04-25,"Healthcare Workers Cases","HSE West","Local/Community transmission",86
 2020-04-25,"Healthcare Workers Cases","HSE West","Not specified",128
 2020-04-24,"Healthcare Workers Cases","HSE East","Foreign travel",86
-2020-04-24,"Healthcare Workers Cases","HSE East","No Foreign travel",2696
+2020-04-24,"Healthcare Workers Cases","HSE East","Local/Community transmission",2696
 2020-04-24,"Healthcare Workers Cases","HSE East","Not specified",199
 2020-04-24,"Healthcare Workers Cases","HSE Midlands","Foreign travel",9
-2020-04-24,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",210
+2020-04-24,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",210
 2020-04-24,"Healthcare Workers Cases","HSE Midlands","Not specified",87
 2020-04-24,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",15
-2020-04-24,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",86
+2020-04-24,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",86
 2020-04-24,"Healthcare Workers Cases","HSE Mid-West","Not specified",145
 2020-04-24,"Healthcare Workers Cases","HSE North-East","Foreign travel",6
-2020-04-24,"Healthcare Workers Cases","HSE North-East","No Foreign travel",25
+2020-04-24,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",25
 2020-04-24,"Healthcare Workers Cases","HSE North-East","Not specified",566
 2020-04-24,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
-2020-04-24,"Healthcare Workers Cases","HSE North-West","No Foreign travel",101
+2020-04-24,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",101
 2020-04-24,"Healthcare Workers Cases","HSE North-West","Not specified",95
 2020-04-24,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-24,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-24,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-24,"Healthcare Workers Cases","HSE South-East","Not specified",201
 2020-04-24,"Healthcare Workers Cases","HSE South","Foreign travel",20
-2020-04-24,"Healthcare Workers Cases","HSE South","No Foreign travel",107
+2020-04-24,"Healthcare Workers Cases","HSE South","Local/Community transmission",107
 2020-04-24,"Healthcare Workers Cases","HSE South","Not specified",179
 2020-04-24,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-24,"Healthcare Workers Cases","HSE West","No Foreign travel",86
+2020-04-24,"Healthcare Workers Cases","HSE West","Local/Community transmission",86
 2020-04-24,"Healthcare Workers Cases","HSE West","Not specified",122
 2020-04-23,"Healthcare Workers Cases","HSE East","Foreign travel",84
-2020-04-23,"Healthcare Workers Cases","HSE East","No Foreign travel",2603
+2020-04-23,"Healthcare Workers Cases","HSE East","Local/Community transmission",2603
 2020-04-23,"Healthcare Workers Cases","HSE East","Not specified",140
 2020-04-23,"Healthcare Workers Cases","HSE Midlands","Foreign travel",7
-2020-04-23,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",197
+2020-04-23,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",197
 2020-04-23,"Healthcare Workers Cases","HSE Midlands","Not specified",87
 2020-04-23,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",15
-2020-04-23,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",86
+2020-04-23,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",86
 2020-04-23,"Healthcare Workers Cases","HSE Mid-West","Not specified",145
 2020-04-23,"Healthcare Workers Cases","HSE North-East","Foreign travel",6
-2020-04-23,"Healthcare Workers Cases","HSE North-East","No Foreign travel",25
+2020-04-23,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",25
 2020-04-23,"Healthcare Workers Cases","HSE North-East","Not specified",534
 2020-04-23,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
-2020-04-23,"Healthcare Workers Cases","HSE North-West","No Foreign travel",100
+2020-04-23,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",100
 2020-04-23,"Healthcare Workers Cases","HSE North-West","Not specified",94
 2020-04-23,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-23,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-23,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-23,"Healthcare Workers Cases","HSE South-East","Not specified",195
 2020-04-23,"Healthcare Workers Cases","HSE South","Foreign travel",20
-2020-04-23,"Healthcare Workers Cases","HSE South","No Foreign travel",107
+2020-04-23,"Healthcare Workers Cases","HSE South","Local/Community transmission",107
 2020-04-23,"Healthcare Workers Cases","HSE South","Not specified",179
 2020-04-23,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-23,"Healthcare Workers Cases","HSE West","No Foreign travel",86
+2020-04-23,"Healthcare Workers Cases","HSE West","Local/Community transmission",86
 2020-04-23,"Healthcare Workers Cases","HSE West","Not specified",114
 2020-04-22,"Healthcare Workers Cases","HSE East","Foreign travel",84
-2020-04-22,"Healthcare Workers Cases","HSE East","No Foreign travel",2535
+2020-04-22,"Healthcare Workers Cases","HSE East","Local/Community transmission",2535
 2020-04-22,"Healthcare Workers Cases","HSE East","Not specified",140
 2020-04-22,"Healthcare Workers Cases","HSE Midlands","Foreign travel",7
-2020-04-22,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",195
+2020-04-22,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",195
 2020-04-22,"Healthcare Workers Cases","HSE Midlands","Not specified",83
 2020-04-22,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",15
-2020-04-22,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",86
+2020-04-22,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",86
 2020-04-22,"Healthcare Workers Cases","HSE Mid-West","Not specified",129
 2020-04-22,"Healthcare Workers Cases","HSE North-East","Foreign travel",6
-2020-04-22,"Healthcare Workers Cases","HSE North-East","No Foreign travel",25
+2020-04-22,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",25
 2020-04-22,"Healthcare Workers Cases","HSE North-East","Not specified",504
 2020-04-22,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
-2020-04-22,"Healthcare Workers Cases","HSE North-West","No Foreign travel",97
+2020-04-22,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",97
 2020-04-22,"Healthcare Workers Cases","HSE North-West","Not specified",98
 2020-04-22,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-22,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-22,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-22,"Healthcare Workers Cases","HSE South-East","Not specified",190
 2020-04-22,"Healthcare Workers Cases","HSE South","Foreign travel",20
-2020-04-22,"Healthcare Workers Cases","HSE South","No Foreign travel",107
+2020-04-22,"Healthcare Workers Cases","HSE South","Local/Community transmission",107
 2020-04-22,"Healthcare Workers Cases","HSE South","Not specified",171
 2020-04-22,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-22,"Healthcare Workers Cases","HSE West","No Foreign travel",86
+2020-04-22,"Healthcare Workers Cases","HSE West","Local/Community transmission",86
 2020-04-22,"Healthcare Workers Cases","HSE West","Not specified",112
 2020-04-21,"Healthcare Workers Cases","HSE East","Foreign travel",84
-2020-04-21,"Healthcare Workers Cases","HSE East","No Foreign travel",2468
+2020-04-21,"Healthcare Workers Cases","HSE East","Local/Community transmission",2468
 2020-04-21,"Healthcare Workers Cases","HSE East","Not specified",141
 2020-04-21,"Healthcare Workers Cases","HSE Midlands","Foreign travel",7
-2020-04-21,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",182
+2020-04-21,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",182
 2020-04-21,"Healthcare Workers Cases","HSE Midlands","Not specified",77
 2020-04-21,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",15
-2020-04-21,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",86
+2020-04-21,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",86
 2020-04-21,"Healthcare Workers Cases","HSE Mid-West","Not specified",124
 2020-04-21,"Healthcare Workers Cases","HSE North-East","Foreign travel",6
-2020-04-21,"Healthcare Workers Cases","HSE North-East","No Foreign travel",24
+2020-04-21,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",24
 2020-04-21,"Healthcare Workers Cases","HSE North-East","Not specified",462
 2020-04-21,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
-2020-04-21,"Healthcare Workers Cases","HSE North-West","No Foreign travel",94
+2020-04-21,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",94
 2020-04-21,"Healthcare Workers Cases","HSE North-West","Not specified",90
 2020-04-21,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-21,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-21,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-21,"Healthcare Workers Cases","HSE South-East","Not specified",182
 2020-04-21,"Healthcare Workers Cases","HSE South","Foreign travel",20
-2020-04-21,"Healthcare Workers Cases","HSE South","No Foreign travel",107
+2020-04-21,"Healthcare Workers Cases","HSE South","Local/Community transmission",107
 2020-04-21,"Healthcare Workers Cases","HSE South","Not specified",162
 2020-04-21,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-21,"Healthcare Workers Cases","HSE West","No Foreign travel",86
+2020-04-21,"Healthcare Workers Cases","HSE West","Local/Community transmission",86
 2020-04-21,"Healthcare Workers Cases","HSE West","Not specified",105
 2020-04-20,"Healthcare Workers Cases","HSE East","Foreign travel",80
-2020-04-20,"Healthcare Workers Cases","HSE East","No Foreign travel",2407
+2020-04-20,"Healthcare Workers Cases","HSE East","Local/Community transmission",2407
 2020-04-20,"Healthcare Workers Cases","HSE East","Not specified",131
 2020-04-20,"Healthcare Workers Cases","HSE Midlands","Foreign travel",7
-2020-04-20,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",176
+2020-04-20,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",176
 2020-04-20,"Healthcare Workers Cases","HSE Midlands","Not specified",73
 2020-04-20,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",15
-2020-04-20,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",85
+2020-04-20,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",85
 2020-04-20,"Healthcare Workers Cases","HSE Mid-West","Not specified",118
 2020-04-20,"Healthcare Workers Cases","HSE North-East","Foreign travel",6
-2020-04-20,"Healthcare Workers Cases","HSE North-East","No Foreign travel",20
+2020-04-20,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",20
 2020-04-20,"Healthcare Workers Cases","HSE North-East","Not specified",439
 2020-04-20,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
-2020-04-20,"Healthcare Workers Cases","HSE North-West","No Foreign travel",91
+2020-04-20,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",91
 2020-04-20,"Healthcare Workers Cases","HSE North-West","Not specified",85
 2020-04-20,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-20,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-20,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-20,"Healthcare Workers Cases","HSE South-East","Not specified",175
 2020-04-20,"Healthcare Workers Cases","HSE South","Foreign travel",20
-2020-04-20,"Healthcare Workers Cases","HSE South","No Foreign travel",107
+2020-04-20,"Healthcare Workers Cases","HSE South","Local/Community transmission",107
 2020-04-20,"Healthcare Workers Cases","HSE South","Not specified",154
 2020-04-20,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-20,"Healthcare Workers Cases","HSE West","No Foreign travel",86
+2020-04-20,"Healthcare Workers Cases","HSE West","Local/Community transmission",86
 2020-04-20,"Healthcare Workers Cases","HSE West","Not specified",95
 2020-04-19,"Healthcare Workers Cases","HSE East","Foreign travel",78
-2020-04-19,"Healthcare Workers Cases","HSE East","No Foreign travel",2345
+2020-04-19,"Healthcare Workers Cases","HSE East","Local/Community transmission",2345
 2020-04-19,"Healthcare Workers Cases","HSE East","Not specified",112
 2020-04-19,"Healthcare Workers Cases","HSE Midlands","Foreign travel",7
-2020-04-19,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",173
+2020-04-19,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",173
 2020-04-19,"Healthcare Workers Cases","HSE Midlands","Not specified",71
 2020-04-19,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",15
-2020-04-19,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",81
+2020-04-19,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",81
 2020-04-19,"Healthcare Workers Cases","HSE Mid-West","Not specified",97
 2020-04-19,"Healthcare Workers Cases","HSE North-East","Foreign travel",5
-2020-04-19,"Healthcare Workers Cases","HSE North-East","No Foreign travel",20
+2020-04-19,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",20
 2020-04-19,"Healthcare Workers Cases","HSE North-East","Not specified",381
 2020-04-19,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
-2020-04-19,"Healthcare Workers Cases","HSE North-West","No Foreign travel",82
+2020-04-19,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",82
 2020-04-19,"Healthcare Workers Cases","HSE North-West","Not specified",79
 2020-04-19,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-19,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-19,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-19,"Healthcare Workers Cases","HSE South-East","Not specified",171
 2020-04-19,"Healthcare Workers Cases","HSE South","Foreign travel",19
-2020-04-19,"Healthcare Workers Cases","HSE South","No Foreign travel",106
+2020-04-19,"Healthcare Workers Cases","HSE South","Local/Community transmission",106
 2020-04-19,"Healthcare Workers Cases","HSE South","Not specified",137
 2020-04-19,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-19,"Healthcare Workers Cases","HSE West","No Foreign travel",86
+2020-04-19,"Healthcare Workers Cases","HSE West","Local/Community transmission",86
 2020-04-19,"Healthcare Workers Cases","HSE West","Not specified",92
 2020-04-18,"Healthcare Workers Cases","HSE East","Foreign travel",78
-2020-04-18,"Healthcare Workers Cases","HSE East","No Foreign travel",2266
+2020-04-18,"Healthcare Workers Cases","HSE East","Local/Community transmission",2266
 2020-04-18,"Healthcare Workers Cases","HSE East","Not specified",112
 2020-04-18,"Healthcare Workers Cases","HSE Midlands","Foreign travel",7
-2020-04-18,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",169
+2020-04-18,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",169
 2020-04-18,"Healthcare Workers Cases","HSE Midlands","Not specified",66
 2020-04-18,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",15
-2020-04-18,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",75
+2020-04-18,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",75
 2020-04-18,"Healthcare Workers Cases","HSE Mid-West","Not specified",99
 2020-04-18,"Healthcare Workers Cases","HSE North-East","Foreign travel",5
-2020-04-18,"Healthcare Workers Cases","HSE North-East","No Foreign travel",20
+2020-04-18,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",20
 2020-04-18,"Healthcare Workers Cases","HSE North-East","Not specified",354
 2020-04-18,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
-2020-04-18,"Healthcare Workers Cases","HSE North-West","No Foreign travel",71
+2020-04-18,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",71
 2020-04-18,"Healthcare Workers Cases","HSE North-West","Not specified",76
 2020-04-18,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-18,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-18,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-18,"Healthcare Workers Cases","HSE South-East","Not specified",166
 2020-04-18,"Healthcare Workers Cases","HSE South","Foreign travel",19
-2020-04-18,"Healthcare Workers Cases","HSE South","No Foreign travel",106
+2020-04-18,"Healthcare Workers Cases","HSE South","Local/Community transmission",106
 2020-04-18,"Healthcare Workers Cases","HSE South","Not specified",108
 2020-04-18,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-18,"Healthcare Workers Cases","HSE West","No Foreign travel",86
+2020-04-18,"Healthcare Workers Cases","HSE West","Local/Community transmission",86
 2020-04-18,"Healthcare Workers Cases","HSE West","Not specified",88
 2020-04-17,"Healthcare Workers Cases","HSE East","Foreign travel",77
-2020-04-17,"Healthcare Workers Cases","HSE East","No Foreign travel",2116
+2020-04-17,"Healthcare Workers Cases","HSE East","Local/Community transmission",2116
 2020-04-17,"Healthcare Workers Cases","HSE East","Not specified",111
 2020-04-17,"Healthcare Workers Cases","HSE Midlands","Foreign travel",7
-2020-04-17,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",159
+2020-04-17,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",159
 2020-04-17,"Healthcare Workers Cases","HSE Midlands","Not specified",66
 2020-04-17,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",15
-2020-04-17,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",75
+2020-04-17,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",75
 2020-04-17,"Healthcare Workers Cases","HSE Mid-West","Not specified",99
 2020-04-17,"Healthcare Workers Cases","HSE North-East","Foreign travel",4
-2020-04-17,"Healthcare Workers Cases","HSE North-East","No Foreign travel",20
+2020-04-17,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",20
 2020-04-17,"Healthcare Workers Cases","HSE North-East","Not specified",314
 2020-04-17,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
-2020-04-17,"Healthcare Workers Cases","HSE North-West","No Foreign travel",71
+2020-04-17,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",71
 2020-04-17,"Healthcare Workers Cases","HSE North-West","Not specified",72
 2020-04-17,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-17,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-17,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-17,"Healthcare Workers Cases","HSE South-East","Not specified",160
 2020-04-17,"Healthcare Workers Cases","HSE South","Foreign travel",19
-2020-04-17,"Healthcare Workers Cases","HSE South","No Foreign travel",106
+2020-04-17,"Healthcare Workers Cases","HSE South","Local/Community transmission",106
 2020-04-17,"Healthcare Workers Cases","HSE South","Not specified",102
 2020-04-17,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-17,"Healthcare Workers Cases","HSE West","No Foreign travel",85
+2020-04-17,"Healthcare Workers Cases","HSE West","Local/Community transmission",85
 2020-04-17,"Healthcare Workers Cases","HSE West","Not specified",87
 2020-04-16,"Healthcare Workers Cases","HSE East","Foreign travel",77
-2020-04-16,"Healthcare Workers Cases","HSE East","No Foreign travel",1988
+2020-04-16,"Healthcare Workers Cases","HSE East","Local/Community transmission",1988
 2020-04-16,"Healthcare Workers Cases","HSE East","Not specified",108
 2020-04-16,"Healthcare Workers Cases","HSE Midlands","Foreign travel",7
-2020-04-16,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",145
+2020-04-16,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",145
 2020-04-16,"Healthcare Workers Cases","HSE Midlands","Not specified",63
 2020-04-16,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",15
-2020-04-16,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",75
+2020-04-16,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",75
 2020-04-16,"Healthcare Workers Cases","HSE Mid-West","Not specified",99
 2020-04-16,"Healthcare Workers Cases","HSE North-East","Foreign travel",4
-2020-04-16,"Healthcare Workers Cases","HSE North-East","No Foreign travel",18
+2020-04-16,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",18
 2020-04-16,"Healthcare Workers Cases","HSE North-East","Not specified",295
 2020-04-16,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
-2020-04-16,"Healthcare Workers Cases","HSE North-West","No Foreign travel",67
+2020-04-16,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",67
 2020-04-16,"Healthcare Workers Cases","HSE North-West","Not specified",57
 2020-04-16,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-16,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-16,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-16,"Healthcare Workers Cases","HSE South-East","Not specified",148
 2020-04-16,"Healthcare Workers Cases","HSE South","Foreign travel",19
-2020-04-16,"Healthcare Workers Cases","HSE South","No Foreign travel",105
+2020-04-16,"Healthcare Workers Cases","HSE South","Local/Community transmission",105
 2020-04-16,"Healthcare Workers Cases","HSE South","Not specified",90
 2020-04-16,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-16,"Healthcare Workers Cases","HSE West","No Foreign travel",85
+2020-04-16,"Healthcare Workers Cases","HSE West","Local/Community transmission",85
 2020-04-16,"Healthcare Workers Cases","HSE West","Not specified",85
 2020-04-15,"Healthcare Workers Cases","HSE East","Foreign travel",76
-2020-04-15,"Healthcare Workers Cases","HSE East","No Foreign travel",1862
+2020-04-15,"Healthcare Workers Cases","HSE East","Local/Community transmission",1862
 2020-04-15,"Healthcare Workers Cases","HSE East","Not specified",105
 2020-04-15,"Healthcare Workers Cases","HSE Midlands","Foreign travel",7
-2020-04-15,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",133
+2020-04-15,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",133
 2020-04-15,"Healthcare Workers Cases","HSE Midlands","Not specified",56
 2020-04-15,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",14
-2020-04-15,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",71
+2020-04-15,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",71
 2020-04-15,"Healthcare Workers Cases","HSE Mid-West","Not specified",93
 2020-04-15,"Healthcare Workers Cases","HSE North-East","Foreign travel",4
-2020-04-15,"Healthcare Workers Cases","HSE North-East","No Foreign travel",17
+2020-04-15,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",17
 2020-04-15,"Healthcare Workers Cases","HSE North-East","Not specified",260
 2020-04-15,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
-2020-04-15,"Healthcare Workers Cases","HSE North-West","No Foreign travel",56
+2020-04-15,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",56
 2020-04-15,"Healthcare Workers Cases","HSE North-West","Not specified",58
 2020-04-15,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-15,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-15,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-15,"Healthcare Workers Cases","HSE South-East","Not specified",136
 2020-04-15,"Healthcare Workers Cases","HSE South","Foreign travel",21
-2020-04-15,"Healthcare Workers Cases","HSE South","No Foreign travel",104
+2020-04-15,"Healthcare Workers Cases","HSE South","Local/Community transmission",104
 2020-04-15,"Healthcare Workers Cases","HSE South","Not specified",81
 2020-04-15,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-15,"Healthcare Workers Cases","HSE West","No Foreign travel",85
+2020-04-15,"Healthcare Workers Cases","HSE West","Local/Community transmission",85
 2020-04-15,"Healthcare Workers Cases","HSE West","Not specified",85
 2020-04-14,"Healthcare Workers Cases","HSE East","Foreign travel",72
-2020-04-14,"Healthcare Workers Cases","HSE East","No Foreign travel",1732
+2020-04-14,"Healthcare Workers Cases","HSE East","Local/Community transmission",1732
 2020-04-14,"Healthcare Workers Cases","HSE East","Not specified",102
 2020-04-14,"Healthcare Workers Cases","HSE Midlands","Foreign travel",6
-2020-04-14,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",128
+2020-04-14,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",128
 2020-04-14,"Healthcare Workers Cases","HSE Midlands","Not specified",56
 2020-04-14,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",13
-2020-04-14,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",67
+2020-04-14,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",67
 2020-04-14,"Healthcare Workers Cases","HSE Mid-West","Not specified",80
 2020-04-14,"Healthcare Workers Cases","HSE North-East","Foreign travel",3
-2020-04-14,"Healthcare Workers Cases","HSE North-East","No Foreign travel",17
+2020-04-14,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",17
 2020-04-14,"Healthcare Workers Cases","HSE North-East","Not specified",183
 2020-04-14,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
-2020-04-14,"Healthcare Workers Cases","HSE North-West","No Foreign travel",53
+2020-04-14,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",53
 2020-04-14,"Healthcare Workers Cases","HSE North-West","Not specified",55
 2020-04-14,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-14,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-14,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-14,"Healthcare Workers Cases","HSE South-East","Not specified",132
 2020-04-14,"Healthcare Workers Cases","HSE South","Foreign travel",21
-2020-04-14,"Healthcare Workers Cases","HSE South","No Foreign travel",104
+2020-04-14,"Healthcare Workers Cases","HSE South","Local/Community transmission",104
 2020-04-14,"Healthcare Workers Cases","HSE South","Not specified",79
 2020-04-14,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-14,"Healthcare Workers Cases","HSE West","No Foreign travel",84
+2020-04-14,"Healthcare Workers Cases","HSE West","Local/Community transmission",84
 2020-04-14,"Healthcare Workers Cases","HSE West","Not specified",80
 2020-04-13,"Healthcare Workers Cases","HSE East","Foreign travel",72
-2020-04-13,"Healthcare Workers Cases","HSE East","No Foreign travel",1614
+2020-04-13,"Healthcare Workers Cases","HSE East","Local/Community transmission",1614
 2020-04-13,"Healthcare Workers Cases","HSE East","Not specified",81
 2020-04-13,"Healthcare Workers Cases","HSE Midlands","Foreign travel",6
-2020-04-13,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",120
+2020-04-13,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",120
 2020-04-13,"Healthcare Workers Cases","HSE Midlands","Not specified",51
 2020-04-13,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",13
-2020-04-13,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",66
+2020-04-13,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",66
 2020-04-13,"Healthcare Workers Cases","HSE Mid-West","Not specified",64
 2020-04-13,"Healthcare Workers Cases","HSE North-East","Foreign travel",3
-2020-04-13,"Healthcare Workers Cases","HSE North-East","No Foreign travel",17
+2020-04-13,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",17
 2020-04-13,"Healthcare Workers Cases","HSE North-East","Not specified",154
 2020-04-13,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
-2020-04-13,"Healthcare Workers Cases","HSE North-West","No Foreign travel",40
+2020-04-13,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",40
 2020-04-13,"Healthcare Workers Cases","HSE North-West","Not specified",57
 2020-04-13,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-13,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-13,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-13,"Healthcare Workers Cases","HSE South-East","Not specified",129
 2020-04-13,"Healthcare Workers Cases","HSE South","Foreign travel",21
-2020-04-13,"Healthcare Workers Cases","HSE South","No Foreign travel",104
+2020-04-13,"Healthcare Workers Cases","HSE South","Local/Community transmission",104
 2020-04-13,"Healthcare Workers Cases","HSE South","Not specified",79
 2020-04-13,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-13,"Healthcare Workers Cases","HSE West","No Foreign travel",80
+2020-04-13,"Healthcare Workers Cases","HSE West","Local/Community transmission",80
 2020-04-13,"Healthcare Workers Cases","HSE West","Not specified",78
 2020-04-12,"Healthcare Workers Cases","HSE East","Foreign travel",69
-2020-04-12,"Healthcare Workers Cases","HSE East","No Foreign travel",1529
+2020-04-12,"Healthcare Workers Cases","HSE East","Local/Community transmission",1529
 2020-04-12,"Healthcare Workers Cases","HSE East","Not specified",71
 2020-04-12,"Healthcare Workers Cases","HSE Midlands","Foreign travel",6
-2020-04-12,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",113
+2020-04-12,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",113
 2020-04-12,"Healthcare Workers Cases","HSE Midlands","Not specified",52
 2020-04-12,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",12
-2020-04-12,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",60
+2020-04-12,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",60
 2020-04-12,"Healthcare Workers Cases","HSE Mid-West","Not specified",53
 2020-04-12,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-04-12,"Healthcare Workers Cases","HSE North-East","No Foreign travel",17
+2020-04-12,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",17
 2020-04-12,"Healthcare Workers Cases","HSE North-East","Not specified",145
 2020-04-12,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
-2020-04-12,"Healthcare Workers Cases","HSE North-West","No Foreign travel",31
+2020-04-12,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",31
 2020-04-12,"Healthcare Workers Cases","HSE North-West","Not specified",54
 2020-04-12,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-12,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-12,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-12,"Healthcare Workers Cases","HSE South-East","Not specified",116
 2020-04-12,"Healthcare Workers Cases","HSE South","Foreign travel",21
-2020-04-12,"Healthcare Workers Cases","HSE South","No Foreign travel",104
+2020-04-12,"Healthcare Workers Cases","HSE South","Local/Community transmission",104
 2020-04-12,"Healthcare Workers Cases","HSE South","Not specified",77
 2020-04-12,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-12,"Healthcare Workers Cases","HSE West","No Foreign travel",74
+2020-04-12,"Healthcare Workers Cases","HSE West","Local/Community transmission",74
 2020-04-12,"Healthcare Workers Cases","HSE West","Not specified",78
 2020-04-11,"Healthcare Workers Cases","HSE East","Foreign travel",68
-2020-04-11,"Healthcare Workers Cases","HSE East","No Foreign travel",1370
+2020-04-11,"Healthcare Workers Cases","HSE East","Local/Community transmission",1370
 2020-04-11,"Healthcare Workers Cases","HSE East","Not specified",69
 2020-04-11,"Healthcare Workers Cases","HSE Midlands","Foreign travel",6
-2020-04-11,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",103
+2020-04-11,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",103
 2020-04-11,"Healthcare Workers Cases","HSE Midlands","Not specified",48
 2020-04-11,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",12
-2020-04-11,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",60
+2020-04-11,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",60
 2020-04-11,"Healthcare Workers Cases","HSE Mid-West","Not specified",43
 2020-04-11,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-04-11,"Healthcare Workers Cases","HSE North-East","No Foreign travel",16
+2020-04-11,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",16
 2020-04-11,"Healthcare Workers Cases","HSE North-East","Not specified",142
 2020-04-11,"Healthcare Workers Cases","HSE North-West","Foreign travel",7
-2020-04-11,"Healthcare Workers Cases","HSE North-West","No Foreign travel",23
+2020-04-11,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",23
 2020-04-11,"Healthcare Workers Cases","HSE North-West","Not specified",42
 2020-04-11,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-11,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-11,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-11,"Healthcare Workers Cases","HSE South-East","Not specified",111
 2020-04-11,"Healthcare Workers Cases","HSE South","Foreign travel",21
-2020-04-11,"Healthcare Workers Cases","HSE South","No Foreign travel",102
+2020-04-11,"Healthcare Workers Cases","HSE South","Local/Community transmission",102
 2020-04-11,"Healthcare Workers Cases","HSE South","Not specified",77
 2020-04-11,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-11,"Healthcare Workers Cases","HSE West","No Foreign travel",74
+2020-04-11,"Healthcare Workers Cases","HSE West","Local/Community transmission",74
 2020-04-11,"Healthcare Workers Cases","HSE West","Not specified",78
 2020-04-10,"Healthcare Workers Cases","HSE East","Foreign travel",68
-2020-04-10,"Healthcare Workers Cases","HSE East","No Foreign travel",1249
+2020-04-10,"Healthcare Workers Cases","HSE East","Local/Community transmission",1249
 2020-04-10,"Healthcare Workers Cases","HSE East","Not specified",68
 2020-04-10,"Healthcare Workers Cases","HSE Midlands","Foreign travel",6
-2020-04-10,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",84
+2020-04-10,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",84
 2020-04-10,"Healthcare Workers Cases","HSE Midlands","Not specified",41
 2020-04-10,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",12
-2020-04-10,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",60
+2020-04-10,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",60
 2020-04-10,"Healthcare Workers Cases","HSE Mid-West","Not specified",43
 2020-04-10,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-04-10,"Healthcare Workers Cases","HSE North-East","No Foreign travel",16
+2020-04-10,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",16
 2020-04-10,"Healthcare Workers Cases","HSE North-East","Not specified",140
 2020-04-10,"Healthcare Workers Cases","HSE North-West","Foreign travel",7
-2020-04-10,"Healthcare Workers Cases","HSE North-West","No Foreign travel",23
+2020-04-10,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",23
 2020-04-10,"Healthcare Workers Cases","HSE North-West","Not specified",28
 2020-04-10,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-10,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-10,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-10,"Healthcare Workers Cases","HSE South-East","Not specified",107
 2020-04-10,"Healthcare Workers Cases","HSE South","Foreign travel",21
-2020-04-10,"Healthcare Workers Cases","HSE South","No Foreign travel",102
+2020-04-10,"Healthcare Workers Cases","HSE South","Local/Community transmission",102
 2020-04-10,"Healthcare Workers Cases","HSE South","Not specified",71
 2020-04-10,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-10,"Healthcare Workers Cases","HSE West","No Foreign travel",74
+2020-04-10,"Healthcare Workers Cases","HSE West","Local/Community transmission",74
 2020-04-10,"Healthcare Workers Cases","HSE West","Not specified",75
 2020-04-09,"Healthcare Workers Cases","HSE East","Foreign travel",67
-2020-04-09,"Healthcare Workers Cases","HSE East","No Foreign travel",1146
+2020-04-09,"Healthcare Workers Cases","HSE East","Local/Community transmission",1146
 2020-04-09,"Healthcare Workers Cases","HSE East","Not specified",67
 2020-04-09,"Healthcare Workers Cases","HSE Midlands","Foreign travel",5
-2020-04-09,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",71
+2020-04-09,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",71
 2020-04-09,"Healthcare Workers Cases","HSE Midlands","Not specified",41
 2020-04-09,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",12
-2020-04-09,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",60
+2020-04-09,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",60
 2020-04-09,"Healthcare Workers Cases","HSE Mid-West","Not specified",39
 2020-04-09,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-04-09,"Healthcare Workers Cases","HSE North-East","No Foreign travel",16
+2020-04-09,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",16
 2020-04-09,"Healthcare Workers Cases","HSE North-East","Not specified",124
 2020-04-09,"Healthcare Workers Cases","HSE North-West","Foreign travel",7
-2020-04-09,"Healthcare Workers Cases","HSE North-West","No Foreign travel",23
+2020-04-09,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",23
 2020-04-09,"Healthcare Workers Cases","HSE North-West","Not specified",27
 2020-04-09,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-09,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-09,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-09,"Healthcare Workers Cases","HSE South-East","Not specified",91
 2020-04-09,"Healthcare Workers Cases","HSE South","Foreign travel",21
-2020-04-09,"Healthcare Workers Cases","HSE South","No Foreign travel",102
+2020-04-09,"Healthcare Workers Cases","HSE South","Local/Community transmission",102
 2020-04-09,"Healthcare Workers Cases","HSE South","Not specified",65
 2020-04-09,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-09,"Healthcare Workers Cases","HSE West","No Foreign travel",73
+2020-04-09,"Healthcare Workers Cases","HSE West","Local/Community transmission",73
 2020-04-09,"Healthcare Workers Cases","HSE West","Not specified",67
 2020-04-08,"Healthcare Workers Cases","HSE East","Foreign travel",62
-2020-04-08,"Healthcare Workers Cases","HSE East","No Foreign travel",1046
+2020-04-08,"Healthcare Workers Cases","HSE East","Local/Community transmission",1046
 2020-04-08,"Healthcare Workers Cases","HSE East","Not specified",67
 2020-04-08,"Healthcare Workers Cases","HSE Midlands","Foreign travel",5
-2020-04-08,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",53
+2020-04-08,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",53
 2020-04-08,"Healthcare Workers Cases","HSE Midlands","Not specified",41
 2020-04-08,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",12
-2020-04-08,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",50
+2020-04-08,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",50
 2020-04-08,"Healthcare Workers Cases","HSE Mid-West","Not specified",36
 2020-04-08,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-04-08,"Healthcare Workers Cases","HSE North-East","No Foreign travel",16
+2020-04-08,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",16
 2020-04-08,"Healthcare Workers Cases","HSE North-East","Not specified",109
 2020-04-08,"Healthcare Workers Cases","HSE North-West","Foreign travel",7
-2020-04-08,"Healthcare Workers Cases","HSE North-West","No Foreign travel",23
+2020-04-08,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",23
 2020-04-08,"Healthcare Workers Cases","HSE North-West","Not specified",26
 2020-04-08,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-08,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-08,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-08,"Healthcare Workers Cases","HSE South-East","Not specified",74
 2020-04-08,"Healthcare Workers Cases","HSE South","Foreign travel",21
-2020-04-08,"Healthcare Workers Cases","HSE South","No Foreign travel",97
+2020-04-08,"Healthcare Workers Cases","HSE South","Local/Community transmission",97
 2020-04-08,"Healthcare Workers Cases","HSE South","Not specified",61
 2020-04-08,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-08,"Healthcare Workers Cases","HSE West","No Foreign travel",71
+2020-04-08,"Healthcare Workers Cases","HSE West","Local/Community transmission",71
 2020-04-08,"Healthcare Workers Cases","HSE West","Not specified",55
 2020-04-07,"Healthcare Workers Cases","HSE East","Foreign travel",59
-2020-04-07,"Healthcare Workers Cases","HSE East","No Foreign travel",932
+2020-04-07,"Healthcare Workers Cases","HSE East","Local/Community transmission",932
 2020-04-07,"Healthcare Workers Cases","HSE East","Not specified",60
 2020-04-07,"Healthcare Workers Cases","HSE Midlands","Foreign travel",4
-2020-04-07,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",49
+2020-04-07,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",49
 2020-04-07,"Healthcare Workers Cases","HSE Midlands","Not specified",40
 2020-04-07,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",11
-2020-04-07,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",49
+2020-04-07,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",49
 2020-04-07,"Healthcare Workers Cases","HSE Mid-West","Not specified",27
 2020-04-07,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-04-07,"Healthcare Workers Cases","HSE North-East","No Foreign travel",15
+2020-04-07,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",15
 2020-04-07,"Healthcare Workers Cases","HSE North-East","Not specified",103
 2020-04-07,"Healthcare Workers Cases","HSE North-West","Foreign travel",7
-2020-04-07,"Healthcare Workers Cases","HSE North-West","No Foreign travel",23
+2020-04-07,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",23
 2020-04-07,"Healthcare Workers Cases","HSE North-West","Not specified",16
 2020-04-07,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-07,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-07,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-07,"Healthcare Workers Cases","HSE South-East","Not specified",69
 2020-04-07,"Healthcare Workers Cases","HSE South","Foreign travel",21
-2020-04-07,"Healthcare Workers Cases","HSE South","No Foreign travel",95
+2020-04-07,"Healthcare Workers Cases","HSE South","Local/Community transmission",95
 2020-04-07,"Healthcare Workers Cases","HSE South","Not specified",60
 2020-04-07,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-07,"Healthcare Workers Cases","HSE West","No Foreign travel",71
+2020-04-07,"Healthcare Workers Cases","HSE West","Local/Community transmission",71
 2020-04-07,"Healthcare Workers Cases","HSE West","Not specified",37
 2020-04-06,"Healthcare Workers Cases","HSE East","Foreign travel",53
-2020-04-06,"Healthcare Workers Cases","HSE East","No Foreign travel",789
+2020-04-06,"Healthcare Workers Cases","HSE East","Local/Community transmission",789
 2020-04-06,"Healthcare Workers Cases","HSE East","Not specified",57
 2020-04-06,"Healthcare Workers Cases","HSE Midlands","Foreign travel",4
-2020-04-06,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",49
+2020-04-06,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",49
 2020-04-06,"Healthcare Workers Cases","HSE Midlands","Not specified",34
 2020-04-06,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",11
-2020-04-06,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",49
+2020-04-06,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",49
 2020-04-06,"Healthcare Workers Cases","HSE Mid-West","Not specified",27
 2020-04-06,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-04-06,"Healthcare Workers Cases","HSE North-East","No Foreign travel",15
+2020-04-06,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",15
 2020-04-06,"Healthcare Workers Cases","HSE North-East","Not specified",87
 2020-04-06,"Healthcare Workers Cases","HSE North-West","Foreign travel",7
-2020-04-06,"Healthcare Workers Cases","HSE North-West","No Foreign travel",23
+2020-04-06,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",23
 2020-04-06,"Healthcare Workers Cases","HSE North-West","Not specified",9
 2020-04-06,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-06,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-06,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-06,"Healthcare Workers Cases","HSE South-East","Not specified",67
 2020-04-06,"Healthcare Workers Cases","HSE South","Foreign travel",21
-2020-04-06,"Healthcare Workers Cases","HSE South","No Foreign travel",84
+2020-04-06,"Healthcare Workers Cases","HSE South","Local/Community transmission",84
 2020-04-06,"Healthcare Workers Cases","HSE South","Not specified",57
 2020-04-06,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-06,"Healthcare Workers Cases","HSE West","No Foreign travel",71
+2020-04-06,"Healthcare Workers Cases","HSE West","Local/Community transmission",71
 2020-04-06,"Healthcare Workers Cases","HSE West","Not specified",37
 2020-04-05,"Healthcare Workers Cases","HSE East","Foreign travel",50
-2020-04-05,"Healthcare Workers Cases","HSE East","No Foreign travel",710
+2020-04-05,"Healthcare Workers Cases","HSE East","Local/Community transmission",710
 2020-04-05,"Healthcare Workers Cases","HSE East","Not specified",28
 2020-04-05,"Healthcare Workers Cases","HSE Midlands","Foreign travel",4
-2020-04-05,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",45
+2020-04-05,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",45
 2020-04-05,"Healthcare Workers Cases","HSE Midlands","Not specified",22
 2020-04-05,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",10
-2020-04-05,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",48
+2020-04-05,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",48
 2020-04-05,"Healthcare Workers Cases","HSE Mid-West","Not specified",23
 2020-04-05,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-04-05,"Healthcare Workers Cases","HSE North-East","No Foreign travel",15
+2020-04-05,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",15
 2020-04-05,"Healthcare Workers Cases","HSE North-East","Not specified",51
 2020-04-05,"Healthcare Workers Cases","HSE North-West","Foreign travel",7
-2020-04-05,"Healthcare Workers Cases","HSE North-West","No Foreign travel",20
+2020-04-05,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",20
 2020-04-05,"Healthcare Workers Cases","HSE North-West","Not specified",11
 2020-04-05,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-05,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-05,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-05,"Healthcare Workers Cases","HSE South-East","Not specified",67
 2020-04-05,"Healthcare Workers Cases","HSE South","Foreign travel",20
-2020-04-05,"Healthcare Workers Cases","HSE South","No Foreign travel",80
+2020-04-05,"Healthcare Workers Cases","HSE South","Local/Community transmission",80
 2020-04-05,"Healthcare Workers Cases","HSE South","Not specified",53
 2020-04-05,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-05,"Healthcare Workers Cases","HSE West","No Foreign travel",70
+2020-04-05,"Healthcare Workers Cases","HSE West","Local/Community transmission",70
 2020-04-05,"Healthcare Workers Cases","HSE West","Not specified",37
 2020-04-04,"Healthcare Workers Cases","HSE East","Foreign travel",49
-2020-04-04,"Healthcare Workers Cases","HSE East","No Foreign travel",651
+2020-04-04,"Healthcare Workers Cases","HSE East","Local/Community transmission",651
 2020-04-04,"Healthcare Workers Cases","HSE East","Not specified",25
 2020-04-04,"Healthcare Workers Cases","HSE Midlands","Foreign travel",4
-2020-04-04,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",42
+2020-04-04,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",42
 2020-04-04,"Healthcare Workers Cases","HSE Midlands","Not specified",15
 2020-04-04,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",10
-2020-04-04,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",39
+2020-04-04,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",39
 2020-04-04,"Healthcare Workers Cases","HSE Mid-West","Not specified",25
 2020-04-04,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-04-04,"Healthcare Workers Cases","HSE North-East","No Foreign travel",15
+2020-04-04,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",15
 2020-04-04,"Healthcare Workers Cases","HSE North-East","Not specified",24
 2020-04-04,"Healthcare Workers Cases","HSE North-West","Foreign travel",6
-2020-04-04,"Healthcare Workers Cases","HSE North-West","No Foreign travel",18
+2020-04-04,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",18
 2020-04-04,"Healthcare Workers Cases","HSE North-West","Not specified",11
 2020-04-04,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-04,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-04,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-04,"Healthcare Workers Cases","HSE South-East","Not specified",63
 2020-04-04,"Healthcare Workers Cases","HSE South","Foreign travel",19
-2020-04-04,"Healthcare Workers Cases","HSE South","No Foreign travel",80
+2020-04-04,"Healthcare Workers Cases","HSE South","Local/Community transmission",80
 2020-04-04,"Healthcare Workers Cases","HSE South","Not specified",51
 2020-04-04,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-04,"Healthcare Workers Cases","HSE West","No Foreign travel",69
+2020-04-04,"Healthcare Workers Cases","HSE West","Local/Community transmission",69
 2020-04-04,"Healthcare Workers Cases","HSE West","Not specified",30
 2020-04-03,"Healthcare Workers Cases","HSE East","Foreign travel",49
-2020-04-03,"Healthcare Workers Cases","HSE East","No Foreign travel",609
+2020-04-03,"Healthcare Workers Cases","HSE East","Local/Community transmission",609
 2020-04-03,"Healthcare Workers Cases","HSE East","Not specified",26
 2020-04-03,"Healthcare Workers Cases","HSE Midlands","Foreign travel",4
-2020-04-03,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",35
+2020-04-03,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",35
 2020-04-03,"Healthcare Workers Cases","HSE Midlands","Not specified",13
 2020-04-03,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",10
-2020-04-03,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",39
+2020-04-03,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",39
 2020-04-03,"Healthcare Workers Cases","HSE Mid-West","Not specified",25
 2020-04-03,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-04-03,"Healthcare Workers Cases","HSE North-East","No Foreign travel",15
+2020-04-03,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",15
 2020-04-03,"Healthcare Workers Cases","HSE North-East","Not specified",18
 2020-04-03,"Healthcare Workers Cases","HSE North-West","Foreign travel",6
-2020-04-03,"Healthcare Workers Cases","HSE North-West","No Foreign travel",18
+2020-04-03,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",18
 2020-04-03,"Healthcare Workers Cases","HSE North-West","Not specified",1
 2020-04-03,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-03,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-03,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-03,"Healthcare Workers Cases","HSE South-East","Not specified",60
 2020-04-03,"Healthcare Workers Cases","HSE South","Foreign travel",18
-2020-04-03,"Healthcare Workers Cases","HSE South","No Foreign travel",76
+2020-04-03,"Healthcare Workers Cases","HSE South","Local/Community transmission",76
 2020-04-03,"Healthcare Workers Cases","HSE South","Not specified",46
 2020-04-03,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-03,"Healthcare Workers Cases","HSE West","No Foreign travel",64
+2020-04-03,"Healthcare Workers Cases","HSE West","Local/Community transmission",64
 2020-04-03,"Healthcare Workers Cases","HSE West","Not specified",14
 2020-04-02,"Healthcare Workers Cases","HSE East","Foreign travel",31
-2020-04-02,"Healthcare Workers Cases","HSE East","No Foreign travel",570
+2020-04-02,"Healthcare Workers Cases","HSE East","Local/Community transmission",570
 2020-04-02,"Healthcare Workers Cases","HSE East","Not specified",38
 2020-04-02,"Healthcare Workers Cases","HSE Midlands","Foreign travel",2
-2020-04-02,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",37
+2020-04-02,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",37
 2020-04-02,"Healthcare Workers Cases","HSE Midlands","Not specified",10
 2020-04-02,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",11
-2020-04-02,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",58
+2020-04-02,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",58
 2020-04-02,"Healthcare Workers Cases","HSE Mid-West","Not specified",0
 2020-04-02,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-04-02,"Healthcare Workers Cases","HSE North-East","No Foreign travel",28
+2020-04-02,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",28
 2020-04-02,"Healthcare Workers Cases","HSE North-East","Not specified",4
 2020-04-02,"Healthcare Workers Cases","HSE North-West","Foreign travel",5
-2020-04-02,"Healthcare Workers Cases","HSE North-West","No Foreign travel",19
+2020-04-02,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",19
 2020-04-02,"Healthcare Workers Cases","HSE North-West","Not specified",1
 2020-04-02,"Healthcare Workers Cases","HSE South-East","Foreign travel",3
-2020-04-02,"Healthcare Workers Cases","HSE South-East","No Foreign travel",4
+2020-04-02,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",4
 2020-04-02,"Healthcare Workers Cases","HSE South-East","Not specified",48
 2020-04-02,"Healthcare Workers Cases","HSE South","Foreign travel",15
-2020-04-02,"Healthcare Workers Cases","HSE South","No Foreign travel",84
+2020-04-02,"Healthcare Workers Cases","HSE South","Local/Community transmission",84
 2020-04-02,"Healthcare Workers Cases","HSE South","Not specified",38
 2020-04-02,"Healthcare Workers Cases","HSE West","Foreign travel",2
-2020-04-02,"Healthcare Workers Cases","HSE West","No Foreign travel",63
+2020-04-02,"Healthcare Workers Cases","HSE West","Local/Community transmission",63
 2020-04-02,"Healthcare Workers Cases","HSE West","Not specified",11
 2020-04-01,"Healthcare Workers Cases","HSE East","Foreign travel",42
-2020-04-01,"Healthcare Workers Cases","HSE East","No Foreign travel",477
+2020-04-01,"Healthcare Workers Cases","HSE East","Local/Community transmission",477
 2020-04-01,"Healthcare Workers Cases","HSE East","Not specified",22
 2020-04-01,"Healthcare Workers Cases","HSE Midlands","Foreign travel",3
-2020-04-01,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",24
+2020-04-01,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",24
 2020-04-01,"Healthcare Workers Cases","HSE Midlands","Not specified",12
 2020-04-01,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",10
-2020-04-01,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",39
+2020-04-01,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",39
 2020-04-01,"Healthcare Workers Cases","HSE Mid-West","Not specified",13
 2020-04-01,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-04-01,"Healthcare Workers Cases","HSE North-East","No Foreign travel",15
+2020-04-01,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",15
 2020-04-01,"Healthcare Workers Cases","HSE North-East","Not specified",17
 2020-04-01,"Healthcare Workers Cases","HSE North-West","Foreign travel",6
-2020-04-01,"Healthcare Workers Cases","HSE North-West","No Foreign travel",14
+2020-04-01,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",14
 2020-04-01,"Healthcare Workers Cases","HSE North-West","Not specified",4
 2020-04-01,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-04-01,"Healthcare Workers Cases","HSE South-East","No Foreign travel",3
+2020-04-01,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",3
 2020-04-01,"Healthcare Workers Cases","HSE South-East","Not specified",44
 2020-04-01,"Healthcare Workers Cases","HSE South","Foreign travel",19
-2020-04-01,"Healthcare Workers Cases","HSE South","No Foreign travel",72
+2020-04-01,"Healthcare Workers Cases","HSE South","Local/Community transmission",72
 2020-04-01,"Healthcare Workers Cases","HSE South","Not specified",39
 2020-04-01,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-04-01,"Healthcare Workers Cases","HSE West","No Foreign travel",57
+2020-04-01,"Healthcare Workers Cases","HSE West","Local/Community transmission",57
 2020-04-01,"Healthcare Workers Cases","HSE West","Not specified",2
 2020-03-31,"Healthcare Workers Cases","HSE East","Foreign travel",41
-2020-03-31,"Healthcare Workers Cases","HSE East","No Foreign travel",414
+2020-03-31,"Healthcare Workers Cases","HSE East","Local/Community transmission",414
 2020-03-31,"Healthcare Workers Cases","HSE East","Not specified",22
 2020-03-31,"Healthcare Workers Cases","HSE Midlands","Foreign travel",3
-2020-03-31,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",22
+2020-03-31,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",22
 2020-03-31,"Healthcare Workers Cases","HSE Midlands","Not specified",12
 2020-03-31,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",10
-2020-03-31,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",39
+2020-03-31,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",39
 2020-03-31,"Healthcare Workers Cases","HSE Mid-West","Not specified",10
 2020-03-31,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-03-31,"Healthcare Workers Cases","HSE North-East","No Foreign travel",15
+2020-03-31,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",15
 2020-03-31,"Healthcare Workers Cases","HSE North-East","Not specified",14
 2020-03-31,"Healthcare Workers Cases","HSE North-West","Foreign travel",6
-2020-03-31,"Healthcare Workers Cases","HSE North-West","No Foreign travel",12
+2020-03-31,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",12
 2020-03-31,"Healthcare Workers Cases","HSE North-West","Not specified",1
 2020-03-31,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-03-31,"Healthcare Workers Cases","HSE South-East","No Foreign travel",2
+2020-03-31,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",2
 2020-03-31,"Healthcare Workers Cases","HSE South-East","Not specified",33
 2020-03-31,"Healthcare Workers Cases","HSE South","Foreign travel",18
-2020-03-31,"Healthcare Workers Cases","HSE South","No Foreign travel",70
+2020-03-31,"Healthcare Workers Cases","HSE South","Local/Community transmission",70
 2020-03-31,"Healthcare Workers Cases","HSE South","Not specified",29
 2020-03-31,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-03-31,"Healthcare Workers Cases","HSE West","No Foreign travel",53
+2020-03-31,"Healthcare Workers Cases","HSE West","Local/Community transmission",53
 2020-03-31,"Healthcare Workers Cases","HSE West","Not specified",1
 2020-03-30,"Healthcare Workers Cases","HSE East","Foreign travel",41
-2020-03-30,"Healthcare Workers Cases","HSE East","No Foreign travel",367
+2020-03-30,"Healthcare Workers Cases","HSE East","Local/Community transmission",367
 2020-03-30,"Healthcare Workers Cases","HSE East","Not specified",11
 2020-03-30,"Healthcare Workers Cases","HSE Midlands","Foreign travel",3
-2020-03-30,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",22
+2020-03-30,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",22
 2020-03-30,"Healthcare Workers Cases","HSE Midlands","Not specified",7
 2020-03-30,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",8
-2020-03-30,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",36
+2020-03-30,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",36
 2020-03-30,"Healthcare Workers Cases","HSE Mid-West","Not specified",11
 2020-03-30,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-03-30,"Healthcare Workers Cases","HSE North-East","No Foreign travel",14
+2020-03-30,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",14
 2020-03-30,"Healthcare Workers Cases","HSE North-East","Not specified",8
 2020-03-30,"Healthcare Workers Cases","HSE North-West","Foreign travel",6
-2020-03-30,"Healthcare Workers Cases","HSE North-West","No Foreign travel",11
+2020-03-30,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",11
 2020-03-30,"Healthcare Workers Cases","HSE North-West","Not specified",1
 2020-03-30,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-03-30,"Healthcare Workers Cases","HSE South-East","No Foreign travel",2
+2020-03-30,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",2
 2020-03-30,"Healthcare Workers Cases","HSE South-East","Not specified",31
 2020-03-30,"Healthcare Workers Cases","HSE South","Foreign travel",18
-2020-03-30,"Healthcare Workers Cases","HSE South","No Foreign travel",67
+2020-03-30,"Healthcare Workers Cases","HSE South","Local/Community transmission",67
 2020-03-30,"Healthcare Workers Cases","HSE South","Not specified",24
 2020-03-30,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-03-30,"Healthcare Workers Cases","HSE West","No Foreign travel",49
+2020-03-30,"Healthcare Workers Cases","HSE West","Local/Community transmission",49
 2020-03-30,"Healthcare Workers Cases","HSE West","Not specified",1
 2020-03-29,"Healthcare Workers Cases","HSE East","Foreign travel",45
-2020-03-29,"Healthcare Workers Cases","HSE East","No Foreign travel",308
+2020-03-29,"Healthcare Workers Cases","HSE East","Local/Community transmission",308
 2020-03-29,"Healthcare Workers Cases","HSE East","Not specified",9
 2020-03-29,"Healthcare Workers Cases","HSE Midlands","Foreign travel",3
-2020-03-29,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",19
+2020-03-29,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",19
 2020-03-29,"Healthcare Workers Cases","HSE Midlands","Not specified",6
 2020-03-29,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",6
-2020-03-29,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",31
+2020-03-29,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",31
 2020-03-29,"Healthcare Workers Cases","HSE Mid-West","Not specified",1
 2020-03-29,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-03-29,"Healthcare Workers Cases","HSE North-East","No Foreign travel",13
+2020-03-29,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",13
 2020-03-29,"Healthcare Workers Cases","HSE North-East","Not specified",4
 2020-03-29,"Healthcare Workers Cases","HSE North-West","Foreign travel",6
-2020-03-29,"Healthcare Workers Cases","HSE North-West","No Foreign travel",10
+2020-03-29,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",10
 2020-03-29,"Healthcare Workers Cases","HSE North-West","Not specified",0
 2020-03-29,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-03-29,"Healthcare Workers Cases","HSE South-East","No Foreign travel",1
+2020-03-29,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",1
 2020-03-29,"Healthcare Workers Cases","HSE South-East","Not specified",31
 2020-03-29,"Healthcare Workers Cases","HSE South","Foreign travel",17
-2020-03-29,"Healthcare Workers Cases","HSE South","No Foreign travel",58
+2020-03-29,"Healthcare Workers Cases","HSE South","Local/Community transmission",58
 2020-03-29,"Healthcare Workers Cases","HSE South","Not specified",19
 2020-03-29,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-03-29,"Healthcare Workers Cases","HSE West","No Foreign travel",45
+2020-03-29,"Healthcare Workers Cases","HSE West","Local/Community transmission",45
 2020-03-29,"Healthcare Workers Cases","HSE West","Not specified",1
 2020-03-28,"Healthcare Workers Cases","HSE East","Foreign travel",30
-2020-03-28,"Healthcare Workers Cases","HSE East","No Foreign travel",286
+2020-03-28,"Healthcare Workers Cases","HSE East","Local/Community transmission",286
 2020-03-28,"Healthcare Workers Cases","HSE East","Not specified",21
 2020-03-28,"Healthcare Workers Cases","HSE Midlands","Foreign travel",2
-2020-03-28,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",18
+2020-03-28,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",18
 2020-03-28,"Healthcare Workers Cases","HSE Midlands","Not specified",6
 2020-03-28,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",6
-2020-03-28,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",31
+2020-03-28,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",31
 2020-03-28,"Healthcare Workers Cases","HSE Mid-West","Not specified",1
 2020-03-28,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-03-28,"Healthcare Workers Cases","HSE North-East","No Foreign travel",7
+2020-03-28,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",7
 2020-03-28,"Healthcare Workers Cases","HSE North-East","Not specified",0
 2020-03-28,"Healthcare Workers Cases","HSE North-West","Foreign travel",4
-2020-03-28,"Healthcare Workers Cases","HSE North-West","No Foreign travel",3
+2020-03-28,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",3
 2020-03-28,"Healthcare Workers Cases","HSE North-West","Not specified",5
 2020-03-28,"Healthcare Workers Cases","HSE South-East","Foreign travel",2
-2020-03-28,"Healthcare Workers Cases","HSE South-East","No Foreign travel",0
+2020-03-28,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",0
 2020-03-28,"Healthcare Workers Cases","HSE South-East","Not specified",31
 2020-03-28,"Healthcare Workers Cases","HSE South","Foreign travel",13
-2020-03-28,"Healthcare Workers Cases","HSE South","No Foreign travel",49
+2020-03-28,"Healthcare Workers Cases","HSE South","Local/Community transmission",49
 2020-03-28,"Healthcare Workers Cases","HSE South","Not specified",20
 2020-03-28,"Healthcare Workers Cases","HSE West","Foreign travel",2
-2020-03-28,"Healthcare Workers Cases","HSE West","No Foreign travel",32
+2020-03-28,"Healthcare Workers Cases","HSE West","Local/Community transmission",32
 2020-03-28,"Healthcare Workers Cases","HSE West","Not specified",7
 2020-03-27,"Healthcare Workers Cases","HSE East","Foreign travel",42
-2020-03-27,"Healthcare Workers Cases","HSE East","No Foreign travel",224
+2020-03-27,"Healthcare Workers Cases","HSE East","Local/Community transmission",224
 2020-03-27,"Healthcare Workers Cases","HSE East","Not specified",26
 2020-03-27,"Healthcare Workers Cases","HSE Midlands","Foreign travel",3
-2020-03-27,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",15
+2020-03-27,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",15
 2020-03-27,"Healthcare Workers Cases","HSE Midlands","Not specified",6
 2020-03-27,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",6
-2020-03-27,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",10
+2020-03-27,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",10
 2020-03-27,"Healthcare Workers Cases","HSE Mid-West","Not specified",12
 2020-03-27,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-03-27,"Healthcare Workers Cases","HSE North-East","No Foreign travel",3
+2020-03-27,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",3
 2020-03-27,"Healthcare Workers Cases","HSE North-East","Not specified",4
 2020-03-27,"Healthcare Workers Cases","HSE North-West","Foreign travel",5
-2020-03-27,"Healthcare Workers Cases","HSE North-West","No Foreign travel",4
+2020-03-27,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",4
 2020-03-27,"Healthcare Workers Cases","HSE North-West","Not specified",0
 2020-03-27,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-03-27,"Healthcare Workers Cases","HSE South-East","No Foreign travel",1
+2020-03-27,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",1
 2020-03-27,"Healthcare Workers Cases","HSE South-East","Not specified",26
 2020-03-27,"Healthcare Workers Cases","HSE South","Foreign travel",14
-2020-03-27,"Healthcare Workers Cases","HSE South","No Foreign travel",32
+2020-03-27,"Healthcare Workers Cases","HSE South","Local/Community transmission",32
 2020-03-27,"Healthcare Workers Cases","HSE South","Not specified",30
 2020-03-27,"Healthcare Workers Cases","HSE West","Foreign travel",7
-2020-03-27,"Healthcare Workers Cases","HSE West","No Foreign travel",13
+2020-03-27,"Healthcare Workers Cases","HSE West","Local/Community transmission",13
 2020-03-27,"Healthcare Workers Cases","HSE West","Not specified",16
 2020-03-26,"Healthcare Workers Cases","HSE East","Foreign travel",42
-2020-03-26,"Healthcare Workers Cases","HSE East","No Foreign travel",203
+2020-03-26,"Healthcare Workers Cases","HSE East","Local/Community transmission",203
 2020-03-26,"Healthcare Workers Cases","HSE East","Not specified",25
 2020-03-26,"Healthcare Workers Cases","HSE Midlands","Foreign travel",3
-2020-03-26,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",14
+2020-03-26,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",14
 2020-03-26,"Healthcare Workers Cases","HSE Midlands","Not specified",4
 2020-03-26,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",6
-2020-03-26,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",8
+2020-03-26,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",8
 2020-03-26,"Healthcare Workers Cases","HSE Mid-West","Not specified",7
 2020-03-26,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-03-26,"Healthcare Workers Cases","HSE North-East","No Foreign travel",2
+2020-03-26,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",2
 2020-03-26,"Healthcare Workers Cases","HSE North-East","Not specified",3
 2020-03-26,"Healthcare Workers Cases","HSE North-West","Foreign travel",5
-2020-03-26,"Healthcare Workers Cases","HSE North-West","No Foreign travel",3
+2020-03-26,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",3
 2020-03-26,"Healthcare Workers Cases","HSE North-West","Not specified",0
 2020-03-26,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-03-26,"Healthcare Workers Cases","HSE South-East","No Foreign travel",1
+2020-03-26,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",1
 2020-03-26,"Healthcare Workers Cases","HSE South-East","Not specified",19
 2020-03-26,"Healthcare Workers Cases","HSE South","Foreign travel",14
-2020-03-26,"Healthcare Workers Cases","HSE South","No Foreign travel",24
+2020-03-26,"Healthcare Workers Cases","HSE South","Local/Community transmission",24
 2020-03-26,"Healthcare Workers Cases","HSE South","Not specified",23
 2020-03-26,"Healthcare Workers Cases","HSE West","Foreign travel",8
-2020-03-26,"Healthcare Workers Cases","HSE West","No Foreign travel",13
+2020-03-26,"Healthcare Workers Cases","HSE West","Local/Community transmission",13
 2020-03-26,"Healthcare Workers Cases","HSE West","Not specified",11
 2020-03-25,"Healthcare Workers Cases","HSE East","Foreign travel",37
-2020-03-25,"Healthcare Workers Cases","HSE East","No Foreign travel",174
+2020-03-25,"Healthcare Workers Cases","HSE East","Local/Community transmission",174
 2020-03-25,"Healthcare Workers Cases","HSE East","Not specified",22
 2020-03-25,"Healthcare Workers Cases","HSE Midlands","Foreign travel",3
-2020-03-25,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",14
+2020-03-25,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",14
 2020-03-25,"Healthcare Workers Cases","HSE Midlands","Not specified",1
 2020-03-25,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",4
-2020-03-25,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",5
+2020-03-25,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",5
 2020-03-25,"Healthcare Workers Cases","HSE Mid-West","Not specified",6
 2020-03-25,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-03-25,"Healthcare Workers Cases","HSE North-East","No Foreign travel",2
+2020-03-25,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",2
 2020-03-25,"Healthcare Workers Cases","HSE North-East","Not specified",2
 2020-03-25,"Healthcare Workers Cases","HSE North-West","Foreign travel",5
-2020-03-25,"Healthcare Workers Cases","HSE North-West","No Foreign travel",1
+2020-03-25,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",1
 2020-03-25,"Healthcare Workers Cases","HSE North-West","Not specified",0
 2020-03-25,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
-2020-03-25,"Healthcare Workers Cases","HSE South-East","No Foreign travel",0
+2020-03-25,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",0
 2020-03-25,"Healthcare Workers Cases","HSE South-East","Not specified",12
 2020-03-25,"Healthcare Workers Cases","HSE South","Foreign travel",13
-2020-03-25,"Healthcare Workers Cases","HSE South","No Foreign travel",21
+2020-03-25,"Healthcare Workers Cases","HSE South","Local/Community transmission",21
 2020-03-25,"Healthcare Workers Cases","HSE South","Not specified",17
 2020-03-25,"Healthcare Workers Cases","HSE West","Foreign travel",8
-2020-03-25,"Healthcare Workers Cases","HSE West","No Foreign travel",12
+2020-03-25,"Healthcare Workers Cases","HSE West","Local/Community transmission",12
 2020-03-25,"Healthcare Workers Cases","HSE West","Not specified",9
 2020-03-24,"Healthcare Workers Cases","HSE East","Foreign travel",37
-2020-03-24,"Healthcare Workers Cases","HSE East","No Foreign travel",141
+2020-03-24,"Healthcare Workers Cases","HSE East","Local/Community transmission",141
 2020-03-24,"Healthcare Workers Cases","HSE East","Not specified",21
 2020-03-24,"Healthcare Workers Cases","HSE Midlands","Foreign travel",3
-2020-03-24,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",13
+2020-03-24,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",13
 2020-03-24,"Healthcare Workers Cases","HSE Midlands","Not specified",1
 2020-03-24,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",1
-2020-03-24,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",4
+2020-03-24,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",4
 2020-03-24,"Healthcare Workers Cases","HSE Mid-West","Not specified",4
 2020-03-24,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-03-24,"Healthcare Workers Cases","HSE North-East","No Foreign travel",2
+2020-03-24,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",2
 2020-03-24,"Healthcare Workers Cases","HSE North-East","Not specified",0
 2020-03-24,"Healthcare Workers Cases","HSE North-West","Foreign travel",5
-2020-03-24,"Healthcare Workers Cases","HSE North-West","No Foreign travel",1
+2020-03-24,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",1
 2020-03-24,"Healthcare Workers Cases","HSE North-West","Not specified",0
 2020-03-24,"Healthcare Workers Cases","HSE South-East","Foreign travel",4
-2020-03-24,"Healthcare Workers Cases","HSE South-East","No Foreign travel",0
+2020-03-24,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",0
 2020-03-24,"Healthcare Workers Cases","HSE South-East","Not specified",9
 2020-03-24,"Healthcare Workers Cases","HSE South","Foreign travel",13
-2020-03-24,"Healthcare Workers Cases","HSE South","No Foreign travel",21
+2020-03-24,"Healthcare Workers Cases","HSE South","Local/Community transmission",21
 2020-03-24,"Healthcare Workers Cases","HSE South","Not specified",13
 2020-03-24,"Healthcare Workers Cases","HSE West","Foreign travel",8
-2020-03-24,"Healthcare Workers Cases","HSE West","No Foreign travel",11
+2020-03-24,"Healthcare Workers Cases","HSE West","Local/Community transmission",11
 2020-03-24,"Healthcare Workers Cases","HSE West","Not specified",7
 2020-03-23,"Healthcare Workers Cases","HSE East","Foreign travel",34
-2020-03-23,"Healthcare Workers Cases","HSE East","No Foreign travel",132
+2020-03-23,"Healthcare Workers Cases","HSE East","Local/Community transmission",132
 2020-03-23,"Healthcare Workers Cases","HSE East","Not specified",20
 2020-03-23,"Healthcare Workers Cases","HSE Midlands","Foreign travel",3
-2020-03-23,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",12
+2020-03-23,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",12
 2020-03-23,"Healthcare Workers Cases","HSE Midlands","Not specified",0
 2020-03-23,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",1
-2020-03-23,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",2
+2020-03-23,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",2
 2020-03-23,"Healthcare Workers Cases","HSE Mid-West","Not specified",2
 2020-03-23,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-03-23,"Healthcare Workers Cases","HSE North-East","No Foreign travel",2
+2020-03-23,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",2
 2020-03-23,"Healthcare Workers Cases","HSE North-East","Not specified",0
 2020-03-23,"Healthcare Workers Cases","HSE North-West","Foreign travel",4
-2020-03-23,"Healthcare Workers Cases","HSE North-West","No Foreign travel",1
+2020-03-23,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",1
 2020-03-23,"Healthcare Workers Cases","HSE North-West","Not specified",0
 2020-03-23,"Healthcare Workers Cases","HSE South-East","Foreign travel",2
-2020-03-23,"Healthcare Workers Cases","HSE South-East","No Foreign travel",0
+2020-03-23,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",0
 2020-03-23,"Healthcare Workers Cases","HSE South-East","Not specified",4
 2020-03-23,"Healthcare Workers Cases","HSE South","Foreign travel",13
-2020-03-23,"Healthcare Workers Cases","HSE South","No Foreign travel",20
+2020-03-23,"Healthcare Workers Cases","HSE South","Local/Community transmission",20
 2020-03-23,"Healthcare Workers Cases","HSE South","Not specified",8
 2020-03-23,"Healthcare Workers Cases","HSE West","Foreign travel",8
-2020-03-23,"Healthcare Workers Cases","HSE West","No Foreign travel",11
+2020-03-23,"Healthcare Workers Cases","HSE West","Local/Community transmission",11
 2020-03-23,"Healthcare Workers Cases","HSE West","Not specified",2
 2020-03-22,"Healthcare Workers Cases","HSE East","Foreign travel",31
-2020-03-22,"Healthcare Workers Cases","HSE East","No Foreign travel",111
+2020-03-22,"Healthcare Workers Cases","HSE East","Local/Community transmission",111
 2020-03-22,"Healthcare Workers Cases","HSE East","Not specified",16
 2020-03-22,"Healthcare Workers Cases","HSE Midlands","Foreign travel",3
-2020-03-22,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",12
+2020-03-22,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",12
 2020-03-22,"Healthcare Workers Cases","HSE Midlands","Not specified",0
 2020-03-22,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",1
-2020-03-22,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",2
+2020-03-22,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",2
 2020-03-22,"Healthcare Workers Cases","HSE Mid-West","Not specified",2
 2020-03-22,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-03-22,"Healthcare Workers Cases","HSE North-East","No Foreign travel",1
+2020-03-22,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",1
 2020-03-22,"Healthcare Workers Cases","HSE North-East","Not specified",0
 2020-03-22,"Healthcare Workers Cases","HSE North-West","Foreign travel",2
-2020-03-22,"Healthcare Workers Cases","HSE North-West","No Foreign travel",1
+2020-03-22,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",1
 2020-03-22,"Healthcare Workers Cases","HSE North-West","Not specified",0
 2020-03-22,"Healthcare Workers Cases","HSE South-East","Foreign travel",2
-2020-03-22,"Healthcare Workers Cases","HSE South-East","No Foreign travel",0
+2020-03-22,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",0
 2020-03-22,"Healthcare Workers Cases","HSE South-East","Not specified",4
 2020-03-22,"Healthcare Workers Cases","HSE South","Foreign travel",13
-2020-03-22,"Healthcare Workers Cases","HSE South","No Foreign travel",19
+2020-03-22,"Healthcare Workers Cases","HSE South","Local/Community transmission",19
 2020-03-22,"Healthcare Workers Cases","HSE South","Not specified",6
 2020-03-22,"Healthcare Workers Cases","HSE West","Foreign travel",8
-2020-03-22,"Healthcare Workers Cases","HSE West","No Foreign travel",10
+2020-03-22,"Healthcare Workers Cases","HSE West","Local/Community transmission",10
 2020-03-22,"Healthcare Workers Cases","HSE West","Not specified",1
 2020-03-21,"Healthcare Workers Cases","HSE East","Foreign travel",25
-2020-03-21,"Healthcare Workers Cases","HSE East","No Foreign travel",91
+2020-03-21,"Healthcare Workers Cases","HSE East","Local/Community transmission",91
 2020-03-21,"Healthcare Workers Cases","HSE East","Not specified",12
 2020-03-21,"Healthcare Workers Cases","HSE Midlands","Foreign travel",3
-2020-03-21,"Healthcare Workers Cases","HSE Midlands","No Foreign travel",11
+2020-03-21,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",11
 2020-03-21,"Healthcare Workers Cases","HSE Midlands","Not specified",0
 2020-03-21,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",1
-2020-03-21,"Healthcare Workers Cases","HSE Mid-West","No Foreign travel",2
+2020-03-21,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",2
 2020-03-21,"Healthcare Workers Cases","HSE Mid-West","Not specified",2
 2020-03-21,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
-2020-03-21,"Healthcare Workers Cases","HSE North-East","No Foreign travel",1
+2020-03-21,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",1
 2020-03-21,"Healthcare Workers Cases","HSE North-East","Not specified",0
 2020-03-21,"Healthcare Workers Cases","HSE North-West","Foreign travel",2
-2020-03-21,"Healthcare Workers Cases","HSE North-West","No Foreign travel",1
+2020-03-21,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",1
 2020-03-21,"Healthcare Workers Cases","HSE North-West","Not specified",0
 2020-03-21,"Healthcare Workers Cases","HSE South-East","Foreign travel",1
-2020-03-21,"Healthcare Workers Cases","HSE South-East","No Foreign travel",0
+2020-03-21,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",0
 2020-03-21,"Healthcare Workers Cases","HSE South-East","Not specified",2
 2020-03-21,"Healthcare Workers Cases","HSE South","Foreign travel",13
-2020-03-21,"Healthcare Workers Cases","HSE South","No Foreign travel",17
+2020-03-21,"Healthcare Workers Cases","HSE South","Local/Community transmission",17
 2020-03-21,"Healthcare Workers Cases","HSE South","Not specified",3
 2020-03-21,"Healthcare Workers Cases","HSE West","Foreign travel",8
-2020-03-21,"Healthcare Workers Cases","HSE West","No Foreign travel",10
+2020-03-21,"Healthcare Workers Cases","HSE West","Local/Community transmission",10
 2020-03-21,"Healthcare Workers Cases","HSE West","Not specified",1
