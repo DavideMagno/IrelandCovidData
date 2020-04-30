@@ -53,4 +53,12 @@ The file **Covid19_Data_Positive_Characteristics.csv** is organised with a numbe
 |                  | 55-64 |  |
 |                  | 65+   |  |
 |                  | Unknown   |  |
+|Healthcare Workers Cases          | HSE East       |Foreign travel |
+|                  | HSE Midlands   |Local/Community transmission |
+|                  | HSE Mid-West   |Not specified |
+|                  | HSE North-East | |
+|                  | HSE North-West | |
+|                  | HSE South-East | |
+|                  | HSE South      | |
+|                  | HSE West       | |
 

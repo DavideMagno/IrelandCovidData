@@ -94,7 +94,8 @@ ExtractTransmissionData <- function(document) {
       dplyr::bind_cols(data.column) %>% 
       dplyr::mutate(Date = document$date) %>% 
       dplyr::select(Date, Key, Value) %>% 
-      dplyr::filter(!grepl("Total", Key))
+      dplyr::filter(!grepl("Total", Key)) %>% 
+      dplyr::filter(!grepl("Appendix", Key))
   }
   
   return(table)
@@ -123,8 +124,8 @@ ExtractWorkersData <- function(document) {
       stringr::str_replace_all("\\bSE\\b","HSE South-East") %>%
       stringr::str_replace_all("\\bNortheast \\b","North-East") %>%
       stringr::str_replace_all("\\bNorthwest \\b","North-West") %>%
-      stringr::str_replace_all("\\Midwest\\b","Mid-West") %>% 
-      stringr::str_replace_all("\\Southeast\\b","South-East")
+      stringr::str_replace_all("\\bMidwest\\b","Mid-West") %>% 
+      stringr::str_replace_all("\\bSoutheast\\b","South-East")
     
     if(document$date == "2020-03-26") {
       table.list %<>% 
@@ -142,7 +143,7 @@ ExtractWorkersData <- function(document) {
       stringr::str_split("[\\D]+") %>% 
       plyr::ldply(.) %>% 
       tibble::as_tibble(.) %>% 
-      dplyr::select("Foreign travel" = V2, "No Foreign travel" = V3,
+      dplyr::select("Foreign travel" = V2, "Local/Community transmission" = V3,
                     "Not specified" = V4) %>% 
       dplyr::mutate_all(as.double)
     
@@ -154,7 +155,7 @@ ExtractWorkersData <- function(document) {
       dplyr::bind_cols(numeric.part) %>% 
       tidyr::pivot_longer(-`HSE area`, names_to = "Key", values_to = "Value") %>% 
       dplyr::mutate(Date = document$date) %>% 
-      dplyr::select(Date, `HSE area`, Key, Value)
+      dplyr::select(Date, `HSE area`, Key, Value) 
   }
   
   return(table)
@@ -212,7 +213,8 @@ ExtractCharacteristicData <- function(document) {
   start.line <- stringr::str_which(document$pdf, "Sex")
   
   table.list <- document$pdf %>%
-    {.[(start.line + 1):(start.line + 23)]} %>% 
+    {.[(start.line + 1):(start.line + 23)]}  %>% 
+    stringr::str_replace_all(",","") %>%  
     stringr::str_squish() %>% 
     {.[-c(4, 15)]}
   
@@ -240,6 +242,10 @@ ExtractCharacteristicData <- function(document) {
     stringr::str_replace_all("HSE SW","HSE South-West") %>%
     stringr::str_replace_all("HSE SE","HSE South-East")
   
+  if (document$date == "2020-04-26") {
+    second.part[8] <- "HSE West 939 4.8"
+  }
+  
   second.part.numeric <- second.part %>% 
     stringr::str_split("[\\D]+") %>% 
     purrr::map(purrr::pluck(2)) %>% 
@@ -266,6 +272,7 @@ ExtractCharacteristicData <- function(document) {
                   `Key 3` = NA) %>% 
     dplyr::filter(!grepl("Age Group", .$'Key 1')) %>% 
     dplyr::select(Date, `Key 1`, `Key 2` = Key, `Key 3`, Value)
+  
 }
 
 ExtractTotalData <- function(document) {
