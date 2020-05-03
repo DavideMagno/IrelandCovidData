@@ -336,7 +336,8 @@ link <- paste0("https://www.hpsc.ie/a-z/respiratory/coronavirus/",
 
 PDFs <- purrr::map(c(link,
                      paste0(link, "epidemiologyofcovid-19inireland/"),
-                     paste0(link,"epidemiologyofcovid-19inireland/march2020/")),
+                     paste0(link,"epidemiologyofcovid-19inireland/march2020/"),
+                     paste0(link,"epidemiologyofcovid-19inireland/april2020/")),
                    GetLinksFromHTML) %>%
   unlist %>%
   purrr::map(ReadPDFs)
