@@ -1,4 +1,15 @@
 "Date","Key 1","Key 2","Key 3","Value"
+2020-05-19,"HSE area","Unknown",NA,24
+2020-05-19,"HSE area","HSE area",NA,NA
+2020-05-19,"HSE area","HSE East",NA,13803
+2020-05-19,"HSE area","HSE Midlands",NA,1666
+2020-05-19,"HSE area","HSE Mid-West",NA,1340
+2020-05-19,"HSE area","HSE North-East",NA,2828
+2020-05-19,"HSE area","HSE North-West",NA,690
+2020-05-19,"HSE area","HSE South-East",NA,938
+2020-05-19,"Sex","Female",NA,13899
+2020-05-19,"Sex","Male",NA,10337
+2020-05-19,"Sex","Unknown Sex",NA,38
 2020-05-18,"HSE area","Unknown",NA,24
 2020-05-18,"HSE area","HSE area",NA,NA
 2020-05-18,"HSE area","HSE East",NA,13769
@@ -648,6 +659,13 @@
 2020-03-30,"Sex","Female",NA,1494
 2020-03-30,"Sex","Male",NA,1457
 2020-03-30,"Sex","Unknown Sex",NA,39
+2020-05-19,"Transmission Type","Community transmission",NA,2560
+2020-05-19,"Transmission Type","Possible community transmission",NA,9381
+2020-05-19,"Transmission Type","Local transmission",NA,6727
+2020-05-19,"Transmission Type","Possible local transmission",NA,803
+2020-05-19,"Transmission Type","Travel abroad",NA,357
+2020-05-19,"Transmission Type","Possible travel abroad",NA,214
+2020-05-19,"Transmission Type","Unknown",NA,4232
 2020-05-18,"Transmission Type","Community transmission",NA,2558
 2020-05-18,"Transmission Type","Possible community transmission",NA,9342
 2020-05-18,"Transmission Type","Local transmission",NA,6683
@@ -1043,6 +1061,42 @@
 2020-03-30,"Transmission Type","Travel abroad",NA,303
 2020-03-30,"Transmission Type","Possible travel abroad",NA,74
 2020-03-30,"Transmission Type","Unknown",NA,921
+2020-05-19,"Age Group","<5","Total",137
+2020-05-19,"Age Group","<5","Hospitalised",19
+2020-05-19,"Age Group","<5","In ICU",0
+2020-05-19,"Age Group","<5","Died",0
+2020-05-19,"Age Group","5-14","Total",278
+2020-05-19,"Age Group","5-14","Hospitalised",17
+2020-05-19,"Age Group","5-14","In ICU",2
+2020-05-19,"Age Group","5-14","Died",0
+2020-05-19,"Age Group","15-24","Total",1760
+2020-05-19,"Age Group","15-24","Hospitalised",70
+2020-05-19,"Age Group","15-24","In ICU",5
+2020-05-19,"Age Group","15-24","Died",2
+2020-05-19,"Age Group","25-34","Total",4083
+2020-05-19,"Age Group","25-34","Hospitalised",189
+2020-05-19,"Age Group","25-34","In ICU",14
+2020-05-19,"Age Group","25-34","Died",5
+2020-05-19,"Age Group","35-44","Total",4272
+2020-05-19,"Age Group","35-44","Hospitalised",247
+2020-05-19,"Age Group","35-44","In ICU",32
+2020-05-19,"Age Group","35-44","Died",10
+2020-05-19,"Age Group","45-54","Total",4371
+2020-05-19,"Age Group","45-54","Hospitalised",428
+2020-05-19,"Age Group","45-54","In ICU",81
+2020-05-19,"Age Group","45-54","Died",23
+2020-05-19,"Age Group","55-64","Total",3127
+2020-05-19,"Age Group","55-64","Hospitalised",473
+2020-05-19,"Age Group","55-64","In ICU",113
+2020-05-19,"Age Group","55-64","Died",58
+2020-05-19,"Age Group","65-74","Total",1731
+2020-05-19,"Age Group","65-74","Hospitalised",557
+2020-05-19,"Age Group","65-74","In ICU",99
+2020-05-19,"Age Group","65-74","Died",191
+2020-05-19,"Age Group","75-84","Total",2207
+2020-05-19,"Age Group","75-84","Hospitalised",716
+2020-05-19,"Age Group","75-84","In ICU",39
+2020-05-19,"Age Group","75-84","Died",454
 2020-05-18,"Age Group","<5","Total",135
 2020-05-18,"Age Group","<5","Hospitalised",19
 2020-05-18,"Age Group","<5","In ICU",0
@@ -2987,6 +3041,30 @@
 2020-03-30,"Age Group","Unknown","Hospitalised",2
 2020-03-30,"Age Group","Unknown","In ICU",0
 2020-03-30,"Age Group","Unknown","Died",0
+2020-05-19,"Healthcare Workers Cases","HSE East","Foreign travel",95
+2020-05-19,"Healthcare Workers Cases","HSE East","Local/Community transmission",4214
+2020-05-19,"Healthcare Workers Cases","HSE East","Not specified",291
+2020-05-19,"Healthcare Workers Cases","HSE Midlands","Foreign travel",12
+2020-05-19,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",298
+2020-05-19,"Healthcare Workers Cases","HSE Midlands","Not specified",114
+2020-05-19,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",16
+2020-05-19,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",127
+2020-05-19,"Healthcare Workers Cases","HSE Mid-West","Not specified",217
+2020-05-19,"Healthcare Workers Cases","HSE North-East","Foreign travel",11
+2020-05-19,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",893
+2020-05-19,"Healthcare Workers Cases","HSE North-East","Not specified",190
+2020-05-19,"Healthcare Workers Cases","HSE North-West","Foreign travel",8
+2020-05-19,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",118
+2020-05-19,"Healthcare Workers Cases","HSE North-West","Not specified",129
+2020-05-19,"Healthcare Workers Cases","HSE South-East","Foreign travel",5
+2020-05-19,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",16
+2020-05-19,"Healthcare Workers Cases","HSE South-East","Not specified",285
+2020-05-19,"Healthcare Workers Cases","HSE South","Foreign travel",22
+2020-05-19,"Healthcare Workers Cases","HSE South","Local/Community transmission",125
+2020-05-19,"Healthcare Workers Cases","HSE South","Not specified",241
+2020-05-19,"Healthcare Workers Cases","HSE West","Foreign travel",7
+2020-05-19,"Healthcare Workers Cases","HSE West","Local/Community transmission",86
+2020-05-19,"Healthcare Workers Cases","HSE West","Not specified",227
 2020-05-18,"Healthcare Workers Cases","HSE East","Foreign travel",95
 2020-05-18,"Healthcare Workers Cases","HSE East","Local/Community transmission",4202
 2020-05-18,"Healthcare Workers Cases","HSE East","Not specified",292
