@@ -1,4 +1,31 @@
 "Date","Key","Value"
+2020-05-26,"Total",24795
+2020-05-26,"Hospitalised",3267
+2020-05-26,"In ICU",404
+2020-05-26,"Dead",1378
+2020-05-26,"Clusters",850
+2020-05-26,"In Clusters",9758
+2020-05-26,"Imported",360
+2020-05-26,"Healthcare",7920
+2020-05-26,"Median Age",48
+2020-05-25,"Total",24730
+2020-05-25,"Hospitalised",3251
+2020-05-25,"In ICU",399
+2020-05-25,"Dead",1368
+2020-05-25,"Clusters",846
+2020-05-25,"In Clusters",9676
+2020-05-25,"Imported",359
+2020-05-25,"Healthcare",7891
+2020-05-25,"Median Age",48
+2020-05-24,"Total",24629
+2020-05-24,"Hospitalised",3233
+2020-05-24,"In ICU",395
+2020-05-24,"Dead",1354
+2020-05-24,"Clusters",846
+2020-05-24,"In Clusters",9579
+2020-05-24,"Imported",359
+2020-05-24,"Healthcare",7852
+2020-05-24,"Median Age",48
 2020-05-23,"Total",24593
 2020-05-23,"Hospitalised",3225
 2020-05-23,"In ICU",394
@@ -305,6 +332,15 @@
 2020-03-21,"Imported",185
 2020-03-21,"Healthcare",208
 2020-03-21,"Median Age",44
+2020-03-20,"Total",712
+2020-03-20,"Hospitalised",211
+2020-03-20,"In ICU",17
+2020-03-20,"Dead",4
+2020-03-20,"Clusters",35
+2020-03-20,"In Clusters",190
+2020-03-20,"Imported",167
+2020-03-20,"Healthcare",159
+2020-03-20,"Median Age",44
 2020-04-28,"Total",20111
 2020-04-28,"Hospitalised",2706
 2020-04-28,"In ICU",360

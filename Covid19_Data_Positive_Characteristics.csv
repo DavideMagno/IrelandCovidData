@@ -1,188 +1,197 @@
 "Date","Key 1","Key 2","Key 3","Value"
-2020-05-23,"HSE area","Unknown",NA,25
-2020-05-23,"HSE area","HSE area",NA,NA
+2020-05-26,"Sex","Male",NA,10575
+2020-05-26,"Sex","Female",NA,14186
+2020-05-26,"Sex","Unknown Sex",NA,34
+2020-05-25,"Sex","Male",NA,10548
+2020-05-25,"Sex","Female",NA,14145
+2020-05-25,"Sex","Unknown Sex",NA,37
+2020-05-24,"Sex","Male",NA,10510
+2020-05-24,"Sex","Female",NA,14081
+2020-05-24,"Sex","Unknown Sex",NA,38
 2020-05-23,"HSE area","HSE East",NA,13927
 2020-05-23,"HSE area","HSE Midlands",NA,1678
 2020-05-23,"HSE area","HSE Mid-West",NA,1353
 2020-05-23,"HSE area","HSE North-East",NA,2882
 2020-05-23,"HSE area","HSE North-West",NA,689
 2020-05-23,"HSE area","HSE South-East",NA,970
+2020-05-23,"HSE area","HSE South",NA,1746
+2020-05-23,"HSE area","HSE West",NA,1348
 2020-05-23,"Sex","Female",NA,14070
 2020-05-23,"Sex","Male",NA,10484
 2020-05-23,"Sex","Unknown Sex",NA,39
-2020-05-22,"HSE area","Unknown",NA,24
-2020-05-22,"HSE area","HSE area",NA,NA
 2020-05-22,"HSE area","HSE East",NA,13926
 2020-05-22,"HSE area","HSE Midlands",NA,1677
 2020-05-22,"HSE area","HSE Mid-West",NA,1349
 2020-05-22,"HSE area","HSE North-East",NA,2878
 2020-05-22,"HSE area","HSE North-West",NA,689
 2020-05-22,"HSE area","HSE South-East",NA,970
+2020-05-22,"HSE area","HSE South",NA,1736
+2020-05-22,"HSE area","HSE West",NA,1344
 2020-05-22,"Sex","Female",NA,14064
 2020-05-22,"Sex","Male",NA,10468
 2020-05-22,"Sex","Unknown Sex",NA,37
-2020-05-21,"HSE area","Unknown",NA,24
-2020-05-21,"HSE area","HSE area",NA,NA
 2020-05-21,"HSE area","HSE East",NA,13876
 2020-05-21,"HSE area","HSE Midlands",NA,1672
 2020-05-21,"HSE area","HSE Mid-West",NA,1346
 2020-05-21,"HSE area","HSE North-East",NA,2855
 2020-05-21,"HSE area","HSE North-West",NA,689
 2020-05-21,"HSE area","HSE South-East",NA,952
+2020-05-21,"HSE area","HSE South",NA,1728
+2020-05-21,"HSE area","HSE West",NA,1333
 2020-05-21,"Sex","Female",NA,13996
 2020-05-21,"Sex","Male",NA,10418
 2020-05-21,"Sex","Unknown Sex",NA,37
-2020-05-20,"HSE area","Unknown",NA,24
-2020-05-20,"HSE area","HSE area",NA,NA
 2020-05-20,"HSE area","HSE East",NA,13834
 2020-05-20,"HSE area","HSE Midlands",NA,1670
 2020-05-20,"HSE area","HSE Mid-West",NA,1347
 2020-05-20,"HSE area","HSE North-East",NA,2834
 2020-05-20,"HSE area","HSE North-West",NA,689
 2020-05-20,"HSE area","HSE South-East",NA,948
+2020-05-20,"HSE area","HSE South",NA,1706
+2020-05-20,"HSE area","HSE West",NA,1323
 2020-05-20,"Sex","Female",NA,13936
 2020-05-20,"Sex","Male",NA,10375
 2020-05-20,"Sex","Unknown Sex",NA,40
-2020-05-19,"HSE area","Unknown",NA,24
-2020-05-19,"HSE area","HSE area",NA,NA
 2020-05-19,"HSE area","HSE East",NA,13803
 2020-05-19,"HSE area","HSE Midlands",NA,1666
 2020-05-19,"HSE area","HSE Mid-West",NA,1340
 2020-05-19,"HSE area","HSE North-East",NA,2828
 2020-05-19,"HSE area","HSE North-West",NA,690
 2020-05-19,"HSE area","HSE South-East",NA,938
+2020-05-19,"HSE area","HSE South",NA,1694
+2020-05-19,"HSE area","HSE West",NA,1315
 2020-05-19,"Sex","Female",NA,13899
 2020-05-19,"Sex","Male",NA,10337
 2020-05-19,"Sex","Unknown Sex",NA,38
-2020-05-18,"HSE area","Unknown",NA,24
-2020-05-18,"HSE area","HSE area",NA,NA
 2020-05-18,"HSE area","HSE East",NA,13769
 2020-05-18,"HSE area","HSE Midlands",NA,1659
 2020-05-18,"HSE area","HSE Mid-West",NA,1337
 2020-05-18,"HSE area","HSE North-East",NA,2819
 2020-05-18,"HSE area","HSE North-West",NA,688
 2020-05-18,"HSE area","HSE South-East",NA,937
+2020-05-18,"HSE area","HSE South",NA,1684
+2020-05-18,"HSE area","HSE West",NA,1311
 2020-05-18,"Sex","Female",NA,13859
 2020-05-18,"Sex","Male",NA,10307
 2020-05-18,"Sex","Unknown Sex",NA,38
-2020-05-17,"HSE area","Unknown",NA,24
-2020-05-17,"HSE area","HSE area",NA,NA
 2020-05-17,"HSE area","HSE East",NA,13797
 2020-05-17,"HSE area","HSE Midlands",NA,1650
 2020-05-17,"HSE area","HSE Mid-West",NA,1329
 2020-05-17,"HSE area","HSE North-East",NA,2810
 2020-05-17,"HSE area","HSE North-West",NA,686
 2020-05-17,"HSE area","HSE South-East",NA,923
+2020-05-17,"HSE area","HSE South",NA,1680
+2020-05-17,"HSE area","HSE West",NA,1301
 2020-05-17,"Sex","Female",NA,13841
 2020-05-17,"Sex","Male",NA,10296
 2020-05-17,"Sex","Unknown Sex",NA,39
-2020-05-16,"HSE area","Unknown",NA,24
-2020-05-16,"HSE area","HSE area",NA,NA
 2020-05-16,"HSE area","HSE East",NA,13717
 2020-05-16,"HSE area","HSE Midlands",NA,1645
 2020-05-16,"HSE area","HSE Mid-West",NA,1328
 2020-05-16,"HSE area","HSE North-East",NA,2788
 2020-05-16,"HSE area","HSE North-West",NA,683
 2020-05-16,"HSE area","HSE South-East",NA,919
+2020-05-16,"HSE area","HSE South",NA,1668
+2020-05-16,"HSE area","HSE West",NA,1288
 2020-05-16,"Sex","Female",NA,13768
 2020-05-16,"Sex","Male",NA,10229
 2020-05-16,"Sex","Unknown Sex",NA,39
-2020-05-15,"HSE area","Unknown",NA,24
-2020-05-15,"HSE area","HSE area",NA,NA
 2020-05-15,"HSE area","HSE East",NA,13683
 2020-05-15,"HSE area","HSE Midlands",NA,1644
 2020-05-15,"HSE area","HSE Mid-West",NA,1326
 2020-05-15,"HSE area","HSE North-East",NA,2778
 2020-05-15,"HSE area","HSE North-West",NA,683
 2020-05-15,"HSE area","HSE South-East",NA,914
+2020-05-15,"HSE area","HSE South",NA,1659
+2020-05-15,"HSE area","HSE West",NA,1266
 2020-05-15,"Sex","Female",NA,13709
 2020-05-15,"Sex","Male",NA,10195
 2020-05-15,"Sex","Unknown Sex",NA,49
-2020-05-14,"HSE area","Unknown",NA,24
-2020-05-14,"HSE area","HSE area",NA,NA
 2020-05-14,"HSE area","HSE East",NA,13671
 2020-05-14,"HSE area","HSE Midlands",NA,1633
 2020-05-14,"HSE area","HSE Mid-West",NA,1320
 2020-05-14,"HSE area","HSE North-East",NA,2761
 2020-05-14,"HSE area","HSE North-West",NA,682
 2020-05-14,"HSE area","HSE South-East",NA,905
+2020-05-14,"HSE area","HSE South",NA,1653
+2020-05-14,"HSE area","HSE West",NA,1254
 2020-05-14,"Sex","Female",NA,13681
 2020-05-14,"Sex","Male",NA,10149
 2020-05-14,"Sex","Unknown Sex",NA,49
-2020-05-13,"HSE area","Unknown",NA,24
-2020-05-13,"HSE area","HSE area",NA,NA
 2020-05-13,"HSE area","HSE East",NA,13561
 2020-05-13,"HSE area","HSE Midlands",NA,1611
 2020-05-13,"HSE area","HSE Mid-West",NA,1314
 2020-05-13,"HSE area","HSE North-East",NA,2754
 2020-05-13,"HSE area","HSE North-West",NA,678
 2020-05-13,"HSE area","HSE South-East",NA,898
+2020-05-13,"HSE area","HSE South",NA,1562
+2020-05-13,"HSE area","HSE West",NA,1249
 2020-05-13,"Sex","Female",NA,13559
 2020-05-13,"Sex","Male",NA,10019
 2020-05-13,"Sex","Unknown Sex",NA,49
-2020-05-12,"HSE area","Unknown",NA,25
-2020-05-12,"HSE area","HSE area",NA,NA
 2020-05-12,"HSE area","HSE East",NA,13307
 2020-05-12,"HSE area","HSE Midlands",NA,1531
 2020-05-12,"HSE area","HSE Mid-West",NA,1314
 2020-05-12,"HSE area","HSE North-East",NA,2735
 2020-05-12,"HSE area","HSE North-West",NA,678
 2020-05-12,"HSE area","HSE South-East",NA,896
+2020-05-12,"HSE area","HSE South",NA,1554
+2020-05-12,"HSE area","HSE West",NA,1244
 2020-05-12,"Sex","Female",NA,13338
 2020-05-12,"Sex","Male",NA,9853
 2020-05-12,"Sex","Unknown Sex",NA,68
-2020-05-11,"HSE area","Unknown",NA,25
-2020-05-11,"HSE area","HSE area",NA,NA
 2020-05-11,"HSE area","HSE East",NA,13233
 2020-05-11,"HSE area","HSE Midlands",NA,1524
 2020-05-11,"HSE area","HSE Mid-West",NA,1311
 2020-05-11,"HSE area","HSE North-East",NA,2727
 2020-05-11,"HSE area","HSE North-West",NA,675
 2020-05-11,"HSE area","HSE South-East",NA,893
+2020-05-11,"HSE area","HSE South",NA,1543
+2020-05-11,"HSE area","HSE West",NA,1238
 2020-05-11,"Sex","Female",NA,13282
 2020-05-11,"Sex","Male",NA,9802
 2020-05-11,"Sex","Unknown Sex",NA,60
-2020-05-10,"HSE area","Unknown",NA,26
-2020-05-10,"HSE area","HSE area",NA,NA
 2020-05-10,"HSE area","HSE East",NA,13152
 2020-05-10,"HSE area","HSE Midlands",NA,1509
 2020-05-10,"HSE area","HSE Mid-West",NA,1302
 2020-05-10,"HSE area","HSE North-East",NA,2692
 2020-05-10,"HSE area","HSE North-West",NA,669
 2020-05-10,"HSE area","HSE South-East",NA,874
+2020-05-10,"HSE area","HSE South",NA,1535
+2020-05-10,"HSE area","HSE West",NA,1161
 2020-05-10,"Sex","Female",NA,13249
 2020-05-10,"Sex","Male",NA,9776
 2020-05-10,"Sex","Unknown Sex",NA,64
-2020-05-09,"HSE area","Unknown",NA,26
-2020-05-09,"HSE area","HSE area",NA,NA
 2020-05-09,"HSE area","HSE East",NA,13152
 2020-05-09,"HSE area","HSE Midlands",NA,1509
 2020-05-09,"HSE area","HSE Mid-West",NA,1302
 2020-05-09,"HSE area","HSE North-East",NA,2692
 2020-05-09,"HSE area","HSE North-West",NA,669
 2020-05-09,"HSE area","HSE South-East",NA,874
+2020-05-09,"HSE area","HSE South",NA,1535
+2020-05-09,"HSE area","HSE West",NA,1161
 2020-05-09,"Sex","Female",NA,13129
 2020-05-09,"Sex","Male",NA,9698
 2020-05-09,"Sex","Unknown Sex",NA,67
-2020-05-08,"HSE area","Unknown",NA,26
-2020-05-08,"HSE area","HSE area",NA,NA
 2020-05-08,"HSE area","HSE East",NA,13035
 2020-05-08,"HSE area","HSE Midlands",NA,1502
 2020-05-08,"HSE area","HSE Mid-West",NA,1284
 2020-05-08,"HSE area","HSE North-East",NA,2678
 2020-05-08,"HSE area","HSE North-West",NA,651
 2020-05-08,"HSE area","HSE South-East",NA,866
+2020-05-08,"HSE area","HSE South",NA,1510
+2020-05-08,"HSE area","HSE West",NA,1145
 2020-05-08,"Sex","Female",NA,12980
 2020-05-08,"Sex","Male",NA,9627
 2020-05-08,"Sex","Unknown Sex",NA,64
-2020-05-07,"HSE area","Unknown",NA,26
-2020-05-07,"HSE area","HSE area",NA,NA
 2020-05-07,"HSE area","HSE East",NA,12902
 2020-05-07,"HSE area","HSE Midlands",NA,1500
 2020-05-07,"HSE area","HSE Mid-West",NA,1280
 2020-05-07,"HSE area","HSE North-East",NA,2664
 2020-05-07,"HSE area","HSE North-West",NA,651
 2020-05-07,"HSE area","HSE South-East",NA,852
+2020-05-07,"HSE area","HSE South",NA,1508
+2020-05-07,"HSE area","HSE West",NA,1138
 2020-05-07,"Sex","Female",NA,12879
 2020-05-07,"Sex","Male",NA,9552
 2020-05-07,"Sex","Unknown Sex",NA,64
@@ -373,6 +382,17 @@
 2020-03-21,"Sex","Female",NA,369
 2020-03-21,"Sex","Male",NA,460
 2020-03-21,"Sex","Unknown Sex",NA,7
+2020-03-20,"HSE area","HSE East",NA,446
+2020-03-20,"HSE area","HSE Midlands",NA,33
+2020-03-20,"HSE area","HSE Mid-West",NA,27
+2020-03-20,"HSE area","HSE North-East",NA,28
+2020-03-20,"HSE area","HSE North-West",NA,11
+2020-03-20,"HSE area","HSE South-East",NA,28
+2020-03-20,"HSE area","HSE South",NA,110
+2020-03-20,"HSE area","HSE West",NA,29
+2020-03-20,"Sex","Female",NA,311
+2020-03-20,"Sex","Male",NA,393
+2020-03-20,"Sex","Unknown Sex",NA,8
 2020-04-28,"HSE area","HSE East",NA,11749
 2020-04-28,"HSE area","HSE Midlands",NA,1120
 2020-04-28,"HSE area","HSE Mid-West",NA,1080
@@ -703,6 +723,24 @@
 2020-03-30,"Sex","Female",NA,1494
 2020-03-30,"Sex","Male",NA,1457
 2020-03-30,"Sex","Unknown Sex",NA,39
+2020-05-26,"Transmission Type","Community transmission incl possible community transmission",NA,9804
+2020-05-26,"Transmission Type","Local transmission incl possible local transmission",NA,14317
+2020-05-26,"Transmission Type","Travel abroad incl possible travel abroad",NA,575
+2020-05-26,"Transmission Type","Unknown",NA,99
+2020-05-26,"Transmission Type","See technical note",NA,3
+2020-05-26,"Transmission Type","Cases which were notified more than",NA,2
+2020-05-25,"Transmission Type","Community transmission incl possible community transmission",NA,9794
+2020-05-25,"Transmission Type","Local transmission incl possible local transmission",NA,14244
+2020-05-25,"Transmission Type","Travel abroad incl possible travel abroad",NA,572
+2020-05-25,"Transmission Type","Unknown",NA,120
+2020-05-25,"Transmission Type","See technical note",NA,3
+2020-05-25,"Transmission Type","Cases which were notified more than",NA,2
+2020-05-24,"Transmission Type","Community transmission incl possible community transmission",NA,9823
+2020-05-24,"Transmission Type","Local transmission incl possible local transmission",NA,14110
+2020-05-24,"Transmission Type","Travel abroad incl possible travel abroad",NA,572
+2020-05-24,"Transmission Type","Unknown",NA,124
+2020-05-24,"Transmission Type","See technical note",NA,3
+2020-05-24,"Transmission Type","Cases which were notified more than",NA,2
 2020-05-23,"Transmission Type","Community transmission",NA,2578
 2020-05-23,"Transmission Type","Possible community transmission",NA,9492
 2020-05-23,"Transmission Type","Local transmission",NA,6896
@@ -930,6 +968,12 @@
 2020-03-21,"Transmission Type","Possible local transmission",NA,0
 2020-03-21,"Transmission Type","Travel abroad",NA,183
 2020-03-21,"Transmission Type","Unknown",NA,253
+2020-03-20,"Transmission Type","Community transmission",NA,182
+2020-03-20,"Transmission Type","Possible community transmission",NA,36
+2020-03-20,"Transmission Type","Local transmission",NA,106
+2020-03-20,"Transmission Type","Possible local transmission",NA,6
+2020-03-20,"Transmission Type","Travel abroad",NA,166
+2020-03-20,"Transmission Type","Unknown",NA,216
 2020-04-28,"Transmission Type","Community transmission",NA,2504
 2020-04-28,"Transmission Type","Possible community transmission",NA,7415
 2020-04-28,"Transmission Type","Local transmission",NA,4745
@@ -3257,6 +3301,7 @@
 2020-03-30,"Age Group","Unknown","Hospitalised",2
 2020-03-30,"Age Group","Unknown","In ICU",0
 2020-03-30,"Age Group","Unknown","Died",0
+NA,"Healthcare Workers Cases",NA,NA,NA
 2020-05-23,"Healthcare Workers Cases","HSE East","Foreign travel",94
 2020-05-23,"Healthcare Workers Cases","HSE East","Local/Community transmission",4250
 2020-05-23,"Healthcare Workers Cases","HSE East","Not specified",293
@@ -4073,6 +4118,30 @@
 2020-03-21,"Healthcare Workers Cases","HSE West","Foreign travel",8
 2020-03-21,"Healthcare Workers Cases","HSE West","Local/Community transmission",10
 2020-03-21,"Healthcare Workers Cases","HSE West","Not specified",1
+2020-03-20,"Healthcare Workers Cases","HSE East","Foreign travel",21
+2020-03-20,"Healthcare Workers Cases","HSE East","Local/Community transmission",67
+2020-03-20,"Healthcare Workers Cases","HSE East","Not specified",5
+2020-03-20,"Healthcare Workers Cases","HSE Midlands","Foreign travel",2
+2020-03-20,"Healthcare Workers Cases","HSE Midlands","Local/Community transmission",10
+2020-03-20,"Healthcare Workers Cases","HSE Midlands","Not specified",1
+2020-03-20,"Healthcare Workers Cases","HSE Mid-West","Foreign travel",1
+2020-03-20,"Healthcare Workers Cases","HSE Mid-West","Local/Community transmission",2
+2020-03-20,"Healthcare Workers Cases","HSE Mid-West","Not specified",0
+2020-03-20,"Healthcare Workers Cases","HSE North-East","Foreign travel",2
+2020-03-20,"Healthcare Workers Cases","HSE North-East","Local/Community transmission",1
+2020-03-20,"Healthcare Workers Cases","HSE North-East","Not specified",0
+2020-03-20,"Healthcare Workers Cases","HSE North-West","Foreign travel",1
+2020-03-20,"Healthcare Workers Cases","HSE North-West","Local/Community transmission",0
+2020-03-20,"Healthcare Workers Cases","HSE North-West","Not specified",1
+2020-03-20,"Healthcare Workers Cases","HSE South-East","Foreign travel",1
+2020-03-20,"Healthcare Workers Cases","HSE South-East","Local/Community transmission",0
+2020-03-20,"Healthcare Workers Cases","HSE South-East","Not specified",1
+2020-03-20,"Healthcare Workers Cases","HSE South","Foreign travel",11
+2020-03-20,"Healthcare Workers Cases","HSE South","Local/Community transmission",16
+2020-03-20,"Healthcare Workers Cases","HSE South","Not specified",2
+2020-03-20,"Healthcare Workers Cases","HSE West","Foreign travel",3
+2020-03-20,"Healthcare Workers Cases","HSE West","Local/Community transmission",10
+2020-03-20,"Healthcare Workers Cases","HSE West","Not specified",1
 2020-04-28,"Healthcare Workers Cases","HSE East","Foreign travel",86
 2020-04-28,"Healthcare Workers Cases","HSE East","Local/Community transmission",3025
 2020-04-28,"Healthcare Workers Cases","HSE East","Not specified",191
