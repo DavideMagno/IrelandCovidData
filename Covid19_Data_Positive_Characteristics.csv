@@ -1,4 +1,7 @@
 "Date","Key 1","Key 2","Key 3","Value"
+2020-05-27,"Sex","Male",NA,10589
+2020-05-27,"Sex","Female",NA,14214
+2020-05-27,"Sex","Unknown Sex",NA,34
 2020-05-26,"Sex","Male",NA,10575
 2020-05-26,"Sex","Female",NA,14186
 2020-05-26,"Sex","Unknown Sex",NA,34
@@ -723,6 +726,12 @@
 2020-03-30,"Sex","Female",NA,1494
 2020-03-30,"Sex","Male",NA,1457
 2020-03-30,"Sex","Unknown Sex",NA,39
+2020-05-27,"Transmission Type","Community transmission incl possible community transmission",NA,9799
+2020-05-27,"Transmission Type","Local transmission incl possible local transmission",NA,14387
+2020-05-27,"Transmission Type","Travel abroad incl possible travel abroad",NA,575
+2020-05-27,"Transmission Type","Unknown",NA,76
+2020-05-27,"Transmission Type","See technical note",NA,3
+2020-05-27,"Transmission Type","Cases which were notified more than",NA,2
 2020-05-26,"Transmission Type","Community transmission incl possible community transmission",NA,9804
 2020-05-26,"Transmission Type","Local transmission incl possible local transmission",NA,14317
 2020-05-26,"Transmission Type","Travel abroad incl possible travel abroad",NA,575
