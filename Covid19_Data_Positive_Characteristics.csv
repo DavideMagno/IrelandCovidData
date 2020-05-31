@@ -729,471 +729,281 @@
 2020-03-30,"Sex","Female",NA,1494
 2020-03-30,"Sex","Male",NA,1457
 2020-03-30,"Sex","Unknown Sex",NA,39
-2020-05-28,"Transmission Type","Community transmission incl possible community transmission",NA,9771
-2020-05-28,"Transmission Type","Local transmission incl possible local transmission",NA,14458
-2020-05-28,"Transmission Type","Travel abroad incl possible travel abroad",NA,575
+2020-05-28,"Transmission Type","Community Transmission",NA,9771
+2020-05-28,"Transmission Type","Local Transmission",NA,14458
+2020-05-28,"Transmission Type","Travel Abroad",NA,575
 2020-05-28,"Transmission Type","Unknown",NA,66
-2020-05-28,"Transmission Type","See technical note",NA,3
-2020-05-28,"Transmission Type","Cases which were notified more than",NA,2
-2020-05-27,"Transmission Type","Community transmission incl possible community transmission",NA,9799
-2020-05-27,"Transmission Type","Local transmission incl possible local transmission",NA,14387
-2020-05-27,"Transmission Type","Travel abroad incl possible travel abroad",NA,575
+2020-05-27,"Transmission Type","Community Transmission",NA,9799
+2020-05-27,"Transmission Type","Local Transmission",NA,14387
+2020-05-27,"Transmission Type","Travel Abroad",NA,575
 2020-05-27,"Transmission Type","Unknown",NA,76
-2020-05-27,"Transmission Type","See technical note",NA,3
-2020-05-27,"Transmission Type","Cases which were notified more than",NA,2
-2020-05-26,"Transmission Type","Community transmission incl possible community transmission",NA,9804
-2020-05-26,"Transmission Type","Local transmission incl possible local transmission",NA,14317
-2020-05-26,"Transmission Type","Travel abroad incl possible travel abroad",NA,575
+2020-05-26,"Transmission Type","Community Transmission",NA,9804
+2020-05-26,"Transmission Type","Local Transmission",NA,14317
+2020-05-26,"Transmission Type","Travel Abroad",NA,575
 2020-05-26,"Transmission Type","Unknown",NA,99
-2020-05-26,"Transmission Type","See technical note",NA,3
-2020-05-26,"Transmission Type","Cases which were notified more than",NA,2
-2020-05-25,"Transmission Type","Community transmission incl possible community transmission",NA,9794
-2020-05-25,"Transmission Type","Local transmission incl possible local transmission",NA,14244
-2020-05-25,"Transmission Type","Travel abroad incl possible travel abroad",NA,572
+2020-05-25,"Transmission Type","Community Transmission",NA,9794
+2020-05-25,"Transmission Type","Local Transmission",NA,14244
+2020-05-25,"Transmission Type","Travel Abroad",NA,572
 2020-05-25,"Transmission Type","Unknown",NA,120
-2020-05-25,"Transmission Type","See technical note",NA,3
-2020-05-25,"Transmission Type","Cases which were notified more than",NA,2
-2020-05-24,"Transmission Type","Community transmission incl possible community transmission",NA,9823
-2020-05-24,"Transmission Type","Local transmission incl possible local transmission",NA,14110
-2020-05-24,"Transmission Type","Travel abroad incl possible travel abroad",NA,572
+2020-05-24,"Transmission Type","Community Transmission",NA,9823
+2020-05-24,"Transmission Type","Local Transmission",NA,14110
+2020-05-24,"Transmission Type","Travel Abroad",NA,572
 2020-05-24,"Transmission Type","Unknown",NA,124
-2020-05-24,"Transmission Type","See technical note",NA,3
-2020-05-24,"Transmission Type","Cases which were notified more than",NA,2
-2020-05-23,"Transmission Type","Community transmission",NA,2578
-2020-05-23,"Transmission Type","Possible community transmission",NA,9492
-2020-05-23,"Transmission Type","Local transmission",NA,6896
-2020-05-23,"Transmission Type","Possible local transmission",NA,806
-2020-05-23,"Transmission Type","Travel abroad",NA,357
-2020-05-23,"Transmission Type","Possible travel abroad",NA,215
+2020-05-23,"Transmission Type","Community Transmission",NA,12070
+2020-05-23,"Transmission Type","Local Transmission",NA,7702
+2020-05-23,"Transmission Type","Travel Abroad",NA,572
 2020-05-23,"Transmission Type","Unknown",NA,4249
-2020-05-22,"Transmission Type","Community transmission",NA,2577
-2020-05-22,"Transmission Type","Possible community transmission",NA,9501
-2020-05-22,"Transmission Type","Local transmission",NA,6872
-2020-05-22,"Transmission Type","Possible local transmission",NA,800
-2020-05-22,"Transmission Type","Travel abroad",NA,358
-2020-05-22,"Transmission Type","Possible travel abroad",NA,214
+2020-05-22,"Transmission Type","Community Transmission",NA,12078
+2020-05-22,"Transmission Type","Local Transmission",NA,7672
+2020-05-22,"Transmission Type","Travel Abroad",NA,572
 2020-05-22,"Transmission Type","Unknown",NA,4247
-2020-05-21,"Transmission Type","Community transmission",NA,2571
-2020-05-21,"Transmission Type","Possible community transmission",NA,9482
-2020-05-21,"Transmission Type","Local transmission",NA,6814
-2020-05-21,"Transmission Type","Possible local transmission",NA,798
-2020-05-21,"Transmission Type","Travel abroad",NA,357
-2020-05-21,"Transmission Type","Possible travel abroad",NA,214
+2020-05-21,"Transmission Type","Community Transmission",NA,12053
+2020-05-21,"Transmission Type","Local Transmission",NA,7612
+2020-05-21,"Transmission Type","Travel Abroad",NA,571
 2020-05-21,"Transmission Type","Unknown",NA,4215
-2020-05-20,"Transmission Type","Community transmission",NA,2561
-2020-05-20,"Transmission Type","Possible community transmission",NA,9436
-2020-05-20,"Transmission Type","Local transmission",NA,6770
-2020-05-20,"Transmission Type","Possible local transmission",NA,800
-2020-05-20,"Transmission Type","Travel abroad",NA,357
-2020-05-20,"Transmission Type","Possible travel abroad",NA,214
+2020-05-20,"Transmission Type","Community Transmission",NA,11997
+2020-05-20,"Transmission Type","Local Transmission",NA,7570
+2020-05-20,"Transmission Type","Travel Abroad",NA,571
 2020-05-20,"Transmission Type","Unknown",NA,4213
-2020-05-19,"Transmission Type","Community transmission",NA,2560
-2020-05-19,"Transmission Type","Possible community transmission",NA,9381
-2020-05-19,"Transmission Type","Local transmission",NA,6727
-2020-05-19,"Transmission Type","Possible local transmission",NA,803
-2020-05-19,"Transmission Type","Travel abroad",NA,357
-2020-05-19,"Transmission Type","Possible travel abroad",NA,214
+2020-05-19,"Transmission Type","Community Transmission",NA,11941
+2020-05-19,"Transmission Type","Local Transmission",NA,7530
+2020-05-19,"Transmission Type","Travel Abroad",NA,571
 2020-05-19,"Transmission Type","Unknown",NA,4232
-2020-05-18,"Transmission Type","Community transmission",NA,2558
-2020-05-18,"Transmission Type","Possible community transmission",NA,9342
-2020-05-18,"Transmission Type","Local transmission",NA,6683
-2020-05-18,"Transmission Type","Possible local transmission",NA,802
-2020-05-18,"Transmission Type","Travel abroad",NA,356
-2020-05-18,"Transmission Type","Possible travel abroad",NA,214
+2020-05-18,"Transmission Type","Community Transmission",NA,11900
+2020-05-18,"Transmission Type","Local Transmission",NA,7485
+2020-05-18,"Transmission Type","Travel Abroad",NA,570
 2020-05-18,"Transmission Type","Unknown",NA,4249
-2020-05-17,"Transmission Type","Community transmission",NA,2559
-2020-05-17,"Transmission Type","Possible community transmission",NA,9351
-2020-05-17,"Transmission Type","Local transmission",NA,6656
-2020-05-17,"Transmission Type","Possible local transmission",NA,802
-2020-05-17,"Transmission Type","Travel abroad",NA,356
-2020-05-17,"Transmission Type","Possible travel abroad",NA,214
+2020-05-17,"Transmission Type","Community Transmission",NA,11910
+2020-05-17,"Transmission Type","Local Transmission",NA,7458
+2020-05-17,"Transmission Type","Travel Abroad",NA,570
 2020-05-17,"Transmission Type","Unknown",NA,4238
-2020-05-16,"Transmission Type","Community transmission",NA,2558
-2020-05-16,"Transmission Type","Possible community transmission",NA,9296
-2020-05-16,"Transmission Type","Local transmission",NA,6584
-2020-05-16,"Transmission Type","Possible local transmission",NA,803
-2020-05-16,"Transmission Type","Travel abroad",NA,356
-2020-05-16,"Transmission Type","Possible travel abroad",NA,214
+2020-05-16,"Transmission Type","Community Transmission",NA,11854
+2020-05-16,"Transmission Type","Local Transmission",NA,7387
+2020-05-16,"Transmission Type","Travel Abroad",NA,570
 2020-05-16,"Transmission Type","Unknown",NA,4225
-2020-05-15,"Transmission Type","Community transmission",NA,2554
-2020-05-15,"Transmission Type","Possible community transmission",NA,9263
-2020-05-15,"Transmission Type","Local transmission",NA,6545
-2020-05-15,"Transmission Type","Possible local transmission",NA,807
-2020-05-15,"Transmission Type","Travel abroad",NA,356
-2020-05-15,"Transmission Type","Possible travel abroad",NA,214
+2020-05-15,"Transmission Type","Community Transmission",NA,11817
+2020-05-15,"Transmission Type","Local Transmission",NA,7352
+2020-05-15,"Transmission Type","Travel Abroad",NA,570
 2020-05-15,"Transmission Type","Unknown",NA,4214
-2020-05-14,"Transmission Type","Community transmission",NA,2552
-2020-05-14,"Transmission Type","Possible community transmission",NA,9245
-2020-05-14,"Transmission Type","Local transmission",NA,6475
-2020-05-14,"Transmission Type","Possible local transmission",NA,812
-2020-05-14,"Transmission Type","Travel abroad",NA,214
-2020-05-14,"Transmission Type","Possible travel abroad",NA,356
+2020-05-14,"Transmission Type","Community Transmission",NA,11797
+2020-05-14,"Transmission Type","Local Transmission",NA,7287
+2020-05-14,"Transmission Type","Travel Abroad",NA,570
 2020-05-14,"Transmission Type","Unknown",NA,4225
-2020-05-13,"Transmission Type","Community transmission",NA,2553
-2020-05-13,"Transmission Type","Possible community transmission",NA,9115
-2020-05-13,"Transmission Type","Local transmission",NA,6432
-2020-05-13,"Transmission Type","Possible local transmission",NA,798
-2020-05-13,"Transmission Type","Travel abroad",NA,356
-2020-05-13,"Transmission Type","Possible travel abroad",NA,214
+2020-05-13,"Transmission Type","Community Transmission",NA,11668
+2020-05-13,"Transmission Type","Local Transmission",NA,7230
+2020-05-13,"Transmission Type","Travel Abroad",NA,570
 2020-05-13,"Transmission Type","Unknown",NA,4159
-2020-05-12,"Transmission Type","Community transmission",NA,2550
-2020-05-12,"Transmission Type","Possible community transmission",NA,8886
-2020-05-12,"Transmission Type","Local transmission",NA,6301
-2020-05-12,"Transmission Type","Possible local transmission",NA,764
-2020-05-12,"Transmission Type","Travel abroad",NA,356
-2020-05-12,"Transmission Type","Possible travel abroad",NA,215
+2020-05-12,"Transmission Type","Community Transmission",NA,11436
+2020-05-12,"Transmission Type","Local Transmission",NA,7065
+2020-05-12,"Transmission Type","Travel Abroad",NA,571
 2020-05-12,"Transmission Type","Unknown",NA,4187
-2020-05-11,"Transmission Type","Community transmission",NA,2548
-2020-05-11,"Transmission Type","Possible community transmission",NA,8847
-2020-05-11,"Transmission Type","Local transmission",NA,6184
-2020-05-11,"Transmission Type","Possible local transmission",NA,760
-2020-05-11,"Transmission Type","Travel abroad",NA,351
-2020-05-11,"Transmission Type","Possible travel abroad",NA,215
+2020-05-11,"Transmission Type","Community Transmission",NA,11395
+2020-05-11,"Transmission Type","Local Transmission",NA,6944
+2020-05-11,"Transmission Type","Travel Abroad",NA,566
 2020-05-11,"Transmission Type","Unknown",NA,4239
-2020-05-10,"Transmission Type","Community transmission",NA,2552
-2020-05-10,"Transmission Type","Possible community transmission",NA,8890
-2020-05-10,"Transmission Type","Local transmission",NA,6052
-2020-05-10,"Transmission Type","Possible local transmission",NA,718
-2020-05-10,"Transmission Type","Travel abroad",NA,351
-2020-05-10,"Transmission Type","Possible travel abroad",NA,214
+2020-05-10,"Transmission Type","Community Transmission",NA,11442
+2020-05-10,"Transmission Type","Local Transmission",NA,6770
+2020-05-10,"Transmission Type","Travel Abroad",NA,565
 2020-05-10,"Transmission Type","Unknown",NA,4312
-2020-05-09,"Transmission Type","Community transmission",NA,2550
-2020-05-09,"Transmission Type","Possible community transmission",NA,8813
-2020-05-09,"Transmission Type","Local transmission",NA,5992
-2020-05-09,"Transmission Type","Possible local transmission",NA,711
-2020-05-09,"Transmission Type","Travel abroad",NA,351
-2020-05-09,"Transmission Type","Possible travel abroad",NA,213
+2020-05-09,"Transmission Type","Community Transmission",NA,11363
+2020-05-09,"Transmission Type","Local Transmission",NA,6703
+2020-05-09,"Transmission Type","Travel Abroad",NA,564
 2020-05-09,"Transmission Type","Unknown",NA,4264
-2020-05-08,"Transmission Type","Community transmission",NA,2547
-2020-05-08,"Transmission Type","Possible community transmission",NA,8763
-2020-05-08,"Transmission Type","Local transmission",NA,5886
-2020-05-08,"Transmission Type","Possible local transmission",NA,705
-2020-05-08,"Transmission Type","Travel abroad",NA,351
-2020-05-08,"Transmission Type","Possible travel abroad",NA,213
+2020-05-08,"Transmission Type","Community Transmission",NA,11310
+2020-05-08,"Transmission Type","Local Transmission",NA,6591
+2020-05-08,"Transmission Type","Travel Abroad",NA,564
 2020-05-08,"Transmission Type","Unknown",NA,4206
-2020-05-07,"Transmission Type","Community transmission",NA,2543
-2020-05-07,"Transmission Type","Possible community transmission",NA,8654
-2020-05-07,"Transmission Type","Local transmission",NA,5771
-2020-05-07,"Transmission Type","Possible local transmission",NA,702
-2020-05-07,"Transmission Type","Travel abroad",NA,351
-2020-05-07,"Transmission Type","Possible travel abroad",NA,213
+2020-05-07,"Transmission Type","Community Transmission",NA,11197
+2020-05-07,"Transmission Type","Local Transmission",NA,6473
+2020-05-07,"Transmission Type","Travel Abroad",NA,564
 2020-05-07,"Transmission Type","Unknown",NA,4261
-2020-05-06,"Transmission Type","Community transmission",NA,2538
-2020-05-06,"Transmission Type","Possible community transmission",NA,8499
-2020-05-06,"Transmission Type","Local transmission",NA,5703
-2020-05-06,"Transmission Type","Possible local transmission",NA,664
-2020-05-06,"Transmission Type","Travel abroad",NA,351
-2020-05-06,"Transmission Type","Possible travel abroad",NA,213
+2020-05-06,"Transmission Type","Community Transmission",NA,11037
+2020-05-06,"Transmission Type","Local Transmission",NA,6367
+2020-05-06,"Transmission Type","Travel Abroad",NA,564
 2020-05-06,"Transmission Type","Unknown",NA,4333
-2020-05-05,"Transmission Type","Community transmission",NA,2535
-2020-05-05,"Transmission Type","Possible community transmission",NA,8407
-2020-05-05,"Transmission Type","Local transmission",NA,5613
-2020-05-05,"Transmission Type","Possible local transmission",NA,619
-2020-05-05,"Transmission Type","Travel abroad",NA,350
-2020-05-05,"Transmission Type","Possible travel abroad",NA,213
+2020-05-05,"Transmission Type","Community Transmission",NA,10942
+2020-05-05,"Transmission Type","Local Transmission",NA,6232
+2020-05-05,"Transmission Type","Travel Abroad",NA,563
 2020-05-05,"Transmission Type","Unknown",NA,4449
-2020-05-04,"Transmission Type","Community transmission",NA,2531
-2020-05-04,"Transmission Type","Possible community transmission",NA,8185
-2020-05-04,"Transmission Type","Local transmission",NA,5520
-2020-05-04,"Transmission Type","Possible local transmission",NA,503
-2020-05-04,"Transmission Type","Travel abroad",NA,350
-2020-05-04,"Transmission Type","Possible travel abroad",NA,214
+2020-05-04,"Transmission Type","Community Transmission",NA,10716
+2020-05-04,"Transmission Type","Local Transmission",NA,6023
+2020-05-04,"Transmission Type","Travel Abroad",NA,564
 2020-05-04,"Transmission Type","Unknown",NA,4605
-2020-05-03,"Transmission Type","Community transmission",NA,2532
-2020-05-03,"Transmission Type","Possible community transmission",NA,8096
-2020-05-03,"Transmission Type","Local transmission",NA,5401
-2020-05-03,"Transmission Type","Possible local transmission",NA,506
-2020-05-03,"Transmission Type","Travel abroad",NA,350
-2020-05-03,"Transmission Type","Possible travel abroad",NA,180
+2020-05-03,"Transmission Type","Community Transmission",NA,10628
+2020-05-03,"Transmission Type","Local Transmission",NA,5907
+2020-05-03,"Transmission Type","Travel Abroad",NA,530
 2020-05-03,"Transmission Type","Unknown",NA,4594
-2020-05-02,"Transmission Type","Community transmission",NA,2524
-2020-05-02,"Transmission Type","Possible community transmission",NA,8048
-2020-05-02,"Transmission Type","Local transmission",NA,5248
-2020-05-02,"Transmission Type","Possible local transmission",NA,504
-2020-05-02,"Transmission Type","Travel abroad",NA,350
-2020-05-02,"Transmission Type","Possible travel abroad",NA,179
+2020-05-02,"Transmission Type","Community Transmission",NA,10572
+2020-05-02,"Transmission Type","Local Transmission",NA,5752
+2020-05-02,"Transmission Type","Travel Abroad",NA,529
 2020-05-02,"Transmission Type","Unknown",NA,4584
-2020-05-01,"Transmission Type","Community transmission",NA,2513
-2020-05-01,"Transmission Type","Possible community transmission",NA,7917
-2020-05-01,"Transmission Type","Local transmission",NA,5116
-2020-05-01,"Transmission Type","Possible local transmission",NA,499
-2020-05-01,"Transmission Type","Travel abroad",NA,350
-2020-05-01,"Transmission Type","Possible travel abroad",NA,180
+2020-05-01,"Transmission Type","Community Transmission",NA,10430
+2020-05-01,"Transmission Type","Local Transmission",NA,5615
+2020-05-01,"Transmission Type","Travel Abroad",NA,530
 2020-05-01,"Transmission Type","Unknown",NA,4489
-2020-04-30,"Transmission Type","Community transmission",NA,2510
-2020-04-30,"Transmission Type","Possible community transmission",NA,7797
-2020-04-30,"Transmission Type","Local transmission",NA,5022
-2020-04-30,"Transmission Type","Possible local transmission",NA,485
-2020-04-30,"Transmission Type","Travel abroad",NA,348
-2020-04-30,"Transmission Type","Possible travel abroad",NA,180
+2020-04-30,"Transmission Type","Community Transmission",NA,10307
+2020-04-30,"Transmission Type","Local Transmission",NA,5507
+2020-04-30,"Transmission Type","Travel Abroad",NA,528
 2020-04-30,"Transmission Type","Unknown",NA,4400
-2020-04-29,"Transmission Type","Community transmission",NA,2509
-2020-04-29,"Transmission Type","Possible community transmission",NA,7689
-2020-04-29,"Transmission Type","Local transmission",NA,4888
-2020-04-29,"Transmission Type","Possible local transmission",NA,477
-2020-04-29,"Transmission Type","Travel abroad",NA,347
-2020-04-29,"Transmission Type","Possible travel abroad",NA,180
+2020-04-29,"Transmission Type","Community Transmission",NA,10198
+2020-04-29,"Transmission Type","Local Transmission",NA,5365
+2020-04-29,"Transmission Type","Travel Abroad",NA,527
 2020-04-29,"Transmission Type","Unknown",NA,4420
-2020-03-29,"Transmission Type","Community transmission",NA,598
-2020-03-29,"Transmission Type","Possible community transmission",NA,55
-2020-03-29,"Transmission Type","Local transmission",NA,331
-2020-03-29,"Transmission Type","Possible local transmission",NA,3
-2020-03-29,"Transmission Type","Travel abroad",NA,294
+2020-03-29,"Transmission Type","Community Transmission",NA,653
+2020-03-29,"Transmission Type","Local Transmission",NA,334
+2020-03-29,"Transmission Type","Travel Abroad",NA,294
 2020-03-29,"Transmission Type","Unknown",NA,1396
-2020-03-28,"Transmission Type","Community transmission",NA,536
-2020-03-28,"Transmission Type","Possible community transmission",NA,51
-2020-03-28,"Transmission Type","Local transmission",NA,305
-2020-03-28,"Transmission Type","Possible local transmission",NA,7
-2020-03-28,"Transmission Type","Travel abroad",NA,275
+2020-03-28,"Transmission Type","Community Transmission",NA,587
+2020-03-28,"Transmission Type","Local Transmission",NA,312
+2020-03-28,"Transmission Type","Travel Abroad",NA,275
 2020-03-28,"Transmission Type","Unknown",NA,1301
-2020-03-27,"Transmission Type","Community transmission",NA,497
-2020-03-27,"Transmission Type","Possible community transmission",NA,49
-2020-03-27,"Transmission Type","Local transmission",NA,254
-2020-03-27,"Transmission Type","Possible local transmission",NA,6
-2020-03-27,"Transmission Type","Travel abroad",NA,262
+2020-03-27,"Transmission Type","Community Transmission",NA,546
+2020-03-27,"Transmission Type","Local Transmission",NA,260
+2020-03-27,"Transmission Type","Travel Abroad",NA,262
 2020-03-27,"Transmission Type","Unknown",NA,1148
-2020-03-26,"Transmission Type","Community transmission",NA,476
-2020-03-26,"Transmission Type","Possible community transmission",NA,42
-2020-03-26,"Transmission Type","Local transmission",NA,220
-2020-03-26,"Transmission Type","Possible local transmission",NA,5
-2020-03-26,"Transmission Type","Travel abroad",NA,253
+2020-03-26,"Transmission Type","Community Transmission",NA,518
+2020-03-26,"Transmission Type","Local Transmission",NA,225
+2020-03-26,"Transmission Type","Travel Abroad",NA,253
 2020-03-26,"Transmission Type","Unknown",NA,908
-2020-03-25,"Transmission Type","Community transmission",NA,452
-2020-03-25,"Transmission Type","Possible community transmission",NA,36
-2020-03-25,"Transmission Type","Local transmission",NA,201
-2020-03-25,"Transmission Type","Possible local transmission",NA,1
-2020-03-25,"Transmission Type","Travel abroad",NA,239
+2020-03-25,"Transmission Type","Community Transmission",NA,488
+2020-03-25,"Transmission Type","Local Transmission",NA,202
+2020-03-25,"Transmission Type","Travel Abroad",NA,239
 2020-03-25,"Transmission Type","Unknown",NA,710
-2020-03-24,"Transmission Type","Community transmission",NA,391
-2020-03-24,"Transmission Type","Possible community transmission",NA,32
-2020-03-24,"Transmission Type","Local transmission",NA,182
-2020-03-24,"Transmission Type","Travel abroad",NA,226
+2020-03-24,"Transmission Type","Community Transmission",NA,423
+2020-03-24,"Transmission Type","Local Transmission",NA,182
+2020-03-24,"Transmission Type","Travel Abroad",NA,226
 2020-03-24,"Transmission Type","Unknown",NA,552
-2020-03-23,"Transmission Type","Community transmission",NA,340
-2020-03-23,"Transmission Type","Possible community transmission",NA,30
-2020-03-23,"Transmission Type","Local transmission",NA,176
-2020-03-23,"Transmission Type","Travel abroad",NA,210
+2020-03-23,"Transmission Type","Community Transmission",NA,370
+2020-03-23,"Transmission Type","Local Transmission",NA,176
+2020-03-23,"Transmission Type","Travel Abroad",NA,210
 2020-03-23,"Transmission Type","Unknown",NA,408
-2020-03-22,"Transmission Type","Community transmission",NA,285
-2020-03-22,"Transmission Type","Possible community transmission",NA,27
-2020-03-22,"Transmission Type","Local transmission",NA,151
-2020-03-22,"Transmission Type","Possible local transmission",NA,3
-2020-03-22,"Transmission Type","Travel abroad",NA,200
+2020-03-22,"Transmission Type","Community Transmission",NA,312
+2020-03-22,"Transmission Type","Local Transmission",NA,154
+2020-03-22,"Transmission Type","Travel Abroad",NA,200
 2020-03-22,"Transmission Type","Unknown",NA,299
-2020-03-21,"Transmission Type","Community transmission",NA,238
-2020-03-21,"Transmission Type","Possible community transmission",NA,26
-2020-03-21,"Transmission Type","Local transmission",NA,136
-2020-03-21,"Transmission Type","Possible local transmission",NA,0
-2020-03-21,"Transmission Type","Travel abroad",NA,183
+2020-03-21,"Transmission Type","Community Transmission",NA,264
+2020-03-21,"Transmission Type","Local Transmission",NA,136
+2020-03-21,"Transmission Type","Travel Abroad",NA,183
 2020-03-21,"Transmission Type","Unknown",NA,253
-2020-03-20,"Transmission Type","Community transmission",NA,182
-2020-03-20,"Transmission Type","Possible community transmission",NA,36
-2020-03-20,"Transmission Type","Local transmission",NA,106
-2020-03-20,"Transmission Type","Possible local transmission",NA,6
-2020-03-20,"Transmission Type","Travel abroad",NA,166
+2020-03-20,"Transmission Type","Community Transmission",NA,218
+2020-03-20,"Transmission Type","Local Transmission",NA,112
+2020-03-20,"Transmission Type","Travel Abroad",NA,166
 2020-03-20,"Transmission Type","Unknown",NA,216
-2020-04-28,"Transmission Type","Community transmission",NA,2504
-2020-04-28,"Transmission Type","Possible community transmission",NA,7415
-2020-04-28,"Transmission Type","Local transmission",NA,4745
-2020-04-28,"Transmission Type","Possible local transmission",NA,460
-2020-04-28,"Transmission Type","Travel abroad",NA,346
-2020-04-28,"Transmission Type","Possible travel abroad",NA,180
+2020-04-28,"Transmission Type","Community Transmission",NA,9919
+2020-04-28,"Transmission Type","Local Transmission",NA,5205
+2020-04-28,"Transmission Type","Travel Abroad",NA,526
 2020-04-28,"Transmission Type","Unknown",NA,4461
-2020-04-27,"Transmission Type","Possible community transmission",NA,7159
-2020-04-27,"Transmission Type","Local transmission",NA,4692
-2020-04-27,"Transmission Type","Community transmission",NA,2503
-2020-04-27,"Transmission Type","Possible local transmission",NA,440
-2020-04-27,"Transmission Type","Travel abroad",NA,346
-2020-04-27,"Transmission Type","Possible travel abroad",NA,179
+2020-04-27,"Transmission Type","Community Transmission",NA,9662
+2020-04-27,"Transmission Type","Local Transmission",NA,5132
+2020-04-27,"Transmission Type","Travel Abroad",NA,525
 2020-04-27,"Transmission Type","Unknown",NA,4404
-2020-04-26,"Transmission Type","Possible community transmission",NA,2496
-2020-04-26,"Transmission Type","Local transmission",NA,4614
-2020-04-26,"Transmission Type","Community transmission",NA,6950
-2020-04-26,"Transmission Type","Possible local transmission",NA,408
-2020-04-26,"Transmission Type","Travel abroad",NA,178
-2020-04-26,"Transmission Type","Possible travel abroad",NA,345
+2020-04-26,"Transmission Type","Community Transmission",NA,9446
+2020-04-26,"Transmission Type","Local Transmission",NA,5022
+2020-04-26,"Transmission Type","Travel Abroad",NA,523
 2020-04-26,"Transmission Type","Unknown",NA,4392
-2020-04-25,"Transmission Type","Possible community transmission",NA,6847
-2020-04-25,"Transmission Type","Local transmission",NA,4446
-2020-04-25,"Transmission Type","Community transmission",NA,2480
-2020-04-25,"Transmission Type","Possible local transmission",NA,379
-2020-04-25,"Transmission Type","Travel abroad",NA,347
-2020-04-25,"Transmission Type","Possible travel abroad",NA,178
+2020-04-25,"Transmission Type","Community Transmission",NA,9327
+2020-04-25,"Transmission Type","Local Transmission",NA,4825
+2020-04-25,"Transmission Type","Travel Abroad",NA,525
 2020-04-25,"Transmission Type","Unknown",NA,4418
-2020-04-24,"Transmission Type","Community transmission",NA,2465
-2020-04-24,"Transmission Type","Possible community transmission",NA,6491
-2020-04-24,"Transmission Type","Local transmission",NA,4308
-2020-04-24,"Transmission Type","Possible local transmission",NA,370
-2020-04-24,"Transmission Type","Travel abroad",NA,345
-2020-04-24,"Transmission Type","Possible travel abroad",NA,175
+2020-04-24,"Transmission Type","Community Transmission",NA,8956
+2020-04-24,"Transmission Type","Local Transmission",NA,4678
+2020-04-24,"Transmission Type","Travel Abroad",NA,520
 2020-04-24,"Transmission Type","Unknown",NA,4277
-2020-04-23,"Transmission Type","Community transmission",NA,2450
-2020-04-23,"Transmission Type","Local transmission",NA,4180
-2020-04-23,"Transmission Type","Possible community transmission",NA,6295
-2020-04-23,"Transmission Type","Possible local transmission",NA,354
-2020-04-23,"Transmission Type","Possible travel abroad",NA,172
-2020-04-23,"Transmission Type","Travel abroad",NA,345
+2020-04-23,"Transmission Type","Community Transmission",NA,8745
+2020-04-23,"Transmission Type","Local Transmission",NA,4534
+2020-04-23,"Transmission Type","Travel Abroad",NA,517
 2020-04-23,"Transmission Type","Unknown",NA,4179
-2020-04-22,"Transmission Type","Community transmission",NA,2447
-2020-04-22,"Transmission Type","Local transmission",NA,4067
-2020-04-22,"Transmission Type","Possible community transmission",NA,5882
-2020-04-22,"Transmission Type","Possible local transmission",NA,315
-2020-04-22,"Transmission Type","Possible travel abroad",NA,172
-2020-04-22,"Transmission Type","Travel abroad",NA,344
+2020-04-22,"Transmission Type","Community Transmission",NA,8329
+2020-04-22,"Transmission Type","Local Transmission",NA,4382
+2020-04-22,"Transmission Type","Travel Abroad",NA,516
 2020-04-22,"Transmission Type","Unknown",NA,4193
-2020-04-21,"Transmission Type","Community transmission",NA,2426
-2020-04-21,"Transmission Type","Possible community transmission",NA,3950
-2020-04-21,"Transmission Type","Local transmission",NA,5111
-2020-04-21,"Transmission Type","Possible local transmission",NA,299
-2020-04-21,"Transmission Type","Travel abroad",NA,172
-2020-04-21,"Transmission Type","Possible travel abroad",NA,343
+2020-04-21,"Transmission Type","Community Transmission",NA,6376
+2020-04-21,"Transmission Type","Local Transmission",NA,5410
+2020-04-21,"Transmission Type","Travel Abroad",NA,515
 2020-04-21,"Transmission Type","Unknown",NA,4138
-2020-04-20,"Transmission Type","Community transmission",NA,2402
-2020-04-20,"Transmission Type","Possible community transmission",NA,4702
-2020-04-20,"Transmission Type","Local transmission",NA,3838
-2020-04-20,"Transmission Type","Possible local transmission",NA,275
-2020-04-20,"Transmission Type","Travel abroad",NA,342
-2020-04-20,"Transmission Type","Possible travel abroad",NA,170
+2020-04-20,"Transmission Type","Community Transmission",NA,7104
+2020-04-20,"Transmission Type","Local Transmission",NA,4113
+2020-04-20,"Transmission Type","Travel Abroad",NA,512
 2020-04-20,"Transmission Type","Unknown",NA,4142
-2020-04-19,"Transmission Type","Community transmission",NA,2370
-2020-04-19,"Transmission Type","Possible community transmission",NA,4463
-2020-04-19,"Transmission Type","Local transmission",NA,3694
-2020-04-19,"Transmission Type","Possible local transmission",NA,288
-2020-04-19,"Transmission Type","Travel abroad",NA,341
-2020-04-19,"Transmission Type","Possible travel abroad",NA,165
+2020-04-19,"Transmission Type","Community Transmission",NA,6833
+2020-04-19,"Transmission Type","Local Transmission",NA,3982
+2020-04-19,"Transmission Type","Travel Abroad",NA,506
 2020-04-19,"Transmission Type","Unknown",NA,4143
-2020-04-18,"Transmission Type","Community transmission",NA,2346
-2020-04-18,"Transmission Type","Possible community transmission",NA,4460
-2020-04-18,"Transmission Type","Local transmission",NA,3482
-2020-04-18,"Transmission Type","Possible local transmission",NA,244
-2020-04-18,"Transmission Type","Travel abroad",NA,340
-2020-04-18,"Transmission Type","Possible travel abroad",NA,161
+2020-04-18,"Transmission Type","Community Transmission",NA,6806
+2020-04-18,"Transmission Type","Local Transmission",NA,3726
+2020-04-18,"Transmission Type","Travel Abroad",NA,501
 2020-04-18,"Transmission Type","Unknown",NA,4152
-2020-04-17,"Transmission Type","Community transmission",NA,2310
-2020-04-17,"Transmission Type","Possible community transmission",NA,4363
-2020-04-17,"Transmission Type","Local transmission",NA,3176
-2020-04-17,"Transmission Type","Possible local transmission",NA,216
-2020-04-17,"Transmission Type","Travel abroad",NA,340
-2020-04-17,"Transmission Type","Possible travel abroad",NA,159
+2020-04-17,"Transmission Type","Community Transmission",NA,6673
+2020-04-17,"Transmission Type","Local Transmission",NA,3392
+2020-04-17,"Transmission Type","Travel Abroad",NA,499
 2020-04-17,"Transmission Type","Unknown",NA,4038
-2020-04-16,"Transmission Type","Community transmission",NA,2235
-2020-04-16,"Transmission Type","Possible community transmission",NA,2906
-2020-04-16,"Transmission Type","Local transmission",NA,4085
-2020-04-16,"Transmission Type","Possible local transmission",NA,182
-2020-04-16,"Transmission Type","Travel abroad",NA,156
-2020-04-16,"Transmission Type","Possible travel abroad",NA,340
+2020-04-16,"Transmission Type","Community Transmission",NA,5141
+2020-04-16,"Transmission Type","Local Transmission",NA,4267
+2020-04-16,"Transmission Type","Travel Abroad",NA,496
 2020-04-16,"Transmission Type","Unknown",NA,3842
-2020-04-15,"Transmission Type","Community transmission",NA,2184
-2020-04-15,"Transmission Type","Possible community transmission",NA,2681
-2020-04-15,"Transmission Type","Local transmission",NA,3768
-2020-04-15,"Transmission Type","Possible local transmission",NA,143
-2020-04-15,"Transmission Type","Travel abroad",NA,151
-2020-04-15,"Transmission Type","Possible travel abroad",NA,338
+2020-04-15,"Transmission Type","Community Transmission",NA,4865
+2020-04-15,"Transmission Type","Local Transmission",NA,3911
+2020-04-15,"Transmission Type","Travel Abroad",NA,489
 2020-04-15,"Transmission Type","Unknown",NA,3747
-2020-04-14,"Transmission Type","Community transmission",NA,2090
-2020-04-14,"Transmission Type","Possible community transmission",NA,2399
-2020-04-14,"Transmission Type","Local transmission",NA,3622
-2020-04-14,"Transmission Type","Possible local transmission",NA,134
-2020-04-14,"Transmission Type","Travel abroad",NA,144
-2020-04-14,"Transmission Type","Possible travel abroad",NA,336
+2020-04-14,"Transmission Type","Community Transmission",NA,4489
+2020-04-14,"Transmission Type","Local Transmission",NA,3756
+2020-04-14,"Transmission Type","Travel Abroad",NA,480
 2020-04-14,"Transmission Type","Unknown",NA,3700
-2020-04-13,"Transmission Type","Community transmission",NA,1961
-2020-04-13,"Transmission Type","Possible community transmission",NA,2127
-2020-04-13,"Transmission Type","Local transmission",NA,3222
-2020-04-13,"Transmission Type","Possible local transmission",NA,96
-2020-04-13,"Transmission Type","Travel abroad",NA,139
-2020-04-13,"Transmission Type","Possible travel abroad",NA,335
+2020-04-13,"Transmission Type","Community Transmission",NA,4088
+2020-04-13,"Transmission Type","Local Transmission",NA,3318
+2020-04-13,"Transmission Type","Travel Abroad",NA,474
 2020-04-13,"Transmission Type","Unknown",NA,3381
-2020-04-11,"Transmission Type","Community transmission",NA,1665
-2020-04-11,"Transmission Type","Possible community transmission",NA,2722
-2020-04-11,"Transmission Type","Local transmission",NA,1705
-2020-04-11,"Transmission Type","Possible local transmission",NA,87
-2020-04-11,"Transmission Type","Travel abroad",NA,331
-2020-04-11,"Transmission Type","Possible travel abroad",NA,117
+2020-04-11,"Transmission Type","Community Transmission",NA,4387
+2020-04-11,"Transmission Type","Local Transmission",NA,1792
+2020-04-11,"Transmission Type","Travel Abroad",NA,448
 2020-04-11,"Transmission Type","Unknown",NA,2857
-2020-04-10,"Transmission Type","Community transmission",NA,1610
-2020-04-10,"Transmission Type","Possible community transmission",NA,2398
-2020-04-10,"Transmission Type","Local transmission",NA,1509
-2020-04-10,"Transmission Type","Possible local transmission",NA,79
-2020-04-10,"Transmission Type","Travel abroad",NA,330
-2020-04-10,"Transmission Type","Possible travel abroad",NA,117
+2020-04-10,"Transmission Type","Community Transmission",NA,4008
+2020-04-10,"Transmission Type","Local Transmission",NA,1588
+2020-04-10,"Transmission Type","Travel Abroad",NA,447
 2020-04-10,"Transmission Type","Unknown",NA,2453
-2020-04-09,"Transmission Type","Community transmission",NA,1523
-2020-04-09,"Transmission Type","Possible community transmission",NA,2162
-2020-04-09,"Transmission Type","Local transmission",NA,1406
-2020-04-09,"Transmission Type","Possible local transmission",NA,64
-2020-04-09,"Transmission Type","Travel abroad",NA,330
-2020-04-09,"Transmission Type","Possible travel abroad",NA,116
+2020-04-09,"Transmission Type","Community Transmission",NA,3685
+2020-04-09,"Transmission Type","Local Transmission",NA,1470
+2020-04-09,"Transmission Type","Travel Abroad",NA,446
 2020-04-09,"Transmission Type","Unknown",NA,2183
-2020-04-08,"Transmission Type","Community transmission",NA,1452
-2020-04-08,"Transmission Type","Possible community transmission",NA,1987
-2020-04-08,"Transmission Type","Local transmission",NA,1258
-2020-04-08,"Transmission Type","Possible local transmission",NA,52
-2020-04-08,"Transmission Type","Travel abroad",NA,326
-2020-04-08,"Transmission Type","Possible travel abroad",NA,115
+2020-04-08,"Transmission Type","Community Transmission",NA,3439
+2020-04-08,"Transmission Type","Local Transmission",NA,1310
+2020-04-08,"Transmission Type","Travel Abroad",NA,441
 2020-04-08,"Transmission Type","Unknown",NA,1881
-2020-04-07,"Transmission Type","Community transmission",NA,1381
-2020-04-07,"Transmission Type","Possible community transmission",NA,1759
-2020-04-07,"Transmission Type","Local transmission",NA,1113
-2020-04-07,"Transmission Type","Possible local transmission",NA,37
-2020-04-07,"Transmission Type","Travel abroad",NA,324
-2020-04-07,"Transmission Type","Possible travel abroad",NA,110
+2020-04-07,"Transmission Type","Community Transmission",NA,3140
+2020-04-07,"Transmission Type","Local Transmission",NA,1150
+2020-04-07,"Transmission Type","Travel Abroad",NA,434
 2020-04-07,"Transmission Type","Unknown",NA,1720
-2020-04-06,"Transmission Type","Community transmission",NA,1243
-2020-04-06,"Transmission Type","Possible community transmission",NA,1672
-2020-04-06,"Transmission Type","Local transmission",NA,963
-2020-04-06,"Transmission Type","Possible local transmission",NA,33
-2020-04-06,"Transmission Type","Travel abroad",NA,323
-2020-04-06,"Transmission Type","Possible travel abroad",NA,101
+2020-04-06,"Transmission Type","Community Transmission",NA,2915
+2020-04-06,"Transmission Type","Local Transmission",NA,996
+2020-04-06,"Transmission Type","Travel Abroad",NA,424
 2020-04-06,"Transmission Type","Unknown",NA,1646
-2020-04-05,"Transmission Type","Community transmission",NA,1081
-2020-04-05,"Transmission Type","Possible community transmission",NA,1597
-2020-04-05,"Transmission Type","Local transmission",NA,856
-2020-04-05,"Transmission Type","Possible local transmission",NA,35
-2020-04-05,"Transmission Type","Travel abroad",NA,314
-2020-04-05,"Transmission Type","Possible travel abroad",NA,92
+2020-04-05,"Transmission Type","Community Transmission",NA,2678
+2020-04-05,"Transmission Type","Local Transmission",NA,891
+2020-04-05,"Transmission Type","Travel Abroad",NA,406
 2020-04-05,"Transmission Type","Unknown",NA,1618
-2020-04-04,"Transmission Type","Community transmission",NA,1028
-2020-04-04,"Transmission Type","Possible community transmission",NA,1222
-2020-04-04,"Transmission Type","Local transmission",NA,765
-2020-04-04,"Transmission Type","Possible local transmission",NA,31
-2020-04-04,"Transmission Type","Travel abroad",NA,321
-2020-04-04,"Transmission Type","Possible travel abroad",NA,89
+2020-04-04,"Transmission Type","Community Transmission",NA,2250
+2020-04-04,"Transmission Type","Local Transmission",NA,796
+2020-04-04,"Transmission Type","Travel Abroad",NA,410
 2020-04-04,"Transmission Type","Unknown",NA,1460
-2020-04-03,"Transmission Type","Community transmission",NA,981
-2020-04-03,"Transmission Type","Possible community transmission",NA,996
-2020-04-03,"Transmission Type","Local transmission",NA,720
-2020-04-03,"Transmission Type","Possible local transmission",NA,30
-2020-04-03,"Transmission Type","Travel abroad",NA,311
-2020-04-03,"Transmission Type","Possible travel abroad",NA,88
+2020-04-03,"Transmission Type","Community Transmission",NA,1977
+2020-04-03,"Transmission Type","Local Transmission",NA,750
+2020-04-03,"Transmission Type","Travel Abroad",NA,399
 2020-04-03,"Transmission Type","Unknown",NA,1317
-2020-04-02,"Transmission Type","Community transmission",NA,947
-2020-04-02,"Transmission Type","Possible community transmission",NA,793
-2020-04-02,"Transmission Type","Local transmission",NA,657
-2020-04-02,"Transmission Type","Possible local transmission",NA,29
-2020-04-02,"Transmission Type","Travel abroad",NA,311
-2020-04-02,"Transmission Type","Possible travel abroad",NA,84
+2020-04-02,"Transmission Type","Community Transmission",NA,1740
+2020-04-02,"Transmission Type","Local Transmission",NA,686
+2020-04-02,"Transmission Type","Travel Abroad",NA,395
 2020-04-02,"Transmission Type","Unknown",NA,1193
-2020-04-01,"Transmission Type","Community transmission",NA,865
-2020-04-01,"Transmission Type","Possible community transmission",NA,668
-2020-04-01,"Transmission Type","Local transmission",NA,561
-2020-04-01,"Transmission Type","Possible local transmission",NA,20
-2020-04-01,"Transmission Type","Travel abroad",NA,311
-2020-04-01,"Transmission Type","Possible travel abroad",NA,79
+2020-04-01,"Transmission Type","Community Transmission",NA,1533
+2020-04-01,"Transmission Type","Local Transmission",NA,581
+2020-04-01,"Transmission Type","Travel Abroad",NA,390
 2020-04-01,"Transmission Type","Unknown",NA,1151
-2020-03-31,"Transmission Type","Community transmission",NA,791
-2020-03-31,"Transmission Type","Possible community transmission",NA,516
-2020-03-31,"Transmission Type","Local transmission",NA,497
-2020-03-31,"Transmission Type","Possible local transmission",NA,17
-2020-03-31,"Transmission Type","Travel abroad",NA,307
-2020-03-31,"Transmission Type","Possible travel abroad",NA,77
+2020-03-31,"Transmission Type","Community Transmission",NA,1307
+2020-03-31,"Transmission Type","Local Transmission",NA,514
+2020-03-31,"Transmission Type","Travel Abroad",NA,384
 2020-03-31,"Transmission Type","Unknown",NA,1077
-2020-03-30,"Transmission Type","Community transmission",NA,732
-2020-03-30,"Transmission Type","Possible community transmission",NA,519
-2020-03-30,"Transmission Type","Local transmission",NA,414
-2020-03-30,"Transmission Type","Possible local transmission",NA,27
-2020-03-30,"Transmission Type","Travel abroad",NA,303
-2020-03-30,"Transmission Type","Possible travel abroad",NA,74
+2020-03-30,"Transmission Type","Community Transmission",NA,1251
+2020-03-30,"Transmission Type","Local Transmission",NA,441
+2020-03-30,"Transmission Type","Travel Abroad",NA,377
 2020-03-30,"Transmission Type","Unknown",NA,921
 2020-05-23,"Age Group","<5","Total",146
 2020-05-23,"Age Group","<5","Hospitalised",19
