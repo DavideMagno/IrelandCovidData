@@ -5,11 +5,12 @@
 2020-06-19,"Sex","Male",NA,10845
 2020-06-19,"Sex","Female",NA,14498
 2020-06-19,"Sex","Unknown Sex",NA,30
-2020-05-30,"Sex","Male",NA,10835
-2020-05-30,"Sex","Female",NA,14487
-2020-05-30,"Sex","Unknown Sex",NA,30
-2020-05-30,"Sex","Male",NA,10831
-2020-05-30,"Sex","Female",NA,14494
+2020-06-18,"Sex","Male",NA,10835
+2020-06-18,"Sex","Female",NA,14487
+2020-06-18,"Sex","Unknown Sex",NA,30
+2020-06-17,"Sex","Male",NA,10831
+2020-06-17,"Sex","Female",NA,14494
+2020-06-17,"Sex","Unknown Sex",NA,30
 2020-06-16,"Sex","Male",NA,10822
 2020-06-16,"Sex","Female",NA,14487
 2020-06-16,"Sex","Unknown Sex",NA,30
@@ -805,14 +806,14 @@
 2020-06-19,"Transmission Type","Local Transmission",NA,15454
 2020-06-19,"Transmission Type","Travel Abroad",NA,589
 2020-06-19,"Transmission Type","Unknown",NA,15
-2020-05-30,"Transmission Type","Community Transmission",NA,9368
-2020-05-30,"Transmission Type","Local Transmission",NA,15385
-2020-05-30,"Transmission Type","Travel Abroad",NA,585
-2020-05-30,"Transmission Type","Unknown",NA,14
-2020-05-30,"Transmission Type","Community Transmission",NA,9384
-2020-05-30,"Transmission Type","Local Transmission",NA,15371
-2020-05-30,"Transmission Type","Travel Abroad",NA,583
-2020-05-30,"Transmission Type","Unknown",NA,17
+2020-06-18,"Transmission Type","Community Transmission",NA,9368
+2020-06-18,"Transmission Type","Local Transmission",NA,15385
+2020-06-18,"Transmission Type","Travel Abroad",NA,585
+2020-06-18,"Transmission Type","Unknown",NA,14
+2020-06-17,"Transmission Type","Community Transmission",NA,9384
+2020-06-17,"Transmission Type","Local Transmission",NA,15371
+2020-06-17,"Transmission Type","Travel Abroad",NA,583
+2020-06-17,"Transmission Type","Unknown",NA,17
 2020-06-16,"Transmission Type","Community Transmission",NA,9396
 2020-06-16,"Transmission Type","Local Transmission",NA,15345
 2020-06-16,"Transmission Type","Travel Abroad",NA,583
@@ -1253,69 +1254,94 @@
 2020-06-19,"Age Group","75-84","Died",501
 2020-06-19,"Age Group","85+","Died",639
 2020-06-19,"Age Group","Unknown","Died",0
-2020-05-30,"Age Group","<5","Total",170
-2020-05-30,"Age Group","5-14","Total",326
-2020-05-30,"Age Group","15-24","Total",1878
-2020-05-30,"Age Group","25-34","Total",4249
-2020-05-30,"Age Group","35-44","Total",4464
-2020-05-30,"Age Group","45-54","Total",4557
-2020-05-30,"Age Group","55-64","Total",3240
-2020-05-30,"Age Group","65-74","Total",1799
-2020-05-30,"Age Group","75-84","Total",2286
-2020-05-30,"Age Group","85+","Total",2361
-2020-05-30,"Age Group","Unknown","Total",22
-2020-05-30,"Age Group","<5","Hospitalised",21
-2020-05-30,"Age Group","5-14","Hospitalised",16
-2020-05-30,"Age Group","15-24","Hospitalised",70
-2020-05-30,"Age Group","25-34","Hospitalised",197
-2020-05-30,"Age Group","35-44","Hospitalised",263
-2020-05-30,"Age Group","45-54","Hospitalised",443
-2020-05-30,"Age Group","55-64","Hospitalised",488
-2020-05-30,"Age Group","65-74","Hospitalised",576
-2020-05-30,"Age Group","75-84","Hospitalised",735
-2020-05-30,"Age Group","85+","Hospitalised",469
-2020-05-30,"Age Group","Unknown","Hospitalised",2
-2020-05-30,"Age Group","<5","In ICU",0
-2020-05-30,"Age Group","5-14","In ICU",2
-2020-05-30,"Age Group","15-24","In ICU",5
-2020-05-30,"Age Group","25-34","In ICU",15
-2020-05-30,"Age Group","35-44","In ICU",34
-2020-05-30,"Age Group","45-54","In ICU",84
-2020-05-30,"Age Group","55-64","In ICU",124
-2020-05-30,"Age Group","65-74","In ICU",106
-2020-05-30,"Age Group","75-84","In ICU",43
-2020-05-30,"Age Group","85+","In ICU",6
-2020-05-30,"Age Group","Unknown","In ICU",0
-2020-05-30,"Age Group","<5","Died",0
-2020-05-30,"Age Group","5-14","Died",0
-2020-05-30,"Age Group","15-24","Died",2
-2020-05-30,"Age Group","25-34","Died",5
-2020-05-30,"Age Group","35-44","Died",11
-2020-05-30,"Age Group","45-54","Died",23
-2020-05-30,"Age Group","55-64","Died",63
-2020-05-30,"Age Group","65-74","Died",213
-2020-05-30,"Age Group","75-84","Died",501
-2020-05-30,"Age Group","85+","Died",639
-2020-05-30,"Age Group","Unknown","Died",0
-2020-05-30,"Age Group","5-14","Total",325
-2020-05-30,"Age Group","15-24","Total",1877
-2020-05-30,"Age Group","25-34","Total",4248
-2020-05-30,"Age Group","35-44","Total",4462
-2020-05-30,"Age Group","45-54","Total",4561
-2020-05-30,"Age Group","65-74","Total",1801
-2020-05-30,"Age Group","75-84","Total",2289
-2020-05-30,"Age Group","85+","Total",2359
-2020-05-30,"Age Group","Unknown","Total",23
-2020-05-30,"Age Group","25-34","Hospitalised",200
-2020-05-30,"Age Group","35-44","Hospitalised",262
-2020-05-30,"Age Group","45-54","Hospitalised",445
-2020-05-30,"Age Group","65-74","Hospitalised",579
-2020-05-30,"Age Group","85+","Hospitalised",468
-2020-05-30,"Age Group","55-64","In ICU",123
-2020-05-30,"Age Group","65-74","In ICU",105
-2020-05-30,"Age Group","75-84","In ICU",42
-2020-05-30,"Age Group","65-74","Died",212
-2020-05-30,"Age Group","85+","Died",638
+2020-06-18,"Age Group","<5","Total",170
+2020-06-18,"Age Group","5-14","Total",326
+2020-06-18,"Age Group","15-24","Total",1878
+2020-06-18,"Age Group","25-34","Total",4249
+2020-06-18,"Age Group","35-44","Total",4464
+2020-06-18,"Age Group","45-54","Total",4557
+2020-06-18,"Age Group","55-64","Total",3240
+2020-06-18,"Age Group","65-74","Total",1799
+2020-06-18,"Age Group","75-84","Total",2286
+2020-06-18,"Age Group","85+","Total",2361
+2020-06-18,"Age Group","Unknown","Total",22
+2020-06-18,"Age Group","<5","Hospitalised",21
+2020-06-18,"Age Group","5-14","Hospitalised",16
+2020-06-18,"Age Group","15-24","Hospitalised",70
+2020-06-18,"Age Group","25-34","Hospitalised",197
+2020-06-18,"Age Group","35-44","Hospitalised",263
+2020-06-18,"Age Group","45-54","Hospitalised",443
+2020-06-18,"Age Group","55-64","Hospitalised",488
+2020-06-18,"Age Group","65-74","Hospitalised",576
+2020-06-18,"Age Group","75-84","Hospitalised",735
+2020-06-18,"Age Group","85+","Hospitalised",469
+2020-06-18,"Age Group","Unknown","Hospitalised",2
+2020-06-18,"Age Group","<5","In ICU",0
+2020-06-18,"Age Group","5-14","In ICU",2
+2020-06-18,"Age Group","15-24","In ICU",5
+2020-06-18,"Age Group","25-34","In ICU",15
+2020-06-18,"Age Group","35-44","In ICU",34
+2020-06-18,"Age Group","45-54","In ICU",84
+2020-06-18,"Age Group","55-64","In ICU",124
+2020-06-18,"Age Group","65-74","In ICU",106
+2020-06-18,"Age Group","75-84","In ICU",43
+2020-06-18,"Age Group","85+","In ICU",6
+2020-06-18,"Age Group","Unknown","In ICU",0
+2020-06-18,"Age Group","<5","Died",0
+2020-06-18,"Age Group","5-14","Died",0
+2020-06-18,"Age Group","15-24","Died",2
+2020-06-18,"Age Group","25-34","Died",5
+2020-06-18,"Age Group","35-44","Died",11
+2020-06-18,"Age Group","45-54","Died",23
+2020-06-18,"Age Group","55-64","Died",63
+2020-06-18,"Age Group","65-74","Died",213
+2020-06-18,"Age Group","75-84","Died",501
+2020-06-18,"Age Group","85+","Died",639
+2020-06-18,"Age Group","Unknown","Died",0
+2020-06-17,"Age Group","<5","Total",170
+2020-06-17,"Age Group","5-14","Total",325
+2020-06-17,"Age Group","15-24","Total",1877
+2020-06-17,"Age Group","25-34","Total",4248
+2020-06-17,"Age Group","35-44","Total",4462
+2020-06-17,"Age Group","45-54","Total",4561
+2020-06-17,"Age Group","55-64","Total",3240
+2020-06-17,"Age Group","65-74","Total",1801
+2020-06-17,"Age Group","75-84","Total",2289
+2020-06-17,"Age Group","85+","Total",2359
+2020-06-17,"Age Group","Unknown","Total",23
+2020-06-17,"Age Group","<5","Hospitalised",21
+2020-06-17,"Age Group","5-14","Hospitalised",16
+2020-06-17,"Age Group","15-24","Hospitalised",70
+2020-06-17,"Age Group","25-34","Hospitalised",200
+2020-06-17,"Age Group","35-44","Hospitalised",262
+2020-06-17,"Age Group","45-54","Hospitalised",445
+2020-06-17,"Age Group","55-64","Hospitalised",488
+2020-06-17,"Age Group","65-74","Hospitalised",579
+2020-06-17,"Age Group","75-84","Hospitalised",735
+2020-06-17,"Age Group","85+","Hospitalised",468
+2020-06-17,"Age Group","Unknown","Hospitalised",2
+2020-06-17,"Age Group","<5","In ICU",0
+2020-06-17,"Age Group","5-14","In ICU",2
+2020-06-17,"Age Group","15-24","In ICU",5
+2020-06-17,"Age Group","25-34","In ICU",15
+2020-06-17,"Age Group","35-44","In ICU",34
+2020-06-17,"Age Group","45-54","In ICU",84
+2020-06-17,"Age Group","55-64","In ICU",123
+2020-06-17,"Age Group","65-74","In ICU",105
+2020-06-17,"Age Group","75-84","In ICU",42
+2020-06-17,"Age Group","85+","In ICU",6
+2020-06-17,"Age Group","Unknown","In ICU",0
+2020-06-17,"Age Group","<5","Died",0
+2020-06-17,"Age Group","5-14","Died",0
+2020-06-17,"Age Group","15-24","Died",2
+2020-06-17,"Age Group","25-34","Died",5
+2020-06-17,"Age Group","35-44","Died",11
+2020-06-17,"Age Group","45-54","Died",23
+2020-06-17,"Age Group","55-64","Died",63
+2020-06-17,"Age Group","65-74","Died",212
+2020-06-17,"Age Group","75-84","Died",501
+2020-06-17,"Age Group","85+","Died",638
+2020-06-17,"Age Group","Unknown","Died",0
 2020-06-16,"Age Group","<5","Total",170
 2020-06-16,"Age Group","5-14","Total",324
 2020-06-16,"Age Group","15-24","Total",1875
@@ -2074,6 +2100,7 @@
 2020-05-30,"Age Group","65-74","Total",1780
 2020-05-30,"Age Group","75-84","Total",2263
 2020-05-30,"Age Group","85+","Total",2337
+2020-05-30,"Age Group","Unknown","Total",23
 2020-05-30,"Age Group","<5","Hospitalised",19
 2020-05-30,"Age Group","5-14","Hospitalised",17
 2020-05-30,"Age Group","15-24","Hospitalised",72
@@ -2085,14 +2112,28 @@
 2020-05-30,"Age Group","75-84","Hospitalised",748
 2020-05-30,"Age Group","85+","Hospitalised",477
 2020-05-30,"Age Group","Unknown","Hospitalised",3
+2020-05-30,"Age Group","<5","In ICU",0
+2020-05-30,"Age Group","5-14","In ICU",2
+2020-05-30,"Age Group","15-24","In ICU",5
+2020-05-30,"Age Group","25-34","In ICU",15
+2020-05-30,"Age Group","35-44","In ICU",34
 2020-05-30,"Age Group","45-54","In ICU",83
 2020-05-30,"Age Group","55-64","In ICU",119
+2020-05-30,"Age Group","65-74","In ICU",105
 2020-05-30,"Age Group","75-84","In ICU",39
+2020-05-30,"Age Group","85+","In ICU",6
+2020-05-30,"Age Group","Unknown","In ICU",0
+2020-05-30,"Age Group","<5","Died",0
+2020-05-30,"Age Group","5-14","Died",0
+2020-05-30,"Age Group","15-24","Died",2
+2020-05-30,"Age Group","25-34","Died",5
 2020-05-30,"Age Group","35-44","Died",10
+2020-05-30,"Age Group","45-54","Died",23
 2020-05-30,"Age Group","55-64","Died",59
 2020-05-30,"Age Group","65-74","Died",200
 2020-05-30,"Age Group","75-84","Died",476
 2020-05-30,"Age Group","85+","Died",615
+2020-05-30,"Age Group","Unknown","Died",0
 2020-03-29,"Age Group","<5","Total",17
 2020-03-29,"Age Group","<5","Hospitalised",4
 2020-03-29,"Age Group","<5","In ICU",0
