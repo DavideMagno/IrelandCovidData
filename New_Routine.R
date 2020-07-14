@@ -130,8 +130,8 @@ ExtractTransmissionData <- function(document) {
 # Raw Data urls -----------------------------------------------------------
 
 url.county <- paste0("http://opendata-geohive.hub.arcgis.com/datasets/d",
-                            "9be85b30d7748b5b7c09450b8aede63_0.csv?outSR={%22l",
-                            "atestWkid%22:3857,%22wkid%22:102100}")
+                     "9be85b30d7748b5b7c09450b8aede63_0.csv?outSR={%22l",
+                     "atestWkid%22:3857,%22wkid%22:102100}")
 
 url.ireland <- paste0("http://opendata-geohive.hub.arcgis.com/datasets/d8eb52d5",
                       "6273413b84b0187a4e9117be_0.csv?outSR={%22latestWkid%22:",
@@ -160,11 +160,6 @@ last.date.website <- paste0("https://www.hpsc.ie/a-z/respiratory/coronavirus/",
   {.[1]} %>% 
   ReadPDFs
 
-# if (last.date.github == purrr::pluck(last.date.website, "date")) {
-#   message(paste(Sys.time(),"No need to update data"))
-# } else {
-
-
 # Data from PDF Report -------------------------------------------------------------
 
 report.total <- ExtractTotalData(last.date.website) 
@@ -176,67 +171,76 @@ report.county <- ExtractRegionalData(last.date.website)
 
 
 # Extract Previous Information ---------------------------------------------
-browser()
+
 github.total <- readr::read_csv(url(url.report.total)) %>% 
   dplyr::filter(stringr::str_detect(Key, "I\\w+")) %>% 
   dplyr::filter(!stringr::str_detect(Key, "ICU")) %>% 
-  dplyr::filter(Date != as.Date("2020-07-08"))
+  dplyr::arrange(Date)
 
 github.characteristics <- readr::read_csv(url(url.report.characteristics),
                                           col_types = readr::cols(
                                             `Key 3` = readr::col_character()
                                           )) %>% 
-  na.omit %>% 
-  dplyr::filter(Date != as.Date("2020-07-08"))
+  dplyr::filter(!stringr::str_detect(`Key 1`, "Sex")) %>% 
+  dplyr::filter(!is.na(Date)) %>% 
+  dplyr::arrange(Date)
 
-ireland.data <- tail(readr::read_csv(url(url.ireland))) %>% 
+ireland.data <- readr::read_csv(url(url.ireland)) %>% 
   dplyr::mutate_if(is.numeric, ~replace(., is.na(.), 0)) %>% 
   dplyr::mutate(Date = anytime::anydate(Date) - lubridate::days(2))
 
-county <- readr::read_csv(url(url.county)) %>% 
-  dplyr::mutate_if(is.numeric, ~replace(., is.na(.), 0)) %>% 
-  dplyr::mutate(Date = anytime::anydate(TimeStamp) - lubridate::days(2)) %>% 
+county <- readr::read_csv(url(url.county)) %>%
+  dplyr::mutate_if(is.numeric, ~replace(., is.na(.), 0)) %>%
+  dplyr::mutate(Date = anytime::anydate(TimeStamp) - lubridate::days(2)) %>%
   dplyr::select(Date, County = CountyName, Value = ConfirmedCovidCases)
-  
 
 # Manca "Imported" and "In Clusters"
 total <- ireland.data  %>% 
   dplyr::select(Date, Total = TotalConfirmedCovidCases,
                 Hospitalised = HospitalisedCovidCases,
                 `In ICU` = RequiringICUCovidCases,
-                Dead = ConfirmedCovidDeaths,
+                Dead = TotalCovidDeaths,
                 Clusters = ClustersNotified,
                 Healthcare = HealthcareWorkersCovidCases,
                 `Median Age` = Median_Age) %>% 
   tidyr::pivot_longer(-Date, names_to = "Key", values_to = "Value") %>% 
   dplyr::bind_rows(github.total) %>% 
   dplyr::bind_rows(report.total) %>% 
+  dplyr::distinct(.keep_all = TRUE) %>% 
   dplyr::arrange(Date)
 
-granular.data <- ireland.data  %>% 
-  dplyr::select(Date, Male, Female, `Unknown Sex` = Unknown) %>% 
-  tidyr::pivot_longer(-Date, names_to = "Key 2", values_to = "Value") %>% 
-  dplyr::mutate(`Key 1` = "Sex", 
-                `Key 3` = NA) %>% 
-  dplyr::select(Date, `Key 1`, `Key 2`, `Key 3`, Value) %>% 
-  dplyr::bind_rows(github.characteristics) %>% 
-  dplyr::bind_rows(report.char)%>% 
+granular.data <- ireland.data  %>%
+  dplyr::select(Date, Male, Female, `Unknown Sex` = Unknown) %>%
+  tidyr::pivot_longer(-Date, names_to = "Key 2", values_to = "Value") %>%
+  dplyr::mutate(`Key 1` = "Sex",
+                `Key 3` = NA) %>%
+  dplyr::select(Date, `Key 1`, `Key 2`, `Key 3`, Value) %>%
+  dplyr::bind_rows(github.characteristics) %>%
+  dplyr::bind_rows(report.char) %>%
+  dplyr::distinct(.keep_all = TRUE) %>%
   dplyr::arrange(Date)
 
 # Save Files --------------------------------------------------------------
 
-write.csv(county, "Covid19_Data_By_County.csv", 
-          row.names = FALSE)
-write.csv(total, "Covid19_Data_Total_Ireland.csv", 
-          row.names = FALSE)
-write.csv(granular.data,  
-          "Covid19_Data_Positive_Characteristics.csv",
-          row.names = FALSE)
-message(paste(Sys.time(),"Data Updated"))
-browser()
-system("git add Covid19_Data_By_County.csv")
-system("git add Covid19_Data_Total_Ireland.csv")
-system("git add Covid19_Data_Positive_Characteristics.csv")
+if (lubridate::month(dplyr::last(county$Date)) == 
+    lubridate::month(dplyr::last(total$Date))) {
+  write.csv(county, "Covid19_Data_By_County.csv",
+            row.names = FALSE)
+  system("git add Covid19_Data_By_County.csv")
+}
+
+if (dplyr::last(total$Date) > dplyr::last(github.total$Date)) {
+  write.csv(total, "Covid19_Data_Total_Ireland.csv",
+            row.names = FALSE)
+  system("git add Covid19_Data_Total_Ireland.csv")
+}
+
+if (dplyr::last(total$Date) > dplyr::last(github.total$Date)) {
+  write.csv(granular.data,
+            "Covid19_Data_Positive_Characteristics.csv",
+            row.names = FALSE)
+  system("git add Covid19_Data_Positive_Characteristics.csv")
+}
+message(paste(Sys.time(),"Data Updated"))  
 system(paste("git commit -m 'Data as at ", Sys.Date(),"'"))
 system("git push origin master")
-# }
