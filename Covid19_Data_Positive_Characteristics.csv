@@ -9740,3 +9740,51 @@
 2020-09-26,"Sex","Male",NA,15693
 2020-09-26,"Sex","Female",NA,19265
 2020-09-26,"Sex","Unknown Sex",NA,29
+2020-09-26,"Age Group","<5","Total",500
+2020-09-26,"Age Group","5-14","Total",1097
+2020-09-26,"Age Group","15-24","Total",4029
+2020-09-26,"Age Group","25-34","Total",6159
+2020-09-26,"Age Group","35-44","Total",5958
+2020-09-26,"Age Group","45-54","Total",5855
+2020-09-26,"Age Group","55-64","Total",4078
+2020-09-26,"Age Group","65-74","Total",2286
+2020-09-26,"Age Group","75-84","Total",2517
+2020-09-26,"Age Group","85+","Total",2482
+2020-09-26,"Age Group","Unknown","Total",26
+2020-09-26,"Age Group","<5","Hospitalised",29
+2020-09-26,"Age Group","5-14","Hospitalised",20
+2020-09-26,"Age Group","15-24","Hospitalised",92
+2020-09-26,"Age Group","25-34","Hospitalised",217
+2020-09-26,"Age Group","35-44","Hospitalised",290
+2020-09-26,"Age Group","45-54","Hospitalised",482
+2020-09-26,"Age Group","55-64","Hospitalised",536
+2020-09-26,"Age Group","65-74","Hospitalised",639
+2020-09-26,"Age Group","75-84","Hospitalised",783
+2020-09-26,"Age Group","85+","Hospitalised",494
+2020-09-26,"Age Group","Unknown","Hospitalised",1
+2020-09-26,"Age Group","<5","In ICU",1
+2020-09-26,"Age Group","5-14","In ICU",2
+2020-09-26,"Age Group","15-24","In ICU",5
+2020-09-26,"Age Group","25-34","In ICU",17
+2020-09-26,"Age Group","35-44","In ICU",42
+2020-09-26,"Age Group","45-54","In ICU",97
+2020-09-26,"Age Group","55-64","In ICU",136
+2020-09-26,"Age Group","65-74","In ICU",115
+2020-09-26,"Age Group","75-84","In ICU",48
+2020-09-26,"Age Group","85+","In ICU",6
+2020-09-26,"Age Group","Unknown","In ICU",0
+2020-09-26,"Age Group","<5","Died",0
+2020-09-26,"Age Group","5-14","Died",0
+2020-09-26,"Age Group","15-24","Died",1
+2020-09-26,"Age Group","25-34","Died",6
+2020-09-26,"Age Group","35-44","Died",12
+2020-09-26,"Age Group","45-54","Died",28
+2020-09-26,"Age Group","55-64","Died",72
+2020-09-26,"Age Group","65-74","Died",230
+2020-09-26,"Age Group","75-84","Died",529
+2020-09-26,"Age Group","85+","Died",667
+2020-09-26,"Age Group","Unknown","Died",0
+2020-09-26,"Transmission Type","Community Transmission",NA,10128
+2020-09-26,"Transmission Type","Local Transmission",NA,23526
+2020-09-26,"Transmission Type","Travel Abroad",NA,816
+2020-09-26,"Transmission Type","Unknown",NA,517
