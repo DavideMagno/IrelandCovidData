@@ -11207,3 +11207,51 @@
 2020-11-22,"Sex","Male",NA,33242
 2020-11-22,"Sex","Female",NA,37431
 2020-11-22,"Sex","Unknown Sex",NA,31
+2020-11-22,"Age Group","<5","Total",1800
+2020-11-22,"Age Group","5-14","Total",4384
+2020-11-22,"Age Group","15-24","Total",12359
+2020-11-22,"Age Group","25-34","Total",11915
+2020-11-22,"Age Group","35-44","Total",11088
+2020-11-22,"Age Group","45-54","Total",10717
+2020-11-22,"Age Group","55-64","Total",7607
+2020-11-22,"Age Group","65-74","Total",4082
+2020-11-22,"Age Group","75-84","Total",3574
+2020-11-22,"Age Group","85+","Total",3145
+2020-11-22,"Age Group","Unknown","Total",33
+2020-11-22,"Age Group","<5","Hospitalised",55
+2020-11-22,"Age Group","5-14","Hospitalised",50
+2020-11-22,"Age Group","15-24","Hospitalised",164
+2020-11-22,"Age Group","25-34","Hospitalised",314
+2020-11-22,"Age Group","35-44","Hospitalised",407
+2020-11-22,"Age Group","45-54","Hospitalised",641
+2020-11-22,"Age Group","55-64","Hospitalised",732
+2020-11-22,"Age Group","65-74","Hospitalised",905
+2020-11-22,"Age Group","75-84","Hospitalised",1118
+2020-11-22,"Age Group","85+","Hospitalised",681
+2020-11-22,"Age Group","Unknown","Hospitalised",2
+2020-11-22,"Age Group","<5","In ICU",1
+2020-11-22,"Age Group","5-14","In ICU",4
+2020-11-22,"Age Group","15-24","In ICU",8
+2020-11-22,"Age Group","25-34","In ICU",17
+2020-11-22,"Age Group","35-44","In ICU",49
+2020-11-22,"Age Group","45-54","In ICU",109
+2020-11-22,"Age Group","55-64","In ICU",159
+2020-11-22,"Age Group","65-74","In ICU",175
+2020-11-22,"Age Group","75-84","In ICU",74
+2020-11-22,"Age Group","85+","In ICU",8
+2020-11-22,"Age Group","Unknown","In ICU",0
+2020-11-22,"Age Group","<5","Died",0
+2020-11-22,"Age Group","5-14","Died",0
+2020-11-22,"Age Group","15-24","Died",1
+2020-11-22,"Age Group","25-34","Died",6
+2020-11-22,"Age Group","35-44","Died",12
+2020-11-22,"Age Group","45-54","Died",30
+2020-11-22,"Age Group","55-64","Died",82
+2020-11-22,"Age Group","65-74","Died",272
+2020-11-22,"Age Group","75-84","Died",606
+2020-11-22,"Age Group","85+","Died",759
+2020-11-22,"Age Group","Unknown","Died",0
+2020-11-22,"Transmission Type","Community Transmission",NA,21805
+2020-11-22,"Transmission Type","Local Transmission",NA,47030
+2020-11-22,"Transmission Type","Travel Abroad",NA,979
+2020-11-22,"Transmission Type","Unknown",NA,890
