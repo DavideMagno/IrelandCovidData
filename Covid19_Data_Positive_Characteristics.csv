@@ -11258,3 +11258,66 @@
 2020-11-23,"Sex","Male",NA,33350
 2020-11-23,"Sex","Female",NA,37535
 2020-11-23,"Sex","Unknown Sex",NA,33
+2020-11-24,"Sex","Male",NA,33463
+2020-11-24,"Sex","Female",NA,37663
+2020-11-24,"Sex","Unknown Sex",NA,33
+2020-11-25,"Sex","Male",NA,33625
+2020-11-25,"Sex","Female",NA,37833
+2020-11-25,"Sex","Unknown Sex",NA,35
+2020-11-26,"Sex","Male",NA,33728
+2020-11-26,"Sex","Female",NA,37940
+2020-11-26,"Sex","Unknown Sex",NA,31
+2020-11-27,"Sex","Male",NA,33865
+2020-11-27,"Sex","Female",NA,38044
+2020-11-27,"Sex","Unknown Sex",NA,33
+2020-11-28,"Sex","Male",NA,34021
+2020-11-28,"Sex","Female",NA,38184
+2020-11-28,"Sex","Unknown Sex",NA,33
+2020-11-28,"Age Group","<5","Total",1865
+2020-11-28,"Age Group","5-14","Total",4560
+2020-11-28,"Age Group","15-24","Total",12646
+2020-11-28,"Age Group","25-34","Total",12142
+2020-11-28,"Age Group","35-44","Total",11332
+2020-11-28,"Age Group","45-54","Total",10924
+2020-11-28,"Age Group","55-64","Total",7737
+2020-11-28,"Age Group","65-74","Total",4155
+2020-11-28,"Age Group","75-84","Total",3652
+2020-11-28,"Age Group","85+","Total",3191
+2020-11-28,"Age Group","Unknown","Total",34
+2020-11-28,"Age Group","<5","Hospitalised",57
+2020-11-28,"Age Group","5-14","Hospitalised",50
+2020-11-28,"Age Group","15-24","Hospitalised",170
+2020-11-28,"Age Group","25-34","Hospitalised",321
+2020-11-28,"Age Group","35-44","Hospitalised",417
+2020-11-28,"Age Group","45-54","Hospitalised",659
+2020-11-28,"Age Group","55-64","Hospitalised",748
+2020-11-28,"Age Group","65-74","Hospitalised",932
+2020-11-28,"Age Group","75-84","Hospitalised",1154
+2020-11-28,"Age Group","85+","Hospitalised",702
+2020-11-28,"Age Group","Unknown","Hospitalised",2
+2020-11-28,"Age Group","<5","In ICU",2
+2020-11-28,"Age Group","5-14","In ICU",4
+2020-11-28,"Age Group","15-24","In ICU",8
+2020-11-28,"Age Group","25-34","In ICU",17
+2020-11-28,"Age Group","35-44","In ICU",52
+2020-11-28,"Age Group","45-54","In ICU",110
+2020-11-28,"Age Group","55-64","In ICU",163
+2020-11-28,"Age Group","65-74","In ICU",178
+2020-11-28,"Age Group","75-84","In ICU",77
+2020-11-28,"Age Group","85+","In ICU",8
+2020-11-28,"Age Group","Unknown","In ICU",0
+2020-11-28,"Age Group","<5","Died",0
+2020-11-28,"Age Group","5-14","Died",0
+2020-11-28,"Age Group","15-24","Died",1
+2020-11-28,"Age Group","25-34","Died",6
+2020-11-28,"Age Group","35-44","Died",12
+2020-11-28,"Age Group","45-54","Died",30
+2020-11-28,"Age Group","55-64","Died",84
+2020-11-28,"Age Group","65-74","Died",277
+2020-11-28,"Age Group","75-84","Died",618
+2020-11-28,"Age Group","85+","Died",767
+2020-11-28,"Age Group","Unknown","Died",0
+2020-11-28,"Transmission Type","Community Transmission",NA,22060
+2020-11-28,"Transmission Type","Local Transmission",NA,48381
+2020-11-28,"Transmission Type","Travel Abroad",NA,990
+2020-11-28,"Transmission Type","Unknown",NA,807
