@@ -11324,3 +11324,57 @@
 2020-11-29,"Sex","Male",NA,34167
 2020-11-29,"Sex","Female",NA,38328
 2020-11-29,"Sex","Unknown Sex",NA,34
+2020-11-30,"Sex","Male",NA,34298
+2020-11-30,"Sex","Female",NA,38461
+2020-11-30,"Sex","Unknown Sex",NA,37
+2020-12-01,"Sex","Male",NA,34432
+2020-12-01,"Sex","Female",NA,38582
+2020-12-01,"Sex","Unknown Sex",NA,31
+2020-12-01,"Age Group","<5","Total",1898
+2020-12-01,"Age Group","5-14","Total",4650
+2020-12-01,"Age Group","15-24","Total",12792
+2020-12-01,"Age Group","25-34","Total",12260
+2020-12-01,"Age Group","35-44","Total",11476
+2020-12-01,"Age Group","45-54","Total",11039
+2020-12-01,"Age Group","55-64","Total",7802
+2020-12-01,"Age Group","65-74","Total",4194
+2020-12-01,"Age Group","75-84","Total",3692
+2020-12-01,"Age Group","85+","Total",3214
+2020-12-01,"Age Group","Unknown","Total",28
+2020-12-01,"Age Group","<5","Hospitalised",56
+2020-12-01,"Age Group","5-14","Hospitalised",49
+2020-12-01,"Age Group","15-24","Hospitalised",169
+2020-12-01,"Age Group","25-34","Hospitalised",326
+2020-12-01,"Age Group","35-44","Hospitalised",420
+2020-12-01,"Age Group","45-54","Hospitalised",665
+2020-12-01,"Age Group","55-64","Hospitalised",753
+2020-12-01,"Age Group","65-74","Hospitalised",940
+2020-12-01,"Age Group","75-84","Hospitalised",1165
+2020-12-01,"Age Group","85+","Hospitalised",710
+2020-12-01,"Age Group","Unknown","Hospitalised",2
+2020-12-01,"Age Group","<5","In ICU",2
+2020-12-01,"Age Group","5-14","In ICU",4
+2020-12-01,"Age Group","15-24","In ICU",8
+2020-12-01,"Age Group","25-34","In ICU",17
+2020-12-01,"Age Group","35-44","In ICU",52
+2020-12-01,"Age Group","45-54","In ICU",111
+2020-12-01,"Age Group","55-64","In ICU",166
+2020-12-01,"Age Group","65-74","In ICU",179
+2020-12-01,"Age Group","75-84","In ICU",77
+2020-12-01,"Age Group","85+","In ICU",8
+2020-12-01,"Age Group","Unknown","In ICU",0
+2020-12-01,"Age Group","<5","Died",0
+2020-12-01,"Age Group","5-14","Died",0
+2020-12-01,"Age Group","15-24","Died",1
+2020-12-01,"Age Group","25-34","Died",6
+2020-12-01,"Age Group","35-44","Died",11
+2020-12-01,"Age Group","45-54","Died",31
+2020-12-01,"Age Group","55-64","Died",83
+2020-12-01,"Age Group","65-74","Died",281
+2020-12-01,"Age Group","75-84","Died",632
+2020-12-01,"Age Group","85+","Died",776
+2020-12-01,"Age Group","Unknown","Died",0
+2020-12-01,"Transmission Type","Community Transmission",NA,22063
+2020-12-01,"Transmission Type","Local Transmission",NA,49193
+2020-12-01,"Transmission Type","Travel Abroad",NA,997
+2020-12-01,"Transmission Type","Unknown",NA,792
